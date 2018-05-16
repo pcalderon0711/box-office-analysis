@@ -1,0 +1,265 @@
+adjusted_opening,adjusted_total_gross,budget,close,distributor,genre,movie_title,open,rank,rating,release_date,runtime,studio,total_gross,year,theaters_opening,theaters_gross
+"$202,004,000","$696,331,800",,-,Buena Vista,Action / Adventure,Black Panther,2/16,1,PG-13,"February 16, 2018",2 hrs. 20 min.,BV,"$696,331,818",2018,"4,020","4,084"
+"$257,698,200","$548,090,100",,-,Buena Vista,Action / Adventure,Avengers: Infinity War,4/27,2,PG-13,"April 27, 2018",2 hrs. 36 min.,BV,"$548,090,150",2018,"4,474","4,474"
+"$50,203,600","$169,608,000",$17 million,-,Paramount,Horror Thriller,A Quiet Place,4/6,3,PG-13,"April 6, 2018",1 hrs. 35 min.,Par.,"$169,608,030",2018,"3,508","3,808"
+"$41,764,000","$134,563,600",,-,Warner Bros.,Sci-Fi Action,Ready Player One,3/29,4,PG-13,"March 29, 2018",2 hrs. 20 min.,WB,"$134,563,601",2018,"4,234","4,234"
+"$25,010,900","$114,930,100",$50 million,-,Sony / Columbia,Family,Peter Rabbit,2/9,5,PG,"February 9, 2018",1 hrs. 33 min.,Sony,"$114,930,111",2018,"3,725","3,725"
+"$38,560,200","$100,407,800",$55 million,4/5,Universal,Romance,Fifty Shades Freed,2/9,6,R,"February 9, 2018",1 hrs. 45 min.,Uni.,"$100,407,760",2018,"3,768","3,768"
+"$33,123,600","$96,812,700",,-,Buena Vista,Fantasy,A Wrinkle in Time,3/9,7,PG,"March 9, 2018",1 hrs. 55 min.,BV,"$96,812,656",2018,"3,980","3,980"
+"$35,753,100","$89,827,100",$120 million,-,Warner Bros. (New Line),Action / Adventure,Rampage (2018),4/13,8,PG-13,"April 13, 2018",1 hrs. 47 min.,WB (NL),"$89,827,105",2018,"4,101","4,115"
+"$17,108,900","$82,503,600",$7 million,-,Roadside Attractions,Family,I Can Only Imagine,3/16,9,PG,"March 16, 2018",1 hrs. 50 min.,RAtt.,"$82,503,608",2018,"1,629","2,894"
+"$17,005,300","$68,748,300",$37 million,-,Warner Bros. (New Line),Action Comedy,Game Night,2/23,10,R,"February 23, 2018",1 hrs. 40 min.,WB (NL),"$68,748,295",2018,"3,488","3,502"
+"$29,581,400","$67,347,900",$10 million,3/1,Universal,Horror,Insidious: The Last Key,1/5,11,PG-13,"January 5, 2018",1 hrs. 43 min.,Uni.,"$67,347,895",2018,"3,116","3,150"
+"$28,116,500","$59,163,200",$150 million,-,Universal,Sci-Fi Action,Pacific Rim Uprising,3/23,12,PG-13,"March 23, 2018",1 hrs. 51 min.,Uni.,"$59,163,230",2018,"3,708","3,708"
+"$20,556,300","$58,126,700",$21 million,-,Universal,Comedy,Blockers,4/6,13,R,"April 6, 2018",1 hrs. 42 min.,Uni.,"$58,126,660",2018,"3,379","3,418"
+"$24,167,000","$58,032,400",$62 million,5/3,Fox,Sci-Fi Adventure,Maze Runner: The Death Cure,1/26,14,PG-13,"January 26, 2018",2 hrs. 22 min.,Fox,"$58,032,443",2018,"3,787","3,793"
+"$23,633,300","$57,228,500",$94 million,-,Warner Bros.,Action / Adventure,Tomb Raider,3/16,15,PG-13,"March 16, 2018",1 hrs. 58 min.,WB,"$57,228,498",2018,"3,854","3,854"
+"$16,853,400","$46,781,500",$69 million,-,Fox,Thriller,Red Sparrow,3/2,16,R,"March 2, 2018",2 hrs. 19 min.,Fox,"$46,781,469",2018,"3,056","3,064"
+"$15,815,000","$45,500,100",,3/29,Warner Bros.,War Drama,12 Strong,1/19,17,R,"January 19, 2018",2 hrs. 9 min.,WB,"$45,500,164",2018,"3,002","3,018"
+"$15,206,100","$44,947,600",,3/22,STX Entertainment,Action Thriller,Den of Thieves,1/19,18,R,"January 19, 2018",2 hrs. 20 min.,STX,"$44,947,622",2018,"2,432","2,432"
+"$16,030,200","$43,952,000",$32 million,-,STX Entertainment,Comedy,I Feel Pretty,4/20,19,PG-13,"April 20, 2018",1 hrs. 50 min.,STX,"$43,952,013",2018,"3,440","3,440"
+"$17,170,700","$43,241,900",,-,Lionsgate,Thriller,Tyler Perry's Acrimony,3/30,20,R,"March 30, 2018",2 hrs. 0 min.,LGF,"$43,241,894",2018,"2,006","2,006"
+"$10,604,800","$41,760,200",$59 million,-,Paramount,Animation,Sherlock Gnomes,3/23,21,PG,"March 23, 2018",1 hrs. 26 min.,Par.,"$41,760,161",2018,"3,662","3,662"
+"$11,756,200","$40,697,100",$17 million,-,Fox,Action / Adventure,"Love, Simon",3/16,22,PG-13,"March 16, 2018",1 hrs. 49 min.,Fox,"$40,697,137",2018,"2,402","2,434"
+"$11,002,000","$40,442,100",,3/15,Warner Bros.,Family Adventure,Paddington 2,1/12,23,PG,"January 12, 2018",1 hrs. 43 min.,WB,"$40,442,052",2018,"3,702","3,702"
+"$18,667,900","$39,727,000",$3.5 million,-,Universal,Thriller,Truth or Dare,4/13,24,PG-13,"April 13, 2018",1 hrs. 40 min.,Uni.,"$39,727,000",2018,"3,029","3,068"
+"$13,701,500","$36,343,900",,3/15,Lionsgate,Action,The Commuter,1/12,25,PG-13,"January 12, 2018",1 hrs. 45 min.,LGF,"$36,343,858",2018,"2,892","2,892"
+"$12,554,300","$36,251,000",$30 million,4/12,Warner Bros.,Drama,The 15:17 to Paris,2/9,26,PG-13,"February 9, 2018",1 hrs. 34 min.,WB,"$36,250,957",2018,"3,042","3,042"
+"$13,010,300","$33,977,500",$30 million,-,MGM,Action / Crime,Death Wish (2018),3/2,27,R,"March 2, 2018",1 hrs. 47 min.,MGM,"$33,977,533",2018,"2,847","2,882"
+"$11,071,600","$32,732,300",$40 million,4/19,Paramount,Sci-Fi,Annihilation,2/23,28,R,"February 23, 2018",1 hrs. 55 min.,Par.,"$32,732,301",2018,"2,012","2,112"
+"$1,620,300","$29,951,900",,-,Fox Searchlight,Animation,Isle Of Dogs,3/23,29,PG-13,"March 23, 2018",1 hrs. 41 min.,FoxS,"$29,951,941",2018,27,"1,947"
+"$14,711,100","$29,358,400",,-,Pantelion,Romantic Comedy,Overboard (2018),5/4,30,PG-13,"May 4, 2018",1 hrs. 52 min.,PNT,"$29,358,392",2018,"1,623","2,006"
+"$15,181,600","$27,383,200",$13.5 million,-,Fox,Comedy,Super Troopers 2,4/20,31,R,"April 20, 2018",1 hrs. 40 min.,Fox,"$27,383,171",2018,"2,038","2,125"
+"$9,307,600","$25,091,800",,3/29,Lionsgate,Horror,Winchester,2/2,32,PG-13,"February 2, 2018",1 hrs. 39 min.,LGF,"$25,091,816",2018,"2,480","2,480"
+"$10,402,300","$24,419,800",,-,Aviron,Horror,Strangers: Prey at Night,3/9,33,R,"March 9, 2018",1 hrs. 25 min.,Aviron,"$24,419,775",2018,"2,464","2,464"
+"$9,959,100","$20,877,000",$14 million,3/8,Sony / Screen Gems,Drama,Proud Mary,1/12,34,R,"January 12, 2018",1 hrs. 28 min.,SGem,"$20,877,013",2018,"2,125","2,125"
+"$17,886,100","$17,886,100",,-,Warner Bros. (New Line),Comedy,Life of the Party,5/11,35,PG-13,"May 11, 2018",1 hrs. 45 min.,WB (NL),"$17,886,075",2018,"3,656","3,656"
+"$17,630,300","$17,630,300",$6 million,-,Universal,Thriller,Breaking In (2018),5/11,36,PG-13,"May 11, 2018",1 hrs. 28 min.,Uni.,"$17,630,285",2018,"2,537","2,537"
+"$5,172,600","$17,499,900",$5 million,-,Sony / Columbia,Drama,"Paul, Apostle of Christ",3/23,37,PG-13,"March 23, 2018",1 hrs. 47 min.,Sony,"$17,499,876",2018,"1,473","1,473"
+"$5,765,900","$16,968,100",,-,Entertainment Studios,Thriller,Chappaquiddick,4/6,38,PG-13,"April 6, 2018",1 hrs. 41 min.,ENTMP,"$16,968,137",2018,"1,560","1,645"
+"$4,245,600","$16,376,000",$3.5 million,5/10,Roadside Attractions,Romance,Forever My Girl,1/19,39,PG,"January 19, 2018",1 hrs. 44 min.,RAtt.,"$16,376,066",2018,"1,114","1,427"
+"$4,493,400","$11,846,100",,2/25,Viva Pictures Distribution,Drama,Padmaavat,1/25,40,Unrated,"January 25, 2018",2 hrs. 44 min.,VPD,"$11,846,060",2018,326,354
+"$3,950,700","$9,927,800",,-,Mirror/LD,Drama,The Miracle Season,4/6,41,PG,"April 6, 2018",1 hrs. 39 min.,Mirr/LD,"$9,927,843",2018,"1,707","1,707"
+"$4,004,000","$9,561,100",,-,Global Road,Romance,Midnight Sun,3/23,42,PG-13,"March 23, 2018",1 hrs. 31 min.,Global Road,"$9,561,064",2018,"2,173","2,173"
+"$3,941,300","$8,910,800",,-,Lionsgate,Thriller,Traffik,4/20,43,R,"April 20, 2018",1 hrs. 36 min.,LGF,"$8,910,787",2018,"1,046","1,046"
+"$3,190,500","$8,267,500",,3/29,Lionsgate,Animation,Early Man,2/16,44,PG,"February 16, 2018",1 hrs. 29 min.,LGF,"$8,267,544",2018,"2,494","2,494"
+"$3,762,100","$7,732,900",,4/12,Bleecker Street,Thriller,Unsane,3/23,45,R,"March 23, 2018",1 hrs. 38 min.,BST,"$7,732,899",2018,"2,023","2,023"
+"$184,800","$7,695,300",,-,IFC,Comedy / Drama,The Death of Stalin,3/9,46,R,"March 9, 2018",1 hrs. 46 min.,IFC,"$7,695,306",2018,4,548
+"$3,282,600","$6,992,000",,-,Focus Features,Comedy,Tully (2018),5/4,47,R,"May 4, 2018",1 hrs. 36 min.,Focus,"$6,992,005",2018,"1,353","1,356"
+"$3,024,400","$6,115,800",$35 million,-,Entertainment Studios,Action Thriller,The Hurricane Heist,3/9,48,PG-13,"March 9, 2018",1 hrs. 43 min.,ENTMP,"$6,115,825",2018,"2,402","2,402"
+"$3,016,100","$6,102,100",$4.9 million,3/22,Orion Pictures,Drama,Every Day (2018),2/23,49,PG-13,"February 23, 2018",1 hrs. 35 min.,Orion,"$6,102,076",2018,"1,667","1,669"
+"$2,689,700","$5,673,900",,-,Pure Flix,Drama,God's Not Dead: A Light in Darkness,3/30,50,PG,"March 30, 2018",1 hrs. 46 min.,PFR,"$5,673,883",2018,"1,693","1,693"
+"$2,722,400","$4,969,800",,4/5,STX Entertainment,Comedy,Gringo,3/9,51,R,"March 9, 2018",1 hrs. 50 min.,STX,"$4,969,853",2018,"2,404","2,404"
+"$1,734,500","$4,901,800",,-,Bleecker Street,War Drama,Beirut,4/11,52,R,"April 11, 2018",1 hrs. 49 min.,BST,"$4,901,769",2018,755,755
+"$1,942,600","$4,719,900",,4/12,Pure Flix,Drama,Samson,2/16,53,PG-13,"February 16, 2018",1 hrs. 50 min.,PFR,"$4,719,928",2018,"1,249","1,249"
+"$695,000","$3,508,800",,3/22,Shorts International,Drama,The Oscar Nominated Short Films 2018,2/9,54,Unrated,"February 9, 2018",,Shrts.,"$3,508,777",2018,198,272
+"$1,592,600","$3,207,100",,4/29,Focus Features,Action Thriller,7 Days in Entebbe,3/16,55,PG-13,"March 16, 2018",1 hrs. 47 min.,Focus,"$3,207,137",2018,838,838
+"$1,726,900","$3,088,500",,-,Electric Entertainment,Horror Thriller,Bad Samaritan,5/4,56,R,"May 4, 2018",1 hrs. 48 min.,Electric,"$3,088,522",2018,"2,007","2,007"
+"$1,164,400","$2,933,100",,-,Fun Academy,Animation,Sgt. Stubby: An American Hero,4/13,57,PG,"April 13, 2018",1 hrs. 30 min.,FunAcad,"$2,933,071 (Estimate)",2018,"1,633","1,633"
+"$1,224,400","$2,830,800",,3/29,Focus Features,Drama / Thriller,Thoroughbreds,3/9,58,R,"March 9, 2018",1 hrs. 32 min.,Focus,"$2,830,775",2018,549,564
+"$1,147,100","$2,783,700",,3/15,Pantelion,Romantic Comedy,La Boda de Valentina,2/9,59,R,"February 9, 2018",1 hrs. 47 min.,PNT,"$2,783,739",2018,331,331
+"$2,663,100","$2,657,300",,-,Great India Films,Action Drama,Bharat Ane Nenu,4/20,60,Unrated,"April 20, 2018",2 hrs. 53 min.,GrtIndia,"$2,663,090",2018,305,305
+"$348,500","$2,418,400",,4/5,GKIDS,Animation,Mary and the Witch's Flower,1/18,61,PG,"January 18, 2018",1 hrs. 42 min.,GK,"$2,418,404",2018,161,573
+"$132,800","$2,360,400",,-,Amazon Studios,Drama / Thriller,You Were Never Really Here,4/6,62,R,"April 6, 2018",1 hrs. 25 min.,Amazon,"$2,360,394",2018,3,233
+"$577,200","$2,026,000",,-,Magnolia,Documentary,RBG,5/4,63,Unrated,"May 4, 2018",1 hrs. 37 min.,Magn.,"$2,025,954",2018,34,179
+"$64,200","$2,019,600",,-,Sony Classics,Drama,A Fantastic Woman,2/2,64,R,"February 2, 2018",1 hrs. 44 min.,SPC,"$2,019,554",2018,5,190
+"$2,000,000","$1,995,600",,-,Fathom,Musical,Met Opera: Tosca,1/27,65,Unrated,"January 27, 2018",3 hrs. 30 min.,Fathom,"$2,000,000",2018,900,900
+"$704,000","$1,984,000",,4/5,Warner Bros.,Action Comedy,Detective Chinatown 2,2/16,66,R,"February 16, 2018",2 hrs. 0 min.,WB,"$1,983,984",2018,115,115
+"$1,875,000","$1,875,000",,-,Fathom,Musical,Met Opera: La Bohème (2018),2/24,67,Unrated,"February 24, 2018",3 hrs. 20 min.,Fathom,"$1,875,000 (Estimate)",2018,900,900
+"$740,300","$1,670,200",,3/8,Sony / Columbia,Drama,Pad Man,2/9,68,PG-13,"February 9, 2018",2 hrs. 20 min.,Sony,"$1,670,192",2018,152,152
+"$436,100","$1,543,500",,4/19,Well Go USA,Action,Operation Red Sea,2/23,69,Unrated,"February 23, 2018",2 hrs. 21 min.,WGUSA,"$1,543,547",2018,45,55
+"$60,100","$1,336,600",,-,Roadside Attractions,Comedy,Finding Your Feet,3/30,70,PG-13,"March 30, 2018",1 hrs. 51 min.,RAtt.,"$1,336,592",2018,14,277
+"$650,700","$1,319,600",,4/19,FIP,Action,Baaghi 2,3/30,71,Unrated,"March 30, 2018",2 hrs. 17 min.,FIP,"$1,319,579",2018,123,123
+"$1,300,000","$1,300,000",,4/28,Fathom,Musical,Met Opera: Cendrillon,4/28,72,Unrated,"April 28, 2018",3 hrs. 15 min.,Fathom,"$1,300,000 (Estimate)",2018,900,900
+"$1,200,000","$1,197,400",,-,Fathom,Musical,Met Opera: Semiramide,3/10,73,Unrated,"March 10, 2018",3 hrs. 29 min.,Fathom,"$1,200,000",2018,900,900
+"$237,400","$1,189,100",,-,Bleecker Street,Drama,Disobedience,4/27,74,R,"April 27, 2018",1 hrs. 54 min.,BST,"$1,189,096",2018,5,100
+"$1,170,000","$1,167,500",,-,Fathom,Musical,Met Opera: L'Elisir d'Amore (2018),2/10,75,Unrated,"February 10, 2018",3 hrs. 0 min.,Fathom,"$1,170,000 (Estimate)",2018,900,900
+"$158,900","$1,157,700",,-,Warner Bros.,Documentary,Pandas,4/6,76,G,"April 6, 2018",0 hrs. 40 min.,WB,"$1,157,694",2018,33,35
+"$47,000","$1,062,200",,-,A24,Adventure,Lean on Pete,4/6,77,R,"April 6, 2018",2 hrs. 1 min.,A24,"$1,062,165",2018,4,187
+"$558,900","$1,028,400",,5/3,Fathom,Fantasy,Labyrinth (2018 Fathom Event),4/29,78,PG,"April 29, 2018",1 hrs. 41 min.,Fathom,"$1,028,445Domestic Lifetime Gross: $13,758,362",2018,646,646
+"$423,800","$1,010,400",,4/1,Eros,Action / Crime,Raid (2018),3/16,79,Unrated,"March 16, 2018",2 hrs. 0 min.,Eros,"$1,010,385",2018,79,79
+"$24,600","$1,001,300",,4/19,Cohen Media Group,Foreign,The Insult,1/12,80,R,"January 12, 2018",1 hrs. 53 min.,Cohen,"$1,001,305",2018,3,54
+"$483,700","$985,000",,-,Sony / Columbia,Comedy,102 Not Out,5/4,81,PG,"May 4, 2018",1 hrs. 42 min.,Sony,"$984,993",2018,102,102
+"$42,200","$847,700",,-,Sony Classics,Drama,The Rider,4/13,82,R,"April 13, 2018",1 hrs. 44 min.,SPC,"$847,749",2018,3,85
+,"$843,900",,-,Fathom,Drama,Like Arrows,5/1,83,Unrated,"May 1, 2018",1 hrs. 40 min.,Fathom,"$843,885",2018,,784
+,"$834,200",,3/1,Fathom,Documentary,Kirk Cameron: Connect,2/27,84,Unrated,"February 27, 2018",1 hrs. 10 min.,Fathom,"$836,020",2018,,765
+"$562,000","$780,500",,3/1,Fathom,Fantasy,The Dark Crystal (special re-release),2/25,85,PG,"February 25, 2018",1 hrs. 40 min.,Fathom,"$780,491Domestic Lifetime Gross: $41,357,492",2018,618,618
+"$37,400","$749,800",,5/10,Roadside Attractions,Comedy,The Party (2017),2/16,86,R,"February 16, 2018",1 hrs. 11 min.,RAtt.,"$749,827",2018,3,92
+"$341,800","$706,200",,3/8,Lionsgate,Fantasy,Monster Hunt 2,2/16,87,Unrated,"February 16, 2018",1 hrs. 50 min.,LGF,"$706,153",2018,69,69
+"$679,500","$679,500",,-,Swen,Drama,Nothing to Lose (2018),5/11,88,PG,"May 11, 2018",2 hrs. 15 min.,Swen,"$679,531",2018,69,69
+"$31,600","$606,400",,-,Sony Classics,Drama,Foxtrot,3/2,89,R,"March 2, 2018",1 hrs. 48 min.,SPC,"$606,361",2018,4,45
+"$30,200","$566,300",,-,Sony Classics,Drama,Loveless (2018),2/16,90,R,"February 16, 2018",2 hrs. 7 min.,SPC,"$566,356",2018,3,59
+"$310,000","$491,000",,3/1,Vertical Entertainment,Animation,Bilal: A New Breed of Hero,2/2,91,PG-13,"February 2, 2018",1 hrs. 49 min.,VE,"$490,973",2018,300,300
+"$14,400","$482,800",,-,Greenwich,Documentary,Itzhak,3/9,92,Unrated,"March 9, 2018",1 hrs. 23 min.,Greenwich,"$482,751 (Estimate)",2018,2,35
+"$248,500","$446,800",,2/1,Lionsgate,Animation,Condorito: La Pelicula,1/12,93,PG,"January 12, 2018",1 hrs. 28 min.,LGF,"$447,719",2018,153,153
+"$25,500","$443,200",,-,Sony Classics,Comedy / Drama,Final Portrait,3/23,94,R,"March 23, 2018",1 hrs. 30 min.,SPC,"$443,225",2018,3,100
+"$24,800","$373,300",,-,Magnolia,Documentary,Leaning Into The Wind,3/9,95,PG,"March 9, 2018",1 hrs. 33 min.,Magn.,"$373,283",2018,5,39
+"$14,600","$357,900",,-,Film Movement,Comedy / Drama,Oh Lucy!,3/2,96,Unrated,"March 2, 2018",1 hrs. 35 min.,FM,"$357,838",2018,3,41
+"$330,300","$330,300",,3/25,Yash Raj,Drama,Hichki,3/23,97,Unrated,"March 23, 2018",1 hrs. 46 min.,Yash,"$330,279",2018,73,73
+"$48,900","$327,600",,-,The Orchard,Comedy / Drama,Flower,3/16,98,R,"March 16, 2018",1 hrs. 33 min.,Orch.,"$327,628",2018,3,101
+"$99,500","$284,900",,-,Indican,Horror Thriller,But Deliver Us from Evil,2/9,99,Unrated,"February 9, 2018",1 hrs. 49 min.,Indic.,"$284,900",2018,247,247
+"$56,200","$284,300",,-,Kino Lorber,Documentary,Grace Jones: Bloodlight and Bami,4/13,100,Unrated,"April 13, 2018",1 hrs. 55 min.,KL,"$284,324",2018,3,30
+"$154,200","$258,800",,-,The Orchard,Crime Drama,Kings (2018),4/27,101,R,"April 27, 2018",1 hrs. 37 min.,Orch.,"$274,015",2018,215,215
+"$13,600","$251,600",,-,Gaumont British Picture Corporation,Drama,Bag of Marbles,3/23,102,Unrated,"March 23, 2018",1 hrs. 50 min.,Gaum.,"$266,391",2018,4,16
+"$37,500","$245,500",,-,IFC,Comedy / Drama,Let the Sunshine In,4/27,103,Unrated,"April 27, 2018",1 hrs. 34 min.,IFC,"$260,012",2018,2,34
+"$14,300","$223,600",,-,Music Box Films,Comedy / Drama,Back to Burgundy,3/23,104,Unrated,"March 23, 2018",1 hrs. 53 min.,MBox,"$236,771",2018,5,18
+"$49,700","$216,000",,-,Neon,Drama,Borg vs. McEnroe,4/13,105,R,"April 13, 2018",1 hrs. 47 min.,Neon,"$228,766",2018,51,51
+"$8,600","$201,500",,-,Well Go USA,Sci-Fi Thriller,The Endless,4/6,106,Unrated,"April 6, 2018",1 hrs. 52 min.,WGUSA,"$213,416",2018,1,20
+"$98,100","$196,900",,-,Hannover House,Comedy / Drama,Getting Grace,3/23,107,PG-13,"March 23, 2018",1 hrs. 52 min.,Hann.,"$208,531",2018,60,60
+"$58,800","$196,800",,4/1,China Lion,Comedy,Agent Mr. Chan,2/23,108,Unrated,"February 23, 2018",1 hrs. 41 min.,CL,"$208,351",2018,10,10
+"$31,100","$189,200",,4/22,Neon,Thriller,Gemini,3/30,109,R,"March 30, 2018",1 hrs. 33 min.,Neon,"$200,340",2018,4,56
+"$64,200","$181,200",,3/1,Magnolia,Documentary,The Final Year,1/19,110,Unrated,"January 19, 2018",1 hrs. 29 min.,Magn.,"$191,900",2018,35,39
+"$90,300","$176,700",,3/8,Well Go USA,Action / Adventure,The Monkey King 3,2/16,111,Unrated,"February 16, 2018",1 hrs. 54 min.,WGUSA,"$187,074",2018,34,34
+"$74,800","$175,400",,2/1,Well Go USA,Comedy,Goldbuster,1/5,112,Unrated,"January 5, 2018",1 hrs. 29 min.,WGUSA,"$186,135",2018,24,24
+"$11,800","$160,400",,-,Kino Lorber,Romantic Comedy,Keep the Change,3/16,113,Unrated,"March 16, 2018",1 hrs. 33 min.,KL,"$169,824",2018,1,13
+"$59,500","$158,200",,4/19,Cohen Media Group,Drama,Double Lover,2/14,114,Not Yet Rated,"February 14, 2018",1 hrs. 47 min.,Cohen,"$167,581",2018,50,51
+"$11,100","$152,800",,-,Good Deed,War Drama,Journey's End,3/16,115,R,"March 16, 2018",1 hrs. 47 min.,Good Deed,"$161,796",2018,2,185
+"$64,700","$151,100",,-,Dada Films,Drama,Little Pink House,4/20,116,Unrated,"April 20, 2018",1 hrs. 38 min.,Da.,"$159,990",2018,9,13
+"$24,700","$144,700",,-,Strand,Drama,Zama,4/13,117,Unrated,"April 13, 2018",1 hrs. 55 min.,Strand,"$153,260",2018,3,19
+"$2,500","$143,200",,-,Gathr Films,Documentary,Suicide: The Ripple Effect,2/23,118,Unrated,"February 23, 2018",1 hrs. 33 min.,Gathr,"$151,697",2018,1,21
+,"$138,100",,-,Viva Pictures Distribution,Animation,The Son of Bigfoot,3/30,119,PG,"March 30, 2018",1 hrs. 32 min.,VPD,"$146,279",2018,,20
+$500,"$120,200",,-,Viva Pictures Distribution,Animation,Monster Family,2/9,120,PG,"February 9, 2018",1 hrs. 36 min.,VPD,"$127,259",2018,10,15
+"$24,600","$118,500",,-,The Orchard,Drama,The Young Karl Marx,2/23,121,Unrated,"February 23, 2018",1 hrs. 58 min.,Orch.,"$125,448",2018,3,15
+"$54,500","$111,800",,2/22,China Lion,Adventure,Till the End of the World,2/2,122,Unrated,"February 2, 2018",1 hrs. 57 min.,CL,"$118,660",2018,27,27
+"$11,300","$111,800",,-,IFC,Horror,Ghost Stories,4/20,123,Unrated,"April 20, 2018",1 hrs. 38 min.,IFC,"$118,385",2018,1,24
+,"$108,800",,1/29,Fathom,Documentary,'85: The Greatest Team in Football History,1/29,124,Unrated,"January 29, 2018",1 hrs. 30 min.,Fathom,"$115,463",2018,,199
+"$15,100","$108,200",,3/8,Bleecker Street,Drama,Nostalgia,2/16,125,R,"February 16, 2018",1 hrs. 54 min.,BST,"$114,603",2018,3,140
+"$18,000","$105,000",,-,Well Go USA,Horror,Gonjiam: Haunted Asylum,4/13,126,Unrated,"April 13, 2018",1 hrs. 33 min.,WGUSA,"$111,174",2018,2,7
+"$10,700","$104,500",,-,IFC,Drama,Love After Love,3/30,127,Unrated,"March 30, 2018",1 hrs. 31 min.,IFC,"$110,673",2018,1,29
+"$5,600","$102,000",,-,Film Movement,Drama,In Between,1/5,128,Unrated,"January 5, 2018",1 hrs. 36 min.,FM,"$107,977",2018,2,8
+"$28,600","$98,200",,3/15,Well Go USA,Crime Comedy,Detective K: Secret of the Living Dead,2/16,129,Unrated,"February 16, 2018",2 hrs. 0 min.,WGUSA,"$104,013",2018,9,9
+"$18,100","$95,400",,-,Magnolia,Drama / Thriller,Ismael's Ghosts,3/23,130,R,"March 23, 2018",0 hrs. 35 min.,Magn.,"$101,068",2018,2,17
+,"$89,200",,3/15,CJ Entertainment,Action Thriller,Golden Slumber,2/16,131,Unrated,"February 16, 2018",1 hrs. 48 min.,CJ,"$94,450",2018,,13
+"$8,400","$80,800",,-,Samuel Goldwyn,Adventure,Sweet Country (2018),4/6,132,R,"April 6, 2018",1 hrs. 53 min.,Gold.,"$85,556",2018,2,24
+"$1,200","$77,400",,4/19,Lightyear Entertainment,Crime Thriller,Goldstone,3/2,133,R,"March 2, 2018",1 hrs. 50 min.,Lightyear,"$81,941",2018,1,19
+"$9,900","$75,000",,4/19,Strand,Animation,Have a Nice Day,1/26,134,Unrated,"January 26, 2018",1 hrs. 17 min.,Strand,"$79,393",2018,1,15
+"$74,600","$74,600",,-,Sony Classics,Drama,The Seagull,5/11,135,PG-13,"May 11, 2018",1 hrs. 38 min.,SPC,"$79,016",2018,6,6
+"$19,000","$74,500",,3/29,CJ Entertainment,Romantic Comedy,The Princess and the Matchmaker,3/9,136,Unrated,"March 9, 2018",1 hrs. 50 min.,CJ,"$78,900",2018,3,6
+"$45,100","$71,500",,1/25,Eros,Sports Action,Mukkabaaz,1/12,137,Unrated,"January 12, 2018",2 hrs. 34 min.,Eros,"$75,929",2018,19,19
+"$9,300","$71,000",,3/8,CJ Entertainment,Comedy / Drama,Keys to the Heart,1/26,138,Unrated,"January 26, 2018",2 hrs. 0 min.,CJ,"$75,134",2018,2,2
+"$4,700","$70,600",,-,Kino Lorber,Animation,Tehran Taboo,2/14,139,Unrated,"February 14, 2018",1 hrs. 36 min.,KL,"$74,758",2018,1,9
+"$26,000","$69,500",,4/8,Outsider Films,Drama,The Last Suit,3/23,140,Unrated,"March 23, 2018",1 hrs. 32 min.,OutF,"$73,548",2018,6,6
+"$10,800","$68,400",,-,Cinema Guild,Comedy / Drama,Claire's Camera,3/9,141,Unrated,"March 9, 2018",1 hrs. 9 min.,CGld,"$72,419",2018,1,5
+"$37,400","$66,700",,1/18,China Lion,Drama,Namiya,1/5,142,Unrated,"January 5, 2018",1 hrs. 56 min.,CL,"$70,814",2018,21,21
+"$32,500","$65,400",,2/8,Atlas Distribution,Action Comedy,Parchi,1/12,143,Unrated,"January 12, 2018",2 hrs. 17 min.,ADC,"$69,431",2018,39,39
+"$10,400","$65,200",,-,Cohen Media Group,Comedy / Drama,Godard Mon Amour,4/20,144,R,"April 20, 2018",1 hrs. 47 min.,Cohen,"$69,025",2018,4,20
+"$13,300","$64,900",,-,The Orchard,Drama,Outside In,3/30,145,Unrated,"March 30, 2018",1 hrs. 49 min.,Orch.,"$68,697",2018,9,16
+,"$61,700",,-,Passion River,Documentary,After Auschwitz,4/14,146,Unrated,"April 14, 2018",1 hrs. 23 min.,Passion Rive,"$65,385",2018,,13
+"$8,600","$59,300",,-,Kino Lorber,Documentary,Beuys,1/17,147,Unrated,"January 17, 2018",1 hrs. 47 min.,KL,"$62,851",2018,2,6
+"$57,400","$57,400",,-,GKIDS,Animation,Lu Over the Wall,5/11,148,PG,"May 11, 2018",1 hrs. 52 min.,GK,"$60,770",2018,97,97
+"$19,600","$57,200",,-,Indican,Action,Wastelander,1/12,149,Unrated,"January 12, 2018",1 hrs. 30 min.,Indic.,"$60,565",2018,22,22
+"$6,600","$56,400",,-,Great Point,Drama,Where is Kyra?,4/6,150,R,"April 6, 2018",1 hrs. 38 min.,Great Point,"$59,717",2018,1,33
+"$29,300","$56,000",,4/8,Gravitas Ventures,Action / Crime,Bomb City,2/9,151,Unrated,"February 9, 2018",1 hrs. 35 min.,Grav.,"$59,329",2018,17,17
+"$6,700","$54,100",,-,FilmBuff,Documentary,Ramen Heads,3/16,152,Unrated,"March 16, 2018",1 hrs. 33 min.,FB,"$57,345",2018,2,6
+"$11,100","$53,300",,2/22,Under the Milky Way,Drama,Django,1/5,153,Unrated,"January 5, 2018",1 hrs. 57 min.,UTMW,"$56,556",2018,4,7
+"$50,300","$50,300",,-,Roadside Attractions,Thriller,Beast,5/11,154,R,"May 11, 2018",1 hrs. 47 min.,RAtt.,"$53,248",2018,4,4
+"$7,900","$49,200",,3/15,Super,Sci-Fi Thriller,Before We Vanish,2/2,155,Unrated,"February 2, 2018",2 hrs. 9 min.,Super,"$52,087",2018,2,42
+"$24,400","$45,900",,4/19,Magnolia,Documentary,The China Hustle,3/30,156,R,"March 30, 2018",1 hrs. 24 min.,Magn.,"$48,650",2018,20,20
+"$43,400","$43,400",,-,Neon,Thriller,Revenge (2018),5/11,157,R,"May 11, 2018",1 hrs. 48 min.,Neon,"$45,924",2018,36,36
+"$7,900","$41,800",,-,Abramorama,Documentary,Summer in the Forest,3/23,158,Unrated,"March 23, 2018",1 hrs. 48 min.,Abr.,"$44,242",2018,1,6
+"$15,000","$40,400",,2/25,Zealous Productions,Crime Drama,First We Take Brooklyn,2/9,159,Unrated,"February 9, 2018",1 hrs. 31 min.,ZP,"$42,812",2018,5,5
+"$11,100","$39,600",,3/4,Vertical Entertainment,Drama,Golden Exits,2/9,160,R,"February 9, 2018",1 hrs. 34 min.,VE,"$41,888",2018,1,11
+"$3,200","$37,900",,3/8,Shout! Factory,Comedy,Humor Me,1/12,161,Unrated,"January 12, 2018",1 hrs. 33 min.,Shout!,"$40,099",2018,1,5
+,"$37,800",,3/22,Great Point,Drama,Submission,3/2,162,Unrated,"March 2, 2018",1 hrs. 46 min.,Great Point,"$39,985",2018,,39
+,"$37,100",,-,"Darin Southam Endeavor, Inc.",Action,Reign of Judges: Title of Liberty - Concept Short,3/15,163,Unrated,"March 15, 2018",0 hrs. 14 min.,Darin Southa,"$39,262",2018,,1
+"$8,300","$36,400",,-,Film Movement,Western,The Great Silence (2018 re-release),3/30,164,Unrated,"March 30, 2018",1 hrs. 45 min.,FM,"$38,572",2018,1,6
+,"$35,400",,-,Paladin,Comedy / Drama,Krystal,4/13,165,R,"April 13, 2018",1 hrs. 30 min.,Pala.,"$37,516",2018,,86
+"$14,200","$35,000",,3/22,Well Go USA,Comedy,Girls vs Gangsters,3/9,166,Unrated,"March 9, 2018",2 hrs. 18 min.,WGUSA,"$37,115",2018,4,4
+"$6,300","$35,000",,-,Cinema Guild,Drama,Western,2/16,167,Unrated,"February 16, 2018",2 hrs. 0 min.,CGld,"$37,086",2018,1,7
+"$5,300","$34,600",,4/5,GKIDS,Animation,Mind Game (2017 re-release),2/16,168,Unrated,"February 16, 2018",1 hrs. 43 min.,GK,"$36,613",2018,7,7
+"$16,200","$33,700",,2/15,Oscilloscope Pictures,Documentary,The Road Movie,1/19,169,Unrated,"January 19, 2018",1 hrs. 7 min.,Osci.,"$35,757",2018,19,19
+"$4,600","$33,100",,-,Film Movement,Comedy,Bye Bye Germany,4/13,170,Unrated,"April 13, 2018",1 hrs. 42 min.,FM,"$35,106",2018,2,6
+"$7,600","$32,600",,3/22,Janus Films,Foreign,24 Frames,2/2,171,Unrated,"February 2, 2018",1 hrs. 54 min.,Jan.,"$34,482",2018,1,2
+"$8,200","$31,700",,-,Kino Lorber,Documentary,Hitler's Hollywood,4/11,172,Unrated,"April 11, 2018",1 hrs. 45 min.,KL,"$33,564",2018,1,3
+"$5,900","$31,400",,4/15,Gravitas Ventures,Documentary,The Gardener,3/30,173,Unrated,"March 30, 2018",1 hrs. 24 min.,Grav.,"$33,284",2018,1,1
+"$6,000","$29,200",,2/15,IFC,Drama,A Ciambra,1/19,174,Unrated,"January 19, 2018",1 hrs. 58 min.,IFC,"$30,988",2018,1,6
+"$7,800","$27,900",,2/15,Janus Films,Drama,Memories of Underdevelopment (2017 re-release),1/12,175,Unrated,"January 12, 2018",1 hrs. 37 min.,Jan.,"$29,647",2018,1,1
+"$6,100","$27,300",,-,Rialto,Drama,Le Corbeau (2018 re-issue),4/20,176,Unrated,"April 20, 2018",1 hrs. 33 min.,Rialto,"$28,885",2018,1,1
+"$3,800","$27,200",,-,,,The Heart of Nuba,4/6,177,,,,Abr.,,2018,1,4
+,"$25,200",,-,Gathr Films,Documentary,PGS Intuition,1/16,178,Unrated,"January 16, 2018",1 hrs. 23 min.,Gathr,"$26,661",2018,,4
+"$6,100","$24,900",,4/19,Janus Films,Drama,Belle de jour (2018 re-release),3/23,179,R,"March 23, 2018",1 hrs. 40 min.,Jan.,"$26,331",2018,1,3
+"$7,600","$24,600",,3/1,Indican,Crime Thriller,Ridge Runners,1/19,180,Unrated,"January 19, 2018",1 hrs. 21 min.,Indic.,"$26,019",2018,7,7
+"$12,900","$22,900",,4/19,CJ Entertainment,Action Drama,Seven Years of Night,4/6,181,Unrated,"April 6, 2018",2 hrs. 3 min.,CJ,"$24,281",2018,4,4
+"$3,300","$22,500",,4/19,Music Box Films,Drama,Vazante,1/12,182,Unrated,"January 12, 2018",1 hrs. 56 min.,MBox,"$23,884",2018,1,6
+"$6,700","$21,700",,-,Rialto,Crime Drama,Quai des Orfevres (2018 Re-issue),4/13,183,Unrated,"April 13, 2018",1 hrs. 46 min.,Rialto,"$22,998Domestic Lifetime Gross: $175,959",2018,1,1
+"$21,500","$21,500",,-,Magnolia,Documentary,Boom for Real: The Late Teenage Years of Jean-Michel Basquiat,5/11,184,Unrated,"May 11, 2018",1 hrs. 18 min.,Magn.,"$22,717",2018,2,2
+"$2,400","$21,300",,-,Super,Crime Drama,Racer & the Jailbird,5/4,185,R,"May 4, 2018",2 hrs. 10 min.,Super,"$22,563",2018,2,48
+"$9,600","$20,800",,-,Hannover House,Horror,Death House,3/2,186,R,"March 2, 2018",1 hrs. 33 min.,Hann.,"$21,986",2018,1,7
+,"$20,600",,2/28,Fathom,Horror,Primal Rage: The Bigfoot Reborn,2/27,187,R,"February 27, 2018",1 hrs. 46 min.,Fathom,"$21,903",2018,,122
+"$2,700","$19,500",,-,Strand,Drama,The Workshop,3/23,188,Not Yet Rated,"March 23, 2018",1 hrs. 53 min.,Strand,"$20,624",2018,1,8
+"$7,100","$19,300",,-,Music Box Films,Drama,The Guardians,5/4,189,R,"May 4, 2018",2 hrs. 18 min.,MBox,"$20,428",2018,1,3
+"$4,600","$19,100",,3/15,IFC,Horror,The Cured,2/23,190,R,"February 23, 2018",1 hrs. 35 min.,IFC,"$20,261",2018,3,29
+"$5,600","$18,900",,4/1,Janus Films,Foreign,Eight Hours Don't Make a Day (2018 re-release),3/16,191,Unrated,"March 16, 2018",7 hrs. 56 min.,Jan.,"$19,987",2018,1,1
+"$6,500","$18,100",,2/22,IFC,Comedy,The Female Brain,2/9,192,Unrated,"February 9, 2018",1 hrs. 38 min.,IFC,"$19,225",2018,2,26
+"$3,200","$18,000",,4/5,Oscilloscope Pictures,Drama,November (2018),2/23,193,Unrated,"February 23, 2018",1 hrs. 55 min.,Osci.,"$19,084",2018,1,8
+"$5,300","$17,900",,4/22,Icarus Films,Documentary,In the Intense Now,1/31,194,Unrated,"January 31, 2018",2 hrs. 7 min.,Icar.,"$19,018",2018,1,1
+"$7,400","$17,800",,-,The Orchard,Documentary,The Devil and Father Amorth,4/20,195,Unrated,"April 20, 2018",1 hrs. 8 min.,Orch.,"$18,802",2018,8,8
+"$10,700","$17,500",,3/11,Parade Deck Films,Thriller,Desolation,1/26,196,Unrated,"January 26, 2018",1 hrs. 29 min.,PDF,"$18,490",2018,2,3
+"$4,500","$17,200",,2/8,IFC,Comedy / Drama,Freak Show,1/12,197,Unrated,"January 12, 2018",1 hrs. 35 min.,IFC,"$18,216",2018,1,9
+"$3,300","$16,700",,4/12,Cohen Media Group,Comedy / Drama,King of Hearts (2018 re-release),2/23,198,Unrated,"February 23, 2018",1 hrs. 42 min.,Cohen,"$17,646",2018,1,4
+"$16,600","$16,600",,-,Parade Deck Films,Crime,Goodland,5/11,199,Unrated,"May 11, 2018",1 hrs. 24 min.,PDF,"$17,621",2018,2,2
+,"$16,600",,-,Gathr Films,Drama,Kuleana,4/13,200,PG-13,"April 13, 2018",1 hrs. 35 min.,Gathr,"$17,603",2018,,6
+"$3,700","$16,500",,-,Indican,Sci-Fi,Apocalypsis,3/2,201,Unrated,"March 2, 2018",1 hrs. 30 min.,Indic.,"$17,458",2018,1,2
+"$16,100","$16,100",,-,Well Go USA,Sports Drama,Champion (2018),5/11,202,Unrated,"May 11, 2018",1 hrs. 48 min.,WGUSA,"$17,095",2018,2,2
+,"$16,000",,-,Gathr Films,Documentary,Mantra: Sounds into Silence,4/20,203,Unrated,"April 20, 2018",1 hrs. 25 min.,Gathr,"$16,921",2018,,9
+"$7,500","$15,900",,-,Kino Lorber,Documentary,Filmworker,5/11,204,Unrated,"May 11, 2018",1 hrs. 34 min.,KL,"$16,857",2018,1,1
+"$4,800","$15,200",,-,Janus Films,Drama,Cold Water (2018 re-release),4/27,205,Unrated,"April 27, 2018",1 hrs. 32 min.,Jan.,"$16,123",2018,1,1
+"$4,400","$14,700",,3/29,Rialto,Crime Drama,Bob Le Flambeur (2017 re-release),1/5,206,Unrated,"January 5, 2018",1 hrs. 40 min.,Rialto,"$15,586",2018,1,2
+"$7,300","$14,700",,-,Indican,Comedy,The Happys,3/16,207,Unrated,"March 16, 2018",1 hrs. 27 min.,Indic.,"$15,528",2018,2,2
+,"$14,600",,-,Idle Wild Films,Documentary,The Judge (2018),4/13,208,Unrated,"April 13, 2018",1 hrs. 22 min.,IWF,"$15,501",2018,,3
+"$3,600","$13,600",,4/19,A24,Drama,The Last Movie Star,3/30,209,R,"March 30, 2018",1 hrs. 34 min.,A24,"$14,410",2018,2,5
+"$5,700","$12,900",,3/1,FilmRise,Romantic Comedy,The Boy Downstairs,2/16,210,Unrated,"February 16, 2018",1 hrs. 30 min.,FR,"$13,638",2018,1,1
+"$7,500","$12,600",,4/1,China Lion,Comedy / Drama,Shed Skin Papa,3/23,211,Unrated,"March 23, 2018",1 hrs. 40 min.,CL,"$13,331",2018,8,8
+"$2,500","$12,200",,-,CARUSEL,Crime Drama,How Victor 'The Garlic' Took Alexey 'The Stud' to the Nursing Home,3/23,212,Unrated,"March 23, 2018",1 hrs. 30 min.,CARUSEL,"$12,954",2018,8,8
+"$4,800","$12,200",,2/15,Kino Lorber,Horror Thriller,Like Me,1/26,213,Unrated,"January 26, 2018",1 hrs. 20 min.,KL,"$12,965",2018,3,4
+"$1,500","$12,200",,-,Music Box Films,Documentary,Our Blood is Wine,3/9,214,Unrated,"March 9, 2018",1 hrs. 18 min.,MBox,"$12,877",2018,2,5
+"$2,700","$11,900",,-,First Run,Documentary,American Socialist: The Life & Times of Eugene Victor Debs,3/2,215,Unrated,"March 2, 2018",1 hrs. 37 min.,FRun,"$12,609",2018,1,3
+"$4,800","$11,900",,-,Cinema Libre Studio,Drama,"Lou Andreas-Salomé, the Audacity to be Free",4/20,216,Unrated,"April 20, 2018",1 hrs. 53 min.,CLS,"$12,589",2018,1,2
+"$5,200","$11,800",,2/8,Film Movement,Comedy,My Art,1/12,217,Unrated,"January 12, 2018",1 hrs. 27 min.,FM,"$12,554",2018,1,2
+"$7,700","$11,500",,3/8,Menemsha,Drama,Let Yourself Go,3/2,218,Unrated,"March 2, 2018",1 hrs. 52 min.,Men.,"$12,189",2018,8,8
+"$2,300","$11,200",,-,Zeitgeist,Documentary,The Doctor from India,4/20,219,Unrated,"April 20, 2018",1 hrs. 29 min.,Zeit.,"$11,915",2018,1,2
+"$11,000","$11,000",,-,Parade Deck Films,Drama,Hannah (2018),3/9,220,Unrated,"March 9, 2018",1 hrs. 35 min.,PDF,"$11,700",2018,2,2
+"$2,300","$10,900",,-,Distrib Films,Drama,This is Our Land,4/18,221,Unrated,"April 18, 2018",1 hrs. 57 min.,Distrib.,"$11,567",2018,1,2
+"$2,100","$10,800",,-,Strand,Drama,Souvenir,3/2,222,Unrated,"March 2, 2018",1 hrs. 30 min.,Strand,"$11,411",2018,1,3
+"$10,600","$10,600",,-,Gravitas Ventures,Thriller,The Assassin's Code,5/11,223,Unrated,"May 11, 2018",1 hrs. 35 min.,Grav.,"$11,218",2018,12,12
+"$4,600","$10,500",,2/25,IronFlix,Comedy,The Wedding Party 2: Destination Dubai,2/14,224,Unrated,"February 14, 2018",1 hrs. 38 min.,IronFlix,"$11,140",2018,2,2
+"$10,000","$10,000",,-,Oscilloscope Pictures,Drama,Sollers Point,5/11,225,R,"May 11, 2018",1 hrs. 42 min.,Osci.,"$10,618",2018,1,1
+"$3,300","$9,800",,2/15,Artmattan Prods.,Documentary,Mama Africa Miriam Makeba,1/19,226,Unrated,"January 19, 2018",1 hrs. 30 min.,Artma,"$10,430",2018,1,1
+"$5,600","$9,500",,-,Cartilage,Drama,Mrs. Hyde,4/27,227,Unrated,"April 27, 2018",1 hrs. 35 min.,Cartilage,"$10,085",2018,1,1
+"$6,600","$9,400",,-,CARUSEL,Action,Furious (Legend of Kolovrat),4/20,228,Unrated,"April 20, 2018",1 hrs. 47 min.,CARUSEL,"$9,996",2018,15,15
+"$3,900","$9,300",,2/22,Magnolia,Comedy / Drama,Please Stand By,1/26,229,PG-13,"January 26, 2018",1 hrs. 33 min.,Magn.,"$9,868",2018,5,7
+"$4,600","$9,100",,-,Indican,Drama / Thriller,Jet Trash,4/27,230,Unrated,"April 27, 2018",1 hrs. 25 min.,Indic.,"$9,590",2018,2,2
+"$8,700","$8,700",,-,Good Deed,Documentary,Always at the Carlyle,5/11,231,PG-13,"May 11, 2018",,Good Deed,"$9,239",2018,1,1
+"$8,500","$8,500",,-,Parade Deck Films,Animation,Zoo Wars,4/27,232,G,"April 27, 2018",1 hrs. 15 min.,PDF,"$8,998",2018,12,12
+"$8,500","$8,500",,2/25,Gravitas Ventures,Documentary,Survivors Guide to Prison,2/23,233,Unrated,"February 23, 2018",1 hrs. 42 min.,Grav.,"$8,982",2018,4,4
+"$3,800","$8,200",$1.2 million,-,Hannover House,Horror Thriller,Blood Feast,4/6,234,Unrated,"April 6, 2018",1 hrs. 36 min.,Hann.,"$8,708",2018,1,3
+"$3,200","$8,000",,-,Cinema Guild,Documentary,El Mar La Mar,2/23,235,Unrated,"February 23, 2018",1 hrs. 34 min.,CGld,"$8,512",2018,1,2
+,"$7,200",,4/5,Kino Lorber,Action / Adventure,Legend of the Mountain (2017 re-release),2/2,236,Unrated,"February 2, 2018",3 hrs. 4 min.,KL,"$7,640",2018,,2
+"$4,800","$6,900",,-,Epic Pictures,Horror,The Lodgers,2/23,237,R,"February 23, 2018",1 hrs. 33 min.,EpicPics,"$7,362",2018,17,17
+"$6,800","$6,800",,1/21,Cinema Guild,Documentary,Tall: The American Skyscraper and Louis Sullivan,1/19,238,Unrated,"January 19, 2018",1 hrs. 19 min.,CGld,"$7,216",2018,1,1
+"$2,900","$6,600",,1/18,First Run,Documentary,In the Land of Pomegranates,1/5,239,Unrated,"January 5, 2018",2 hrs. 0 min.,FRun,"$7,014",2018,1,1
+"$2,600","$6,000",,-,The Orchard,Comedy / Drama,Duckbutter,4/27,240,Unrated,"April 27, 2018",1 hrs. 33 min.,Orch.,"$6,361",2018,2,2
+"$5,700","$5,700",,-,Greenwich,Documentary,Mountain,5/11,241,PG,"May 11, 2018",1 hrs. 14 min.,Greenwich,"$6,064 (Estimate)",2018,1,1
+"$3,600","$5,300",,-,First Run,Documentary,Strangers on the Earth,5/4,242,Unrated,"May 4, 2018",1 hrs. 36 min.,FRun,"$5,624",2018,1,1
+"$3,800","$5,200",,3/1,Cleopatra Films,Horror Comedy,Are We Not Cats,2/23,243,Unrated,"February 23, 2018",1 hrs. 17 min.,Cleopatra,"$5,518",2018,2,2
+"$2,900","$4,600",,4/5,Oscilloscope Pictures,Drama,Beauty and the Dogs,3/23,244,Unrated,"March 23, 2018",1 hrs. 40 min.,Osci.,"$4,891",2018,2,2
+"$1,600","$4,500",,-,Film Movement,Drama,Edward II (2018 re-release),5/4,245,R,"May 4, 2018",1 hrs. 27 min.,FM,"$4,724Domestic Lifetime Gross: $699,162",2018,1,1
+"$2,200","$4,300",,1/25,Abramorama,Documentary,Kangaroo,1/19,246,Unrated,"January 19, 2018",1 hrs. 43 min.,Abr.,"$4,547",2018,2,2
+"$2,900","$4,300",,2/1,Well Go USA,Action,Kickboxer Retaliation,1/26,247,R,"January 26, 2018",1 hrs. 50 min.,WGUSA,"$4,537",2018,10,10
+"$3,500","$4,200",,-,Cinema Guild,Comedy / Drama,The Day After,5/11,248,Unrated,"May 11, 2018",1 hrs. 32 min.,CGld,"$4,474",2018,1,1
+"$4,200","$4,100",,2/11,Central Square,Documentary,The Peacemaker (2018),2/9,249,Unrated,"February 9, 2018",1 hrs. 30 min.,Central Squa,"$4,400",2018,1,1
+"$2,000","$3,400",,-,Strand,Drama,The Desert Bride,5/4,250,Unrated,"May 4, 2018",1 hrs. 18 min.,Strand,"$3,615",2018,2,2
+"$3,400","$3,400",,-,Parade Deck Films,Comedy / Drama,FourPlay,3/30,251,Unrated,"March 30, 2018",1 hrs. 18 min.,PDF,"$3,550",2018,2,2
+,"$3,200",,3/29,Cinedigm Entertainment,Horror,Followers,3/23,252,Unrated,"March 23, 2018",1 hrs. 22 min.,Cdgm.,"$3,350",2018,,10
+,"$2,700",,-,Gathr Films,Drama,Tom of Finland (Gathr Release),2/23,253,Unrated,"February 23, 2018",1 hrs. 55 min.,Gathr,"$2,856Domestic Lifetime Gross: $381,152",2018,1,1
+"$1,200","$2,600",,4/19,Fun Academy,Documentary,Nana,4/13,254,Unrated,"April 13, 2018",1 hrs. 40 min.,FunAcad,"$2,784",2018,1,1
+$900,"$2,500",,3/29,Distrib Films,Documentary,12 Days,3/16,255,Unrated,"March 16, 2018",1 hrs. 27 min.,Distrib.,"$2,633",2018,1,2
+"$2,500","$2,500",,-,First Run,Documentary,ACORN and the Firestorm,4/6,256,Unrated,"April 6, 2018",1 hrs. 24 min.,FRun,"$2,621",2018,1,1
+"$1,100","$1,900",,2/8,IFC,Documentary,Cage Fighter,2/2,257,Not Yet Rated,"February 2, 2018",1 hrs. 21 min.,IFC,"$2,027",2018,2,2
+"$1,000","$1,800",,2/1,Kino Lorber,Documentary,West of the Jordan River,1/26,258,Unrated,"January 26, 2018",1 hrs. 24 min.,KL,"$1,926",2018,1,1
+$600,"$1,700",,-,Gathr Films,Documentary,Finding Happiness,4/6,259,Unrated,"April 6, 2018",1 hrs. 36 min.,Gathr,"$1,841",2018,1,1
+$600,"$1,300",,-,Magnolia,Horror Thriller,Marrowbone,4/13,260,R,"April 13, 2018",1 hrs. 50 min.,Magn.,"$1,377",2018,7,7
+,"$1,300",,-,Gathr Films,Documentary,I Am MLK Jr.,5/3,261,Unrated,"May 3, 2018",,Gathr,"$1,332",2018,,1
+,"$1,100",,-,Gathr Films,Documentary,Under the Turban,4/25,262,Unrated,"April 25, 2018",1 hrs. 29 min.,Gathr,"$1,190",2018,,1
+$800,$800,,-,Gathr Films,Animation,The Breadwinner (Gathr Release),4/13,263,PG-13,"April 13, 2018",1 hrs. 34 min.,Gathr,"$834Domestic Lifetime Gross: $313,215",2018,1,1
+$300,$300,,-,Magnolia,Action,Higher Power,5/11,264,R,"May 11, 2018",1 hrs. 33 min.,Magn.,$299,2018,3,3

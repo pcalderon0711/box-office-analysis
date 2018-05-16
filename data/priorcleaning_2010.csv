@@ -1,0 +1,538 @@
+adjusted_opening,adjusted_total_gross,budget,close,distributor,genre,movie_title,open,rank,rating,release_date,runtime,studio,total_gross,year,theaters_opening,theaters_gross
+"$128,225,100","$488,589,200",$200 million,12/2,Buena Vista,Animation,Toy Story 3,6/18,1,G,"June 18, 2010",1 hrs. 43 min.,BV,"$415,004,880",2010,"4,028","4,028"
+"$133,771,700","$385,654,200",$200 million,7/8,Buena Vista,Family Adventure,Alice in Wonderland (2010),3/5,2,PG,"March 5, 2010",1 hrs. 49 min.,BV,"$334,191,110",2010,"3,728","3,739"
+"$148,934,300","$363,361,500",$200 million,8/19,Paramount,Action / Adventure,Iron Man 2,5/7,3,PG-13,"May 7, 2010",2 hrs. 5 min.,Par.,"$312,433,331",2010,"4,380","4,390"
+"$75,363,300","$357,043,600",$68 million,10/21,Summit Entertainment,Romance,The Twilight Saga: Eclipse,6/30,4,PG-13,"June 30, 2010",2 hrs. 4 min.,Sum.,"$300,531,751",2010,"4,468","4,468"
+"$74,593,200","$347,374,900",$160 million,1/6,Warner Bros.,Sci-Fi Action,Inception,7/16,5,PG-13,"July 16, 2010",2 hrs. 28 min.,WB,"$292,576,195",2010,"3,792","3,792"
+"$142,966,200","$338,821,000",,4/7,Warner Bros.,Fantasy,Harry Potter and the Deathly Hallows Part 1,11/19,6,PG-13,"November 19, 2010",2 hrs. 30 min.,WB,"$295,983,305",2010,"4,125","4,125"
+"$67,003,600","$298,565,300",$69 million,1/20,Universal,Animation,Despicable Me,7/9,7,PG,"July 9, 2010",1 hrs. 35 min.,Uni.,"$251,513,985",2010,"3,476","3,602"
+"$82,344,900","$277,831,600",$165 million,9/9,Paramount (DreamWorks),Animation,Shrek Forever After,5/21,8,PG,"May 21, 2010",1 hrs. 33 min.,P/DW,"$238,736,787",2010,"4,359","4,386"
+"$50,388,400","$252,991,900",$165 million,7/22,Paramount (DreamWorks),Animation,How to Train Your Dragon,3/26,9,PG,"March 26, 2010",1 hrs. 38 min.,P/DW,"$217,581,231",2010,"4,055","4,060"
+"$55,768,600","$230,528,200",$260 million,6/2,Buena Vista,Animation,Tangled,11/24,10,PG,"November 24, 2010",1 hrs. 40 min.,BV,"$200,821,936",2010,"3,603","3,603"
+"$64,708,000","$206,720,900",$40 million,9/23,Sony / Columbia,Action Drama,The Karate Kid,6/11,11,PG,"June 11, 2010",2 hrs. 20 min.,Sony,"$176,591,618",2010,"3,663","3,740"
+"$28,395,400","$198,174,800",$38 million,4/28,Paramount,Western,True Grit,12/22,12,PG-13,"December 22, 2010",1 hrs. 50 min.,Par.,"$171,243,005",2010,"3,047","3,464"
+"$50,347,100","$198,061,000",$170 million,4/14,Buena Vista,Sci-Fi Action,Tron Legacy,12/17,13,PG,"December 17, 2010",2 hrs. 5 min.,BV,"$172,062,763",2010,"3,451","3,451"
+"$47,086,300","$192,445,300",$80 million,10/28,Sony / Columbia,Comedy,Grown Ups,6/25,14,PG-13,"June 25, 2010",1 hrs. 42 min.,Sony,"$162,001,186",2010,"3,534","3,534"
+"$71,181,900","$189,744,400",$125 million,7/22,Warner Bros.,Fantasy,Clash of the Titans (2010),4/2,15,PG-13,"April 2, 2010",1 hrs. 58 min.,WB,"$163,214,888",2010,"3,777","3,802"
+"$35,260,500","$171,313,300",$100 million,3/17,Universal,Comedy,Little Fockers,12/22,16,PG-13,"December 22, 2010",1 hrs. 38 min.,Uni.,"$148,438,600",2010,"3,536","3,675"
+"$52,623,500","$169,829,900",$130 million,2/24,Paramount (DreamWorks),Animation,Megamind,11/5,17,PG,"November 5, 2010",1 hrs. 36 min.,P/DW,"$148,415,853",2010,"3,944","3,949"
+"$406,500","$157,525,600",$15 million,3/31,Weinstein Company,Historical Drama,The King's Speech,11/26,18,R,"November 26, 2010",1 hrs. 58 min.,Wein.,"$135,453,143Domestic Lifetime Gross: $138,797,449",2010,4,"2,584"
+"$47,908,800","$156,554,200",$150 million,9/23,Paramount,Fantasy,The Last Airbender,7/1,19,PG,"July 1, 2010",1 hrs. 43 min.,Par.,"$131,772,187",2010,"3,169","3,203"
+"$47,312,200","$147,605,000",$80 million,6/10,Paramount,Period Drama,Shutter Island,2/19,20,R,"February 19, 2010",2 hrs. 18 min.,Par.,"$128,012,934",2010,"2,991","3,356"
+"$42,227,700","$141,554,100",$100 million,11/18,Sony / Columbia,Action Comedy,The Other Guys,8/6,21,PG-13,"August 6, 2010",1 hrs. 47 min.,Sony,"$119,219,978",2010,"3,651","3,651"
+"$42,783,800","$140,515,800",$110 million,10/28,Sony / Columbia,Action Thriller,Salt,7/23,22,PG-13,"July 23, 2010",1 hrs. 39 min.,Sony,"$118,311,368",2010,"3,612","3,612"
+"$57,582,900","$134,064,500",$20 million,1/20,Paramount,Comedy,Jackass 3-D,10/15,23,R,"October 15, 2010",1 hrs. 34 min.,Par.,"$117,229,692",2010,"3,081","3,139"
+"$64,823,700","$127,308,800",$52 million,5/6,Warner Bros. (New Line),Romantic Comedy,Valentine's Day,2/12,24,PG-13,"February 12, 2010",1 hrs. 57 min.,WB (NL),"$110,485,654",2010,"3,665","3,665"
+"$1,651,100","$123,786,600",$13 million,5/5,Fox Searchlight,Drama / Thriller,Black Swan,12/3,25,R,"December 3, 2010",1 hrs. 43 min.,FoxS,"$106,954,678",2010,18,"2,407"
+"$41,921,400","$122,436,400",$200 million,8/5,Universal,Period Adventure,Robin Hood,5/14,26,PG-13,"May 14, 2010",2 hrs. 28 min.,Uni.,"$105,269,730",2010,"3,503","3,505"
+"$41,374,600","$122,417,500",$80 million,10/21,Lionsgate,Action,The Expendables,8/13,27,R,"August 13, 2010",1 hrs. 43 min.,LGF,"$103,068,524",2010,"3,270","3,398"
+"$27,451,500","$119,976,700",$155 million,4/14,Fox,Fantasy,The Chronicles of Narnia: The Voyage of the Dawn Treader,12/10,28,PG,"December 10, 2010",1 hrs. 52 min.,Fox,"$104,386,950",2010,"3,555","3,555"
+"$18,767,500","$115,654,100",$80 million,4/7,Warner Bros.,Family Comedy,Yogi Bear,12/17,29,PG,"December 17, 2010",1 hrs. 22 min.,WB,"$100,246,011",2010,"3,515","3,515"
+"$37,382,600","$115,011,300",$65 million,1/27,Warner Bros.,Comedy,Due Date,11/5,30,R,"November 5, 2010",1 hrs. 35 min.,WB,"$100,539,043",2010,"3,355","3,365"
+"$29,302,200","$114,787,600",$55 million,9/9,Fox,Comedy,Date Night,4/9,31,PG-13,"April 9, 2010",1 hrs. 28 min.,Fox,"$98,711,404",2010,"3,374","3,380"
+"$25,668,200","$110,975,500",$40 million,3/3,Sony / Columbia,Comedy / Drama,The Social Network,10/1,32,PG-13,"October 1, 2010",2 hrs. 0 min.,Sony,"$96,962,694",2010,"2,771","2,921"
+"$36,037,700","$110,925,200",$100 million,8/19,Warner Bros. (New Line),Romantic Comedy,Sex and the City 2,5/27,33,R,"May 27, 2010",2 hrs. 27 min.,WB (NL),"$95,347,692",2010,"3,445","3,445"
+"$37,780,100","$109,277,800",$80 million,5/13,Warner Bros.,Action / Adventure,The Book of Eli,1/15,34,R,"January 15, 2010",1 hrs. 58 min.,WB,"$94,835,059",2010,"3,111","3,111"
+"$343,100","$108,306,700",$25 million,3/31,Paramount,Sports Drama,The Fighter,12/10,35,R,"December 10, 2010",1 hrs. 54 min.,Par.,"$93,617,009",2010,4,"2,534"
+"$28,285,500","$107,838,800",$37 million,1/6,Warner Bros.,Crime Drama,The Town,9/17,36,R,"September 17, 2010",2 hrs. 3 min.,WB,"$92,186,262",2010,"2,861","2,935"
+"$34,983,800","$105,691,600",$200 million,9/23,Buena Vista,Adventure,Prince of Persia: The Sands of Time,5/28,37,PG-13,"May 28, 2010",1 hrs. 55 min.,BV,"$90,759,676",2010,"3,646","3,646"
+"$24,885,700","$103,381,500",$58 million,2/3,Summit Entertainment,Action Comedy,Red,10/15,38,PG-13,"October 15, 2010",1 hrs. 51 min.,Sum.,"$90,380,162",2010,"3,255","3,349"
+"$35,990,200","$102,313,500",$95 million,7/1,Fox,Fantasy,Percy Jackson & The Olympians: The Lightning Thief,2/12,39,PG,"February 12, 2010",2 hrs. 0 min.,Fox,"$88,768,303",2010,"3,356","3,396"
+"$46,518,600","$96,924,200",$3 million,1/20,Paramount,Horror,Paranormal Activity 2,10/22,40,R,"October 22, 2010",1 hrs. 31 min.,Par.,"$84,752,907",2010,"3,216","3,239"
+"$27,449,700","$95,674,700",$60 million,11/4,Sony / Columbia,Drama,Eat Pray Love,8/13,41,PG-13,"August 13, 2010",2 hrs. 13 min.,Sony,"$80,574,010",2010,"3,082","3,108"
+"$25,945,900","$93,330,100",$100 million,3/10,Fox,Action Thriller,Unstoppable,11/12,42,PG-13,"November 12, 2010",1 hrs. 38 min.,Fox,"$81,562,942",2010,"3,207","3,261"
+"$35,106,000","$92,200,300",$25 million,4/29,Sony / Screen Gems,Romance,Dear John,2/5,43,PG-13,"February 5, 2010",1 hrs. 48 min.,SGem,"$80,014,842",2010,"2,969","3,062"
+"$23,411,500","$90,608,200",$117 million,10/7,Fox,Comedy,Knight & Day,6/23,44,PG-13,"June 23, 2010",2 hrs. 10 min.,Fox,"$76,423,035",2010,"3,098","3,104"
+"$29,839,100","$90,288,100",$110 million,9/16,Fox,Action,The A-Team,6/11,45,PG-13,"June 11, 2010",1 hrs. 57 min.,Fox,"$77,222,099",2010,"3,535","3,544"
+"$27,952,700","$86,743,200",$69 million,10/14,Paramount (DreamWorks),Comedy,Dinner for Schmucks,7/30,46,PG-13,"July 30, 2010",1 hrs. 50 min.,P/DW,"$73,026,337",2010,"2,911","3,046"
+"$18,837,400","$77,769,300",$100 million,3/10,Sony / Columbia,Romantic Thriller,The Tourist,12/10,47,PG-13,"December 10, 2010",1 hrs. 43 min.,Sony,"$67,631,157",2010,"2,756","2,756"
+"$23,834,900","$77,689,600",$40 million,7/8,Sony / Columbia,Action Comedy,The Bounty Hunter,3/19,48,PG-13,"March 19, 2010",1 hrs. 46 min.,Sony,"$67,061,228",2010,"3,074","3,118"
+"$20,933,300","$75,011,700",$150 million,10/28,Buena Vista,Fantasy,The Sorcerer's Apprentice,7/14,49,PG,"July 14, 2010",1 hrs. 51 min.,BV,"$63,150,991",2010,"3,504","3,504"
+"$25,493,800","$74,145,800",$15 million,8/19,Fox,Comedy,Diary of a Wimpy Kid,3/19,50,PG,"March 19, 2010",1 hrs. 34 min.,Fox,"$64,003,625",2010,"3,077","3,083"
+"$38,246,800","$73,327,200",$35 million,7/15,Warner Bros. (New Line),Horror,A Nightmare on Elm Street (2010),4/30,51,R,"April 30, 2010",1 hrs. 30 min.,WB (NL),"$63,075,011",2010,"3,332","3,332"
+"$18,443,800","$73,182,200",$20 million,7/15,Buena Vista,Drama,The Last Song,3/31,52,PG,"March 31, 2010",1 hrs. 47 min.,BV,"$62,950,384",2010,"2,673","2,794"
+"$36,270,400","$71,413,100",$150 million,4/1,Universal,Horror,The Wolfman,2/12,53,R,"February 12, 2010",1 hrs. 42 min.,Uni.,"$61,979,680",2010,"3,222","3,223"
+"$31,662,300","$71,156,500",$60 million,11/4,Sony / Screen Gems,Action Horror,Resident Evil: Afterlife,9/10,54,R,"September 10, 2010",1 hrs. 40 min.,SGem,"$60,128,566",2010,"3,203","3,209"
+"$20,425,100","$71,122,400",$40 million,8/12,Universal,Comedy,Get Him to the Greek,6/4,55,R,"June 4, 2010",1 hrs. 49 min.,Uni.,"$60,974,475",2010,"2,697","2,702"
+"$34,047,200","$69,857,600",$20 million,6/10,Lionsgate,Comedy / Drama,Tyler Perry's Why Did I Get Married Too?,4/2,56,PG-13,"April 2, 2010",2 hrs. 1 min.,LGF,"$60,095,852",2010,"2,155","2,155"
+"$16,142,800","$69,178,000",$48 million,6/24,Fox,Fantasy Comedy,Tooth Fairy,1/22,57,PG,"January 22, 2010",1 hrs. 42 min.,Fox,"$60,022,256",2010,"3,344","3,345"
+"$24,370,000","$68,499,300",$32 million,11/18,Sony / Screen Gems,Action / Crime,Takers,8/27,58,PG-13,"August 27, 2010",1 hrs. 47 min.,SGem,"$57,744,720",2010,"2,206","2,206"
+"$21,069,200","$68,362,600",$8 million,12/23,Sony / Screen Gems,Romantic Comedy,Easy A,9/17,59,PG-13,"September 17, 2010",1 hrs. 32 min.,SGem,"$58,401,464",2010,"2,856","2,974"
+"$14,517,400","$68,306,400",$35 million,2/10,Buena Vista,Sports Drama,Secretariat,10/8,60,PG,"October 8, 2010",1 hrs. 56 min.,BV,"$59,713,955",2010,"3,072","3,108"
+"$19,142,400","$64,527,300",$80 million,1/20,Warner Bros.,Animation,Legend of the Guardians: The Owls of Ga'Hoole,9/24,61,PG,"September 24, 2010",1 hrs. 30 min.,WB,"$55,675,313",2010,"3,575","3,575"
+"$29,417,600","$61,778,500",$40 million,10/14,Fox,Sci-Fi Horror,Predators,7/9,62,R,"July 9, 2010",1 hrs. 47 min.,Fox,"$52,000,688",2010,"2,669","2,669"
+"$15,740,000","$61,746,900",$30 million,8/26,Summit Entertainment,Romance,Letters to Juliet,5/14,63,PG,"May 14, 2010",1 hrs. 45 min.,Sum.,"$53,032,453",2010,"2,968","2,975"
+"$22,586,600","$61,155,400",$70 million,12/19,Fox,Drama,Wall Street: Money Never Sleeps,9/24,64,PG-13,"September 24, 2010",2 hrs. 7 min.,Fox,"$52,474,616",2010,"3,565","3,597"
+"$16,589,200","$61,052,800",$38 million,1/27,Warner Bros.,Comedy,Life as We Know It,10/8,65,PG-13,"October 8, 2010",1 hrs. 52 min.,WB,"$53,374,681",2010,"3,150","3,150"
+"$476,400","$59,382,700",,-,Warner Bros.,IMAX,Hubble 3D,3/19,66,G,"March 19, 2010",0 hrs. 43 min.,WB,"$52,184,528",2010,39,151
+"$16,154,400","$58,456,100",$36 million,6/10,MGM,Comedy,Hot Tub Time Machine,3/26,67,R,"March 26, 2010",1 hrs. 40 min.,MGM,"$50,287,556",2010,"2,754","2,771"
+"$23,049,600","$55,881,400",$30 million,7/1,Lionsgate,Action Comedy,Kick-Ass,4/16,68,R,"April 16, 2010",1 hrs. 57 min.,LGF,"$48,071,303",2010,"3,065","3,065"
+"$18,409,800","$54,833,900",$75 million,8/19,Lionsgate,Action Comedy,Killers,6/4,69,PG-13,"June 4, 2010",1 hrs. 40 min.,LGF,"$47,059,963",2010,"2,859","2,859"
+"$25,764,800","$52,272,800",$20 million,12/2,Lionsgate,Horror,Saw 3D,10/29,70,R,"October 29, 2010",1 hrs. 31 min.,LGF,"$45,710,178",2010,"2,808","2,808"
+"$14,588,700","$51,770,700",$85 million,10/21,Warner Bros.,Family Comedy,Cats & Dogs: The Revenge of Kitty Galore,7/30,71,PG,"July 30, 2010",1 hrs. 22 min.,WB,"$43,585,753",2010,"3,705","3,705"
+"$20,982,900","$51,724,100",$30 million,5/20,Warner Bros.,Comedy,Cop Out,2/26,72,R,"February 26, 2010",1 hrs. 50 min.,WB,"$44,875,481",2010,"3,150","3,150"
+"$18,786,100","$50,365,300",$30 million,11/4,Buena Vista,Music Drama,Step Up 3-D,8/6,73,PG-13,"August 6, 2010",1 hrs. 37 min.,BV,"$42,400,223",2010,"2,435","2,439"
+"$19,834,400","$49,906,300",$80 million,4/8,Warner Bros.,Drama / Thriller,Edge of Darkness,1/29,74,R,"January 29, 2010",1 hrs. 48 min.,WB,"$43,313,890",2010,"3,066","3,066"
+"$18,851,900","$49,689,100",$21 million,7/8,Sony / Screen Gems,Comedy,Death at a Funeral (2010),4/16,75,R,"April 16, 2010",1 hrs. 30 min.,SGem,"$42,739,347",2010,"2,459","2,459"
+"$7,213,300","$49,457,500",$112 million,4/14,Fox,Adventure Comedy,Gulliver's Travels,12/25,76,PG,"December 25, 2010",1 hrs. 25 min.,Fox,"$42,779,261",2010,"2,546","3,089"
+"$24,196,900","$48,744,100",$1.8 million,10/7,Lionsgate,Horror,The Last Exorcism,8/27,77,PG-13,"August 27, 2010",1 hrs. 40 min.,LGF,"$41,034,350",2010,"2,874","2,874"
+"$20,165,400","$46,281,700",$26 million,3/21,Sony / Screen Gems,Horror Thriller,Legion (2010),1/22,78,R,"January 22, 2010",1 hrs. 40 min.,SGem,"$40,168,080",2010,"2,476","2,476"
+"$13,663,100","$45,150,100",$55 million,2/10,Sony / Screen Gems,Musical,Burlesque,11/24,79,PG-13,"November 24, 2010",1 hrs. 40 min.,SGem,"$39,440,655",2010,"3,037","3,037"
+"$18,513,100","$45,100,500",$20 million,5/20,Overture Films,Horror,The Crazies,2/26,80,R,"February 26, 2010",1 hrs. 41 min.,Over.,"$39,123,589",2010,"2,476","2,479"
+"$14,183,700","$43,589,300",$35 million,7/22,CBS Films,Romantic Comedy,The Back-Up Plan,4/23,81,PG-13,"April 23, 2010",1 hrs. 38 min.,CBS,"$37,490,007",2010,"3,280","3,280"
+"$14,497,800","$43,536,600",$20 million,11/11,Fox,Horror Comedy,Vampires Suck,8/18,82,PG-13,"August 18, 2010",1 hrs. 20 min.,Fox,"$36,661,504",2010,"3,233","3,233"
+"$22,296,600","$43,148,000",$21 million,1/20,Lionsgate,Drama,For Colored Girls,11/5,83,R,"November 5, 2010",2 hrs. 0 min.,LGF,"$37,729,698",2010,"2,127","2,127"
+"$15,656,100","$42,275,500",$20 million,11/4,Focus Features,Drama / Thriller,The American,9/1,84,R,"September 1, 2010",1 hrs. 45 min.,Focus,"$35,606,376",2010,"2,823","2,833"
+"$16,487,200","$40,470,400",$100 million,5/6,Universal,Thriller,Green Zone,3/12,85,R,"March 12, 2010",1 hrs. 55 min.,Uni.,"$35,053,660",2010,"3,003","3,004"
+"$14,600,600","$39,481,100",,11/18,Universal,Horror,Devil,9/17,86,PG-13,"September 17, 2010",1 hrs. 20 min.,Uni.,"$33,601,190",2010,"2,809","2,811"
+"$13,483,900","$39,228,200",$50 million,9/16,Fox,Family Comedy,Marmaduke,6/4,87,PG,"June 4, 2010",1 hrs. 27 min.,Fox,"$33,644,788",2010,"3,213","3,213"
+"$14,229,700","$37,654,700",,4/15,Buena Vista,Romantic Comedy,When in Rome,1/29,88,PG-13,"January 29, 2010",1 hrs. 31 min.,BV,"$32,680,633",2010,"2,456","2,456"
+"$252,000","$37,450,000",$50 million,1/13,Warner Bros.,Drama,Hereafter,10/15,89,PG-13,"October 15, 2010",2 hrs. 9 min.,WB,"$32,746,941",2010,6,"2,424"
+"$12,605,200","$37,448,600",$60 million,10/7,Universal,Action Comedy,Scott Pilgrim vs. the World,8/13,90,PG-13,"August 13, 2010",1 hrs. 53 min.,Uni.,"$31,524,275",2010,"2,818","2,820"
+"$11,137,400","$37,042,500",$30 million,2/17,Fox,Comedy / Drama,Love and Other Drugs,11/24,91,R,"November 24, 2010",1 hrs. 53 min.,Fox,"$32,367,005",2010,"2,455","2,458"
+"$14,710,200","$37,023,200",$44 million,9/16,Universal,Drama,Charlie St. Cloud,7/30,92,PG-13,"July 30, 2010",1 hrs. 30 min.,Uni.,"$31,162,545",2010,"2,718","2,725"
+"$11,263,100","$36,984,700",$20 million,5/20,Paramount,Romantic Comedy,She's Out of My League,3/12,93,R,"March 12, 2010",1 hrs. 44 min.,Par.,"$32,010,860",2010,"2,956","2,958"
+"$17,452,000","$36,232,700",$20 million,2/11,Lionsgate,Horror,Daybreakers,1/8,94,R,"January 8, 2010",1 hrs. 38 min.,LGF,"$30,101,577",2010,"2,523","2,523"
+"$10,524,600","$35,470,600",$40 million,1/20,Paramount,Comedy,Morning Glory,11/10,95,PG-13,"November 10, 2010",1 hrs. 42 min.,Par.,"$31,011,732",2010,"2,518","2,544"
+"$8,559,300","$34,762,400",$120 million,1/27,Sony / Columbia,Comedy / Drama,How Do You Know,12/17,96,PG-13,"December 17, 2010",1 hrs. 56 min.,Sony,"$30,212,620",2010,"2,483","2,483"
+"$9,988,900","$34,435,700",$35 million,10/28,Universal,Family,Nanny McPhee Returns,8/20,97,PG,"August 20, 2010",1 hrs. 40 min.,Uni.,"$29,011,215",2010,"2,784","2,798"
+"$10,023,400","$32,983,600",$19 million,11/18,Miramax,Comedy,The Switch,8/20,98,PG-13,"August 20, 2010",1 hrs. 40 min.,Mira.,"$27,779,426",2010,"2,012","2,017"
+"$13,563,200","$31,568,300",$10.5 million,11/18,Fox,Action / Adventure,Machete,9/3,99,R,"September 3, 2010",1 hrs. 45 min.,Fox,"$26,593,646",2010,"2,670","2,678"
+"$15,382,200","$31,315,300",$17 million,5/20,Overture Films,Action / Crime,Brooklyn's Finest,3/5,100,R,"March 5, 2010",2 hrs. 13 min.,Over.,"$27,163,593",2010,"1,936","1,939"
+"$10,013,100","$29,461,100",$19 million,3/4,Universal,Romantic Comedy,Leap Year,1/8,101,PG,"January 8, 2010",1 hrs. 37 min.,Uni.,"$25,918,920",2010,"2,511","2,512"
+"$8,762,700","$29,345,700",$15 million,11/11,Fox,Family,Ramona and Beezus,7/23,102,G,"July 23, 2010",1 hrs. 44 min.,Fox,"$26,167,002",2010,"2,719","2,719"
+"$9,432,600","$28,213,000",$20 million,12/16,Buena Vista,Comedy,You Again,9/24,103,PG,"September 24, 2010",1 hrs. 45 min.,BV,"$25,702,053",2010,"2,548","2,548"
+"$11,339,100","$28,044,400",$24 million,11/18,Weinstein / Dimension,Horror,Piranha 3D,8/20,104,R,"August 20, 2010",1 hrs. 29 min.,W/Dim.,"$25,003,155",2010,"2,470","2,491"
+"$10,217,200","$27,786,700",,12/2,Lionsgate,Animation,Alpha and Omega,9/17,105,PG,"September 17, 2010",1 hrs. 28 min.,LGF,"$25,107,267",2010,"2,625","2,625"
+"$11,951,000","$27,703,600",$17 million,11/4,Warner Bros.,Comedy,Lottery Ticket,8/20,106,PG-13,"August 20, 2010",1 hrs. 39 min.,WB,"$24,719,879",2010,"1,973","1,974"
+"$8,877,300","$27,367,900",$52 million,3/11,Lionsgate,Action,From Paris with Love,2/5,107,R,"February 5, 2010",1 hrs. 35 min.,LGF,"$24,077,427",2010,"2,722","2,722"
+"$10,582,400","$26,447,300",$28 million,3/4,Lionsgate,Action Comedy,The Spy Next Door,1/15,108,PG,"January 15, 2010",1 hrs. 32 min.,LGF,"$24,307,086",2010,"2,924","2,924"
+"$10,325,500","$25,896,700",$25 million,6/24,Warner Bros.,Action,The Losers,4/23,109,PG-13,"April 23, 2010",1 hrs. 38 min.,WB,"$23,591,432",2010,"2,936","2,936"
+"$9,204,200","$25,106,200",$24 million,2/10,CBS Films,Action,Faster,11/24,110,R,"November 24, 2010",1 hrs. 38 min.,CBS,"$23,240,020",2010,"2,454","2,470"
+"$9,094,600","$23,654,800",,8/5,Fox Searchlight,Romantic Comedy,Just Wright,5/14,111,PG,"May 14, 2010",1 hrs. 51 min.,FoxS,"$21,540,363",2010,"1,831","1,831"
+"$552,000","$23,343,500",$4 million,10/21,Focus Features,Comedy,The Kids Are All Right,7/9,112,R,"July 9, 2010",1 hrs. 46 min.,Focus,"$20,811,365",2010,7,994
+"$12,626,600","$23,277,300",$10 million,12/21,Universal,Thriller,Skyline,11/12,113,PG-13,"November 12, 2010",1 hrs. 40 min.,Uni.,"$21,393,620",2010,"2,880","2,883"
+"$7,065,500","$22,839,600",$30 million,1/6,Lionsgate,Action Thriller,The Next Three Days,11/19,114,PG-13,"November 19, 2010",2 hrs. 2 min.,LGF,"$21,148,651",2010,"2,564","2,564"
+"$32,900","$22,249,500",$15 million,2/17,Sony / Screen Gems,Music Drama,Country Strong,12/22,115,PG-13,"December 22, 2010",1 hrs. 52 min.,SGem,"$20,218,921",2010,2,"1,441"
+"$8,301,700","$22,093,600",,6/17,Fox Searchlight,Comedy,Our Family Wedding,3/12,116,PG-13,"March 12, 2010",1 hrs. 30 min.,FoxS,"$20,255,281",2010,"1,605","1,609"
+"$6,651,000","$21,326,200",$80 million,7/15,Buena Vista,Documentary,Oceans,4/22,117,G,"April 22, 2010",1 hrs. 43 min.,BV,"$19,422,319",2010,"1,206","1,232"
+"$8,801,400","$20,785,600",$16 million,5/13,Summit Entertainment,Romance,Remember Me,3/12,118,PG-13,"March 12, 2010",2 hrs. 8 min.,Sum.,"$19,068,240",2010,"2,212","2,215"
+"$286,000","$19,968,200",$18 million,4/14,Fox Searchlight,Drama,127 Hours,11/5,119,R,"November 5, 2010",1 hrs. 33 min.,FoxS,"$18,335,230",2010,4,916
+"$7,724,400","$19,967,600",$32 million,10/21,Warner Bros. (New Line),Romantic Comedy,Going the Distance,9/3,120,R,"September 3, 2010",1 hrs. 37 min.,WB (NL),"$17,804,299",2010,"3,030","3,030"
+"$7,275,200","$19,364,500",$35 million,7/15,Summit Entertainment,Family Comedy,Furry Vengeance,4/30,121,PG,"April 30, 2010",1 hrs. 32 min.,Sum.,"$17,630,465",2010,"2,997","3,002"
+"$8,106,900","$18,697,100",$30 million,8/5,Warner Bros.,Sci-Fi Horror,Splice,6/4,122,R,"June 4, 2010",1 hrs. 44 min.,WB,"$17,010,170",2010,"2,450","2,450"
+"$199,100","$16,987,300",$45 million,6/17,Summit Entertainment,Thriller,The Ghost Writer,2/19,123,PG-13,"February 19, 2010",2 hrs. 8 min.,Sum.,"$15,541,549",2010,4,819
+"$7,494,900","$16,626,800",$18 million,3/25,Weinstein / Dimension,Comedy,Youth in Revolt,1/8,124,R,"January 8, 2010",1 hrs. 30 min.,W/Dim.,"$15,281,286",2010,"1,873","1,873"
+"$7,388,900","$15,922,500",$25 million,11/4,Universal,Horror,My Soul to Take,10/8,125,R,"October 8, 2010",1 hrs. 47 min.,Uni.,"$14,744,435",2010,"2,572","2,572"
+"$6,665,600","$15,009,500",$32 million,4/22,Universal,Sci-Fi Action,Repo Men,3/19,126,R,"March 19, 2010",1 hrs. 51 min.,Uni.,"$13,794,835",2010,"2,521","2,521"
+"$5,778,100","$14,321,500",$26 million,11/18,Paramount Vantage,Horror Thriller,Case 39,10/1,127,R,"October 1, 2010",1 hrs. 49 min.,ParV,"$13,261,851",2010,"2,211","2,212"
+"$6,542,000","$13,717,600",$31 million,2/11,CBS Films,Drama,Extraordinary Measures,1/22,128,PG,"January 22, 2010",1 hrs. 46 min.,CBS,"$12,068,313",2010,"2,549","2,549"
+"$5,558,800","$13,104,500",$20 million,12/9,Overture Films,Horror,Let Me In,10/1,129,R,"October 1, 2010",1 hrs. 55 min.,Over.,"$12,134,935",2010,"2,020","2,042"
+"$4,496,400","$12,040,500",$9 million,11/18,Fox,Sci-Fi Adventure,Avatar: Special Edition,8/27,130,PG-13,"August 27, 2010",2 hrs. 40 min.,Fox,"$10,741,486Domestic Lifetime Gross: $760,507,625",2010,812,812
+"$5,905,000","$11,650,400",$47 million,8/12,Warner Bros.,Western,Jonah Hex,6/18,131,PG-13,"June 18, 2010",1 hrs. 21 min.,WB,"$10,547,117",2010,"2,825","2,825"
+"$365,000","$11,115,400",$13 million,2/24,Music Box Films,Thriller,The Girl with the Dragon Tattoo,3/19,132,R,"March 19, 2010",2 hrs. 32 min.,MBox,"$10,095,170",2010,34,202
+"$209,200","$10,678,300","$1,000,000",4/21,Weinstein Company,Drama,Blue Valentine,12/29,133,R,"December 29, 2010",1 hrs. 52 min.,Wein.,"$9,706,328",2010,4,450
+"$703,100","$10,313,700",$22 million,2/17,Summit Entertainment,Action Thriller,Fair Game (2010),11/5,134,PG-13,"November 5, 2010",1 hrs. 48 min.,Sum.,"$9,540,691",2010,46,436
+"$98,900","$10,266,600",$7 million,2/24,Sony Classics,Comedy,Get Low,7/30,135,PG-13,"July 30, 2010",1 hrs. 40 min.,SPC,"$9,176,933",2010,4,570
+"$4,438,600","$9,276,300",$10 million,6/10,Universal,Comedy,MacGruber,5/21,136,R,"May 21, 2010",1 hrs. 28 min.,Uni.,"$8,525,600",2010,"2,551","2,551"
+"$1,015,300","$8,557,600",,2/10,Music Box Films,Thriller,The Girl Who Played with Fire,7/9,137,R,"July 9, 2010",2 hrs. 9 min.,MBox,"$7,638,241",2010,108,185
+"$199,500","$8,372,000",$7 million,10/14,Fox Searchlight,Comedy,Cyrus,6/18,138,R,"June 18, 2010",1 hrs. 32 min.,FoxS,"$7,468,936",2010,4,454
+"$2,371,600","$7,964,900",,7/8,Focus Features,Documentary,Babies,5/7,139,PG,"May 7, 2010",1 hrs. 19 min.,Focus,"$7,320,323",2010,534,543
+"$34,800","$7,338,100",$6 million,9/2,Anchor Bay Films,Comedy,City Island,3/19,140,PG-13,"March 19, 2010",1 hrs. 40 min.,Anch.,"$6,671,036",2010,2,269
+"$110,500","$7,325,100",$12.5 million,12/26,Fox Searchlight,Drama,Conviction,10/15,141,R,"October 15, 2010",1 hrs. 47 min.,FoxS,"$6,783,129",2010,11,672
+"$93,100","$7,299,500",$2 million,4/21,Roadside Attractions,Drama,Winter's Bone,6/11,142,R,"June 11, 2010",1 hrs. 40 min.,RAtt.,"$6,531,503",2010,4,141
+"$80,200","$7,208,000",$18 million,6/24,Sony Classics,Historical Drama,The Last Station,1/15,143,R,"January 15, 2010",1 hrs. 52 min.,SPC,"$6,617,867",2010,3,354
+"$184,300","$7,047,300",,10/21,Sony Classics,Crime Drama,The Secret in Their Eyes,4/16,144,R,"April 16, 2010",2 hrs. 7 min.,SPC,"$6,391,436",2010,10,166
+"$156,000","$6,938,000",,12/23,Paramount Vantage,Documentary,"Waiting for ""Superman""",9/24,145,PG,"September 24, 2010",1 hrs. 42 min.,ParV,"$6,417,135",2010,4,330
+"$2,174,300","$6,872,100",$8 million,11/25,Focus Features,Drama,It's Kind of a Funny Story,10/8,146,PG-13,"October 8, 2010",1 hrs. 41 min.,Focus,"$6,363,628",2010,742,757
+,"$6,653,600",$5 million,9/13,3D Entertainment,IMAX,Sea Rex 3D: Journey to a Prehistoric World,5/28,147,Unrated,"May 28, 2010",,3D,"$6,096,582",2010,,14
+"$3,292,300","$6,121,400",$42 million,2/3,Relativity,Western,The Warrior's Way,12/3,148,R,"December 3, 2010",1 hrs. 40 min.,Rela.,"$5,666,340",2010,"1,622","1,622"
+"$952,200","$5,609,200",,3/3,Music Box Films,Foreign,The Girl Who Kicked the Hornet's Nest,10/29,149,R,"October 29, 2010",2 hrs. 28 min.,MBox,"$5,190,196",2010,154,208
+"$133,400","$5,606,700",,12/2,Magnolia,Foreign,I Am Love,6/18,150,R,"June 18, 2010",2 hrs. 0 min.,Magn.,"$5,005,465",2010,8,166
+"$224,000","$5,335,400",,12/9,Samuel Goldwyn,Drama,Mao's Last Dancer,8/20,151,PG,"August 20, 2010",2 hrs. 7 min.,Gold.,"$4,817,770",2010,33,137
+"$104,200","$4,853,600",$15 million,10/7,Anchor Bay Films,Comedy / Drama,Solitary Man,5/21,152,R,"May 21, 2010",1 hrs. 30 min.,Anch.,"$4,360,548",2010,4,177
+"$42,800","$4,675,200",$2 million,5/5,Sony Classics,Documentary,Inside Job,10/8,153,PG-13,"October 8, 2010",2 hrs. 0 min.,SPC,"$4,312,735",2010,2,250
+"$128,600","$4,646,200",,5/27,Focus Features,Comedy / Drama,Greenberg,3/19,154,R,"March 19, 2010",1 hrs. 47 min.,Focus,"$4,234,170",2010,3,186
+"$129,700","$4,456,000",$3 million,10/21,Sony Classics,Comedy / Drama,Please Give,4/30,155,R,"April 30, 2010",1 hrs. 30 min.,SPC,"$4,033,574",2010,5,272
+"$2,115,200","$4,373,000",,5/6,Fox Searchlight,Foreign,My Name is Khan,2/12,156,PG-13,"February 12, 2010",2 hrs. 25 min.,FoxS,"$4,018,771",2010,120,125
+"$1,720,800","$4,109,800","$500,000",4/8,Samuel Goldwyn,Drama,To Save a Life,1/22,157,PG-13,"January 22, 2010",2 hrs. 0 min.,Gold.,"$3,777,210",2010,441,441
+"$876,000","$3,912,000",$10 million,6/3,Apparition,Drama,The Runaways,3/19,158,R,"March 19, 2010",1 hrs. 49 min.,App.,"$3,573,673",2010,244,244
+"$187,400","$3,628,800",,11/4,Producers Distribution Agency,Documentary,Exit Through the Gift Shop,4/16,159,R,"April 16, 2010",1 hrs. 27 min.,PDA,"$3,291,250",2010,8,46
+"$288,700","$3,539,300",,12/2,Rogue Pictures,Documentary,Catfish,9/17,160,PG-13,"September 17, 2010",1 hrs. 34 min.,Rog.,"$3,237,343",2010,12,143
+"$120,800","$3,525,200",$8 million,5/26,Sony Classics,Drama,Another Year,12/29,161,PG-13,"December 29, 2010",2 hrs. 9 min.,SPC,"$3,205,706",2010,6,236
+"$179,600","$3,520,300",$22 million,2/10,Sony Classics,Romance,You Will Meet a Tall Dark Stranger,9/22,162,R,"September 22, 2010",1 hrs. 38 min.,SPC,"$3,248,246",2010,6,402
+"$980,000","$3,375,900",$14 million,7/15,Sony Classics,Drama,Chloe,3/26,163,R,"March 26, 2010",1 hrs. 36 min.,SPC,"$3,075,255",2010,350,350
+"$180,400","$3,273,700",,9/16,IFC,Documentary,Joan Rivers: A Piece of Work,6/11,164,R,"June 11, 2010",1 hrs. 24 min.,IFC,"$2,930,687",2010,7,115
+"$1,195,300","$3,126,900",$3 million,7/1,Vivendi Entertainment,Drama,Letters to God,4/9,165,PG,"April 9, 2010",1 hrs. 50 min.,Viv.,"$2,848,578",2010,897,897
+"$1,259,600","$2,803,000",$1.6 million,11/18,Freestyle Releasing,Drama,N'Secure,10/15,166,R,"October 15, 2010",1 hrs. 49 min.,Free,"$2,595,644",2010,486,486
+"$125,400","$2,651,800",$15 million,12/16,Fox Searchlight,Drama / Thriller,Never Let Me Go,9/15,167,R,"September 15, 2010",1 hrs. 44 min.,FoxS,"$2,434,652",2010,4,232
+,"$2,595,300",,6/29,Summit Entertainment,Romance,Twilight/New Moon Combo (one-night-only),6/29,168,PG-13,"June 29, 2010",4 hrs. 10 min.,Sum.,"$2,385,237",2010,,"2,037"
+"$41,700","$2,451,800",$17 million,5/12,Sony Classics,Animation,The Illusionist (2010),12/25,169,PG,"December 25, 2010",1 hrs. 22 min.,SPC,"$2,231,474",2010,3,206
+"$58,100","$2,446,500",$5 million,4/7,Lionsgate,Drama,Rabbit Hole,12/17,170,PG-13,"December 17, 2010",1 hrs. 32 min.,LGF,"$2,229,058",2010,5,131
+"$178,200","$2,280,500",$13 million,7/1,Sony Classics,Foreign,A Prophet (Un prophète),2/26,171,R,"February 26, 2010",2 hrs. 30 min.,SPC,"$2,087,720",2010,9,83
+"$121,500","$2,222,600",$13 million,4/14,Roadside Attractions,Comedy,"I Love You, Phillip Morris",12/3,172,R,"December 3, 2010",1 hrs. 40 min.,RAtt.,"$2,037,459",2010,6,100
+"$190,300","$2,003,100",$7.3 million,8/12,Samuel Goldwyn,Crime Thriller,Harry Brown,4/30,173,R,"April 30, 2010",1 hrs. 43 min.,Gold.,"$1,818,681",2010,19,67
+"$251,600","$1,967,900",$14 million,10/14,Warner Bros.,Comedy,Flipped,8/6,174,PG,"August 6, 2010",1 hrs. 30 min.,WB,"$1,755,212",2010,45,442
+"$128,600","$1,959,000",$7 million,3/3,Focus Features,Comedy / Drama,Somewhere,12/22,175,R,"December 22, 2010",1 hrs. 38 min.,Focus,"$1,785,645",2010,7,83
+"$81,800","$1,954,700",$22 million,12/30,Overture Films,Drama / Thriller,Stone,10/8,176,R,"October 8, 2010",1 hrs. 45 min.,Over.,"$1,810,078",2010,6,125
+"$48,800","$1,813,900",,10/21,Sony Classics,Foreign,Coco Chanel & Igor Stravinsky,6/11,177,R,"June 11, 2010",1 hrs. 55 min.,SPC,"$1,621,226",2010,3,74
+"$74,300","$1,792,600",,11/11,IFC,Romance,Cairo Time,8/6,178,PG,"August 6, 2010",1 hrs. 28 min.,IFC,"$1,603,616",2010,5,76
+"$1,053,100","$1,788,200",,6/24,Reliance Big Pictures,Romance,Kites,5/21,179,Unrated,"May 21, 2010",2 hrs. 10 min.,Relbig.,"$1,643,486Domestic Lifetime Gross: $1,685,269",2010,207,207
+"$933,300","$1,647,900",,7/11,UTV Communications,Drama,Raajneeti,6/4,180,Unrated,"June 4, 2010",2 hrs. 58 min.,UTV,"$1,514,558",2010,124,124
+"$559,500","$1,620,300",$10 million,7/15,Roadside Attractions,Drama,The Joneses,4/16,181,R,"April 16, 2010",1 hrs. 35 min.,RAtt.,"$1,475,746",2010,193,217
+"$57,000","$1,573,700",,12/9,Weinstein Company,Drama,Nowhere Boy,10/8,182,R,"October 8, 2010",1 hrs. 38 min.,Wein.,"$1,457,248",2010,4,215
+"$39,100","$1,491,400",,12/5,National Geographic Entertainment,Documentary,Restrepo,6/25,183,R,"June 25, 2010",1 hrs. 34 min.,NGE,"$1,330,894",2010,2,52
+"$704,700","$1,445,700",,9/30,Eros,Foreign / Action,Dabangg,9/10,184,Unrated,"September 10, 2010",2 hrs. 35 min.,Eros,"$1,288,549",2010,62,68
+"$46,900","$1,399,900",$42 million,10/21,Sony Classics,Comedy,Micmacs,5/28,185,R,"May 28, 2010",1 hrs. 45 min.,SPC,"$1,262,079",2010,4,52
+"$704,900","$1,299,300",,5/20,Eros,Comedy,Housefull,4/30,186,Unrated,"April 30, 2010",2 hrs. 15 min.,Eros,"$1,183,658",2010,82,82
+"$47,200","$1,229,000",$7 million,10/21,Sony Classics,Drama,Mother and Child,5/7,187,R,"May 7, 2010",2 hrs. 5 min.,SPC,"$1,110,509",2010,4,119
+"$676,500","$1,222,700",,11/25,Eros,Foreign,Golmaal 3,11/5,188,Unrated,"November 5, 2010",2 hrs. 35 min.,Eros,"$1,132,192",2010,86,86
+"$40,600","$1,197,000",,4/14,Sony Classics,Drama,Made in Dagenham,11/19,189,R,"November 19, 2010",1 hrs. 53 min.,SPC,"$1,095,369",2010,3,89
+"$53,800","$1,168,600",,8/8,Screen Media,Drama,La Mission,4/9,190,R,"April 9, 2010",1 hrs. 57 min.,Scre.,"$1,062,941",2010,15,47
+"$582,900","$1,165,600",,1/20,UTV Communications,Foreign,Tees Maar Khan,12/22,191,Unrated,"December 22, 2010",2 hrs. 15 min.,UTV,"$1,076,443",2010,108,108
+"$69,500","$1,165,300",,3/17,Sony Classics,Crime Drama,Animal Kingdom,8/13,192,R,"August 13, 2010",1 hrs. 52 min.,SPC,"$1,044,039",2010,7,61
+"$37,300","$1,144,400",$12.5 million,4/7,ATO Pictures,Thriller,Casino Jack,12/17,193,R,"December 17, 2010",1 hrs. 48 min.,ATO,"$1,042,959",2010,7,60
+"$561,700","$1,138,400",,5/13,IndustryWorks,Sports Drama,The Perfect Game,4/16,194,PG,"April 16, 2010",1 hrs. 58 min.,IW,"$1,037,071",2010,417,417
+"$112,500","$1,133,400",,11/11,Lionsgate,Thriller,Buried,9/24,195,R,"September 24, 2010",1 hrs. 40 min.,LGF,"$1,044,143",2010,11,107
+"$317,000","$1,108,100",,4/29,Shorts International,Unknown,2010 Oscar Shorts,2/19,196,Unrated,"February 19, 2010",,Shrts.,"$1,018,169",2010,95,95
+"$527,100","$1,098,600",,12/16,UTV Communications,Foreign,Guzaarish,11/19,197,Unrated,"November 19, 2010",2 hrs. 15 min.,UTV,"$1,017,335",2010,108,108
+,"$998,300",,9/1,CanZion Films,Drama,The Salvation Poem (Poema de Salvacion),8/27,198,PG-13,"August 27, 2010",1 hrs. 18 min.,CZ,"$914,818",2010,,30
+"$76,100","$994,100",,7/7,National Geographic Entertainment,Documentary,The Wildest Dream,8/6,199,PG,"August 6, 2010",1 hrs. 34 min.,NGE,"$898,137",2010,12,21
+"$205,300","$971,800",$9 million,9/30,Roadside Attractions,Drama,Princess Kaiulani,5/14,200,PG,"May 14, 2010",1 hrs. 37 min.,RAtt.,"$883,887",2010,33,47
+"$412,000","$951,400",,8/5,UTV Communications,Foreign,I Hate Luv Storys,6/30,201,Unrated,"June 30, 2010",2 hrs. 15 min.,UTV,"$847,993",2010,85,85
+"$559,000","$923,100",,10/28,Eros,Foreign,Anjaana Anjaani,10/1,202,Unrated,"October 1, 2010",2 hrs. 35 min.,Eros,"$854,757",2010,91,91
+"$55,800","$905,000",,2/24,Five & Two Pictures,Drama,What If...,8/20,203,PG,"August 20, 2010",1 hrs. 40 min.,5&2,"$814,906",2010,23,82
+"$58,500","$892,200",,12/9,Weinstein Company,Documentary,The Tillman Story,8/20,204,R,"August 20, 2010",1 hrs. 34 min.,Wein.,"$802,535",2010,4,28
+"$392,700","$850,400",,9/9,UTV Communications,Foreign,Peepli Live,8/13,205,Unrated,"August 13, 2010",1 hrs. 44 min.,UTV,"$757,951",2010,64,70
+"$365,300","$846,300",$20 million,8/26,Paramount Vantage,Crime Comedy,Middle Men,8/6,206,R,"August 6, 2010",1 hrs. 45 min.,ParV,"$754,301",2010,252,252
+"$25,100","$776,700",,6/17,Music Box Films,Historical Drama,North Face,1/29,207,Unrated,"January 29, 2010",2 hrs. 6 min.,MBox,"$711,421",2010,4,36
+"$529,900","$771,100",,7/8,Reliance Big Pictures,Drama / Thriller,Raavan,6/18,208,Unrated,"June 18, 2010",2 hrs. 18 min.,Relbig.,"$708,726",2010,120,120
+"$14,200","$743,900",,9/16,Zeitgeist,Foreign,Mid-August Lunch,3/17,209,Unrated,"March 17, 2010",1 hrs. 15 min.,Zeit.,"$675,299",2010,2,23
+"$43,300","$743,100",$8 million,7/29,GKIDS,Animation,The Secret of Kells,3/5,210,Unrated,"March 5, 2010",1 hrs. 15 min.,GK,"$676,775",2010,1,37
+"$24,400","$735,400",,11/18,Weinstein Company,Foreign,The Concert,7/30,211,PG-13,"July 30, 2010",1 hrs. 59 min.,Wein.,"$657,986",2010,2,21
+"$86,900","$727,000",,1/6,Warner Bros.,IMAX,The Polar Express (IMAX re-issue 2010),12/3,212,G,"December 3, 2010",1 hrs. 40 min.,WB,"$672,796Domestic Lifetime Gross: $186,493,472",2010,15,17
+"$333,100","$715,900",,9/30,UTV Communications,Foreign,We Are Family,9/3,213,Unrated,"September 3, 2010",1 hrs. 55 min.,UTV,"$638,144",2010,78,78
+"$338,700","$708,000",$2 million,10/7,Sony / Columbia,Comedy,The Virginity Hit,9/24,214,R,"September 24, 2010",1 hrs. 26 min.,Sony,"$636,706",2010,700,700
+"$36,500","$690,100",$70 million,10/21,Newmarket,Historical Drama,Agora,5/28,215,R,"May 28, 2010",2 hrs. 7 min.,NM,"$619,423",2010,2,17
+"$38,900","$679,500","$1,000,000",9/16,Kino,Drama,Ajami,2/3,216,Unrated,"February 3, 2010",2 hrs. 0 min.,Kino,"$622,403",2010,3,23
+"$19,700","$679,400",$13 million,6/17,IFC,Historical Drama,Vincere,3/19,217,Unrated,"March 19, 2010",2 hrs. 8 min.,IFC,"$619,162",2010,2,36
+"$57,400","$670,300",,2/10,Oscilloscope Pictures,Drama,Howl,9/24,218,R,"September 24, 2010",1 hrs. 30 min.,Osci.,"$617,334",2010,6,29
+,"$639,600",,12/31,Warner Bros.,Documentary,Elvis On Tour 75th Anniversary,7/29,219,G,"July 29, 2010",1 hrs. 33 min.,WB,"$587,818",2010,,
+"$40,100","$634,300",,4/7,Magnolia,Thriller,All Good Things,12/3,220,R,"December 3, 2010",1 hrs. 41 min.,Magn.,"$582,024",2010,2,35
+"$171,500","$616,500",,3/3,Music Box Films,Crime Thriller,Mesrine: Killer Instinct,8/27,221,R,"August 27, 2010",1 hrs. 53 min.,MBox,"$551,697",2010,28,34
+"$30,200","$612,900",$12 million,9/30,Magnolia,Drama,Ondine,6/4,222,PG-13,"June 4, 2010",1 hrs. 42 min.,Magn.,"$550,472",2010,5,39
+"$346,900","$608,000",,8/8,Eros,Foreign,Khatta Meetha,7/23,223,Unrated,"July 23, 2010",2 hrs. 35 min.,Eros,"$541,904",2010,83,83
+"$20,100","$605,900",,3/17,Sony Classics,Comedy,Tamara Drewe,10/8,224,R,"October 8, 2010",1 hrs. 47 min.,SPC,"$560,391",2010,4,59
+"$39,000","$604,100",,6/17,Magnolia,Crime Drama,Mother (2010),3/12,225,R,"March 12, 2010",2 hrs. 8 min.,Magn.,"$551,509",2010,6,38
+"$385,000","$596,600",,7/29,Rocky Mountain Pictures,Family,Standing Ovation,7/16,226,PG,"July 16, 2010",1 hrs. 46 min.,RM,"$531,806",2010,623,625
+"$42,500","$595,600",,5/27,IFC,Documentary,The Art of the Steal,2/26,227,Unrated,"February 26, 2010",1 hrs. 41 min.,IFC,"$544,890",2010,3,34
+"$32,400","$592,500",,12/16,Overture Films,Comedy,Jack Goes Boating,9/17,228,R,"September 17, 2010",1 hrs. 29 min.,Over.,"$541,992",2010,4,90
+"$21,300","$589,400",,1/13,Lorber Films,Romance,Mademoiselle Chambon,5/28,229,Unrated,"May 28, 2010",1 hrs. 41 min.,Lorb.,"$531,685",2010,2,16
+"$21,900","$583,500",,12/23,Kino,Sci-Fi,Metropolis (2010 re-issue),5/7,230,Unrated,"May 7, 2010",2 hrs. 0 min.,Kino,"$529,603Domestic Lifetime Gross: $1,236,166",2010,2,9
+"$364,000","$573,600",,2/11,Eros,Historical Drama,Veer (2010),1/22,231,Unrated,"January 22, 2010",,Eros,"$527,193",2010,92,92
+"$38,600","$570,400",,11/18,CJ Entertainment,Foreign,The Man From Nowhere,10/1,232,R,"October 1, 2010",,CJ,"$528,175",2010,1,19
+"$207,400","$560,400",,4/15,8X Entertainment,Drama,Preacher's Kid,1/29,233,PG-13,"January 29, 2010",1 hrs. 41 min.,8X,"$515,065",2010,109,109
+"$59,000","$555,700",,12/16,IFC,Foreign,Heartbreaker,9/10,234,Unrated,"September 10, 2010",1 hrs. 45 min.,IFC,"$504,030",2010,3,43
+"$26,800","$544,000",$8.3 million,8/15,Screen Media,Drama / Thriller,The City of Your Final Destination,4/16,235,PG-13,"April 16, 2010",1 hrs. 54 min.,Scre.,"$493,296",2010,1,26
+"$21,200","$507,900",,10/28,Magnolia,Comedy,The Extra Man,7/30,236,R,"July 30, 2010",1 hrs. 48 min.,Magn.,"$453,377",2010,2,33
+"$1,200","$495,700",,8/5,First Run,Documentary,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,1/29,237,Unrated,"January 29, 2010",1 hrs. 34 min.,FRun,"$453,993",2010,1,12
+"$12,300","$472,600",,3/24,Zeitgeist,Foreign,Vision,10/13,238,Unrated,"October 13, 2010",1 hrs. 51 min.,Zeit.,"$435,274",2010,1,17
+"$269,400","$468,200",,11/4,Freestyle Releasing,Documentary,I Want Your Money,10/15,239,PG,"October 15, 2010",1 hrs. 32 min.,Free,"$433,588",2010,537,537
+"$197,100","$464,000",,2/10,China Lion,Comedy,If You Are the One 2 (Fei Cheng Wu Rao II),12/24,240,Unrated,"December 24, 2010",,CL,"$426,894",2010,20,21
+"$210,300","$461,800",,12/16,Reliance Big Pictures,Foreign,Break Ke Baad,11/24,241,Unrated,"November 24, 2010",1 hrs. 53 min.,Relbig.,"$427,628",2010,85,85
+"$108,400","$457,400",,11/4,Magnolia,Comedy / Drama,I'm Still Here,9/10,242,R,"September 10, 2010",1 hrs. 48 min.,Magn.,"$408,983",2010,19,120
+"$43,000","$452,500",,11/11,Sony Classics,Foreign,Wild Grass,6/25,243,PG,"June 25, 2010",1 hrs. 44 min.,SPC,"$403,952",2010,5,23
+"$18,800","$446,900",,7/22,Apparition,Drama / Thriller,The Square,4/9,244,R,"April 9, 2010",1 hrs. 45 min.,App.,"$406,116",2010,2,24
+"$22,900","$425,500",,2/24,IFC,Comedy,Tiny Furniture,11/12,245,Unrated,"November 12, 2010",1 hrs. 39 min.,IFC,"$391,674",2010,1,21
+"$19,200","$411,000",,12/23,Sony Classics,Foreign,Lebanon,8/6,246,R,"August 6, 2010",1 hrs. 34 min.,SPC,"$368,088",2010,2,23
+"$68,200","$410,400",,8/12,Paramount,Musical,Grease (Sing-a-Long re-issue),7/8,247,PG-13,"July 8, 2010",1 hrs. 50 min.,Par.,"$365,802Domestic Lifetime Gross: $188,755,690",2010,12,33
+"$28,100","$408,200",$3 million,5/13,IFC,Drama,Fish Tank,1/15,248,Unrated,"January 15, 2010",2 hrs. 3 min.,IFC,"$374,675",2010,2,15
+"$35,600","$401,800",,12/16,Rialto,Crime Drama,Breathless (2010 re-issue),5/28,249,Unrated,"May 28, 2010",1 hrs. 30 min.,Rialto,"$363,031",2010,4,12
+"$87,500","$385,000",,10/31,Blue Collar Releasing,Drama,Like Dandelion Dust,9/24,250,PG-13,"September 24, 2010",1 hrs. 40 min.,BCR,"$352,810",2010,25,60
+"$57,700","$371,900",,5/27,Newmarket,Historical Drama,Creation,1/22,251,PG-13,"January 22, 2010",1 hrs. 48 min.,NM,"$341,323",2010,7,12
+"$17,000","$367,100",,7/21,First Run,Documentary,Kings of Pastry,9/15,252,Unrated,"September 15, 2010",1 hrs. 24 min.,FRun,"$336,386",2010,2,10
+"$49,000","$366,300",$16 million,12/26,IFC,Drama,Enter the Void,9/24,253,Unrated,"September 24, 2010",2 hrs. 30 min.,IFC,"$336,467",2010,3,13
+"$38,200","$354,100",,11/18,Oscilloscope Pictures,Documentary,A Film Unfinished,8/18,254,Unrated,"August 18, 2010",1 hrs. 28 min.,Osci.,"$320,486",2010,4,16
+"$40,600","$347,900",$15.5 million,5/20,Samuel Goldwyn,Drama,The Yellow Handkerchief,2/26,255,PG-13,"February 26, 2010",1 hrs. 42 min.,Gold.,"$318,623",2010,7,29
+"$97,900","$343,200",,12/16,Vitagraph,Comedy,Today's Special,11/19,256,R,"November 19, 2010",1 hrs. 39 min.,Vita.,"$317,831",2010,55,55
+"$43,600","$334,000",,8/26,First Independent Pictures,Crime Drama,Holy Rollers,5/21,257,R,"May 21, 2010",1 hrs. 29 min.,FInd.,"$303,064",2010,3,20
+"$44,800","$330,500",,2/24,Drafthouse,Comedy,Four Lions,11/5,258,R,"November 5, 2010",1 hrs. 37 min.,Drft.,"$304,616",2010,8,18
+"$37,400","$329,600",,2/3,IFC,Foreign,White Material,11/19,259,Unrated,"November 19, 2010",1 hrs. 40 min.,IFC,"$304,020",2010,3,21
+"$22,900","$316,000",,12/23,Zeitgeist,Documentary,Last Train Home,9/3,260,Unrated,"September 3, 2010",1 hrs. 25 min.,Zeit.,"$288,328",2010,1,14
+"$34,200","$315,800",$4.5 million,9/23,IFC,Comedy / Drama,Life During Wartime,7/23,261,R,"July 23, 2010",1 hrs. 38 min.,IFC,"$281,447",2010,1,20
+"$195,500","$311,600",,3/18,Eros,Comedy Thriller,Karthik Calling Karthik,2/26,262,Unrated,"February 26, 2010",2 hrs. 35 min.,Eros,"$286,409",2010,70,70
+"$23,500","$308,400",,11/11,IFC,Foreign,Soul Kitchen,8/20,263,Unrated,"August 20, 2010",1 hrs. 39 min.,IFC,"$276,901",2010,2,23
+"$261,500","$308,300",,12/16,Eros,Foreign,No Problem,12/10,264,Unrated,"December 10, 2010",2 hrs. 23 min.,Eros,"$285,468",2010,84,84
+"$83,500","$307,200",,2/17,Music Box Films,Crime Thriller,Mesrine: Public Enemy No. 1,9/3,265,R,"September 3, 2010",2 hrs. 13 min.,MBox,"$275,387",2010,31,31
+"$46,300","$305,100",,10/7,Magnolia,Documentary,Countdown to Zero,7/23,266,PG,"July 23, 2010",1 hrs. 30 min.,Magn.,"$272,040",2010,3,28
+"$45,800","$301,300",$20 million,2/24,Miramax,Romance,The Tempest,12/10,267,PG-13,"December 10, 2010",1 hrs. 50 min.,Mira.,"$277,943",2010,5,21
+"$19,600","$286,400",,12/19,Arthouse Films,Documentary,Jean-Michel Basquiat: The Radiant Child,7/21,268,Unrated,"July 21, 2010",1 hrs. 28 min.,Arth.,"$256,242",2010,1,7
+"$13,000","$270,600",,8/18,New Yorker,Animation,My Dog Tulip,9/1,269,Unrated,"September 1, 2010",1 hrs. 22 min.,NYer,"$246,574",2010,1,5
+"$73,400","$270,300",,7/22,Abramorama,Documentary,When You're Strange,4/9,270,R,"April 9, 2010",1 hrs. 30 min.,Abr.,"$246,078",2010,8,8
+"$143,000","$267,900",,4/1,Anchor Bay Films,Horror,Frozen (2010),2/5,271,R,"February 5, 2010",1 hrs. 34 min.,Anch.,"$246,176",2010,106,106
+,"$263,800",,12/31,Warner Bros.,Horror,The Exorcist Extended Director's Cut,9/30,272,R,"September 30, 2010",2 hrs. 12 min.,WB,"$235,134Domestic Lifetime Gross: $232,906,145",2010,,
+"$22,100","$256,300","$500,000",12/26,Magnolia,Sci-Fi,Monsters,10/29,273,R,"October 29, 2010",1 hrs. 32 min.,Magn.,"$237,301",2010,3,25
+"$10,000","$256,100",,1/27,Oscilloscope Pictures,Fantasy,Rare Exports: A Christmas Tale,12/3,274,R,"December 3, 2010",1 hrs. 40 min.,Osci.,"$236,347",2010,1,21
+"$84,100","$245,900",,5/6,Screen Media,Thriller,Formosa Betrayed,2/26,275,R,"February 26, 2010",1 hrs. 26 min.,Scre.,"$225,341",2010,15,16
+"$246,300","$244,200",,4/15,Parallel Media,Horror,The Black Waters of Echo's Pond,4/9,276,R,"April 9, 2010",1 hrs. 40 min.,PM,"$224,409",2010,404,404
+"$12,200","$243,300",$13 million,8/19,IFC,Crime Drama,The Killer Inside Me,6/18,277,R,"June 18, 2010",1 hrs. 49 min.,IFC,"$217,277",2010,1,17
+"$59,000","$236,300",,9/30,7-57 Releasing,Foreign,La Soga,8/13,278,R,"August 13, 2010",1 hrs. 42 min.,7-57,"$210,625",2010,11,20
+"$10,700","$227,600",,12/30,Cinema Guild,Documentary,Sweetgrass,1/6,279,Unrated,"January 6, 2010",1 hrs. 45 min.,CGld,"$207,473",2010,1,9
+"$20,800","$227,100",$9 million,10/21,Strand,Foreign,The Girl on the Train,1/22,280,Unrated,"January 22, 2010",1 hrs. 45 min.,Strand,"$208,023",2010,2,10
+"$142,400","$224,800",,9/23,Samuel Goldwyn,Sports Drama,Legendary,9/10,281,PG-13,"September 10, 2010",1 hrs. 47 min.,Gold.,"$200,393",2010,177,177
+"$23,700","$222,800",,8/12,Cinema Libre Studio,Documentary,South of the Border,6/25,282,Unrated,"June 25, 2010",1 hrs. 18 min.,CLS,"$198,600",2010,1,12
+"$30,700","$212,100",,12/23,Sony Classics,Drama,"A Woman, A Gun and A Noodle Shop",9/3,283,R,"September 3, 2010",1 hrs. 35 min.,SPC,"$190,946",2010,5,23
+"$211,800","$211,800",,9/2,Flashlight,Documentary,Nick Saban: Gamechanger,8/27,284,Unrated,"August 27, 2010",1 hrs. 30 min.,FLF,"$188,786",2010,26,26
+"$71,200","$211,100",$90 million,12/16,Freestyle Releasing,Fantasy,The Nutcracker in 3D,11/24,285,PG,"November 24, 2010",1 hrs. 48 min.,Free,"$195,459",2010,42,115
+"$123,700","$206,300",$5 million,8/19,Hannover House,Thriller,Twelve,8/6,286,R,"August 6, 2010",1 hrs. 38 min.,Hann.,"$183,920",2010,231,231
+"$18,300","$205,000",,1/27,Magnolia,Documentary,Client 9: The Rise and Fall of Eliot Spitzer,11/5,287,R,"November 5, 2010",1 hrs. 57 min.,Magn.,"$189,416",2010,3,17
+"$10,600","$204,500",,3/24,Arthouse Films,Documentary,Waste Land,10/29,288,Unrated,"October 29, 2010",1 hrs. 39 min.,Arth.,"$187,716",2010,1,8
+"$18,500","$202,700",,10/21,Kino,Documentary,Winnebago Man,7/9,289,Unrated,"July 9, 2010",1 hrs. 27 min.,Kino,"$181,039",2010,2,12
+"$13,600","$199,200",,7/1,IFC,Horror,Human Centipede,4/30,290,R,"April 30, 2010",1 hrs. 30 min.,IFC,"$181,467",2010,1,19
+"$86,600","$198,200",,8/12,JS Media & Entertainment,War,71 Into the Fire,7/30,291,Unrated,"July 30, 2010",2 hrs. 0 min.,JS,"$176,638",2010,20,20
+"$31,000","$194,300",,7/8,Magnolia,Documentary,Casino Jack and the United States of Money,5/7,292,R,"May 7, 2010",2 hrs. 2 min.,Magn.,"$176,865",2010,9,21
+"$13,700","$190,200",,12/23,IFC,Foreign,Leaving,10/1,293,Unrated,"October 1, 2010",1 hrs. 23 min.,IFC,"$176,113",2010,2,13
+"$45,200","$187,000",,11/11,Anchor Bay Films,Thriller,The Disappearance of Alice Creed,8/6,294,R,"August 6, 2010",1 hrs. 40 min.,Anch.,"$166,980",2010,10,12
+"$12,700","$186,700",,6/10,Oscilloscope Pictures,Drama,Terribly Happy,2/5,295,Unrated,"February 5, 2010",1 hrs. 39 min.,Osci.,"$170,943",2010,1,9
+"$19,100","$184,400",,2/3,Lorber Films,Documentary,Genius Within: The Inner Life of Glenn Gould,9/10,296,Unrated,"September 10, 2010",1 hrs. 46 min.,Lorb.,"$167,508",2010,3,9
+"$55,300","$184,200",,11/11,Variance Films,Foreign,De Mai Tinh (Fool for Love),9/10,297,PG-13,"September 10, 2010",1 hrs. 40 min.,Vari.,"$165,987",2010,8,8
+"$128,300","$183,500",,1/28,UTV Communications,Foreign,Chance Pe Dance,1/15,298,Unrated,"January 15, 2010",,UTV,"$168,643",2010,68,68
+"$45,500","$171,600",,12/9,Samuel Goldwyn,Drama,Welcome to the Rileys,10/29,299,R,"October 29, 2010",1 hrs. 50 min.,Gold.,"$158,898",2010,10,11
+"$8,800","$166,500",,4/28,International Film Circuit,Unknown,The Cremaster Cycle (re-issue),4/9,300,Unrated,"April 9, 2010",6 hrs. 38 min.,ICir,"$151,239Domestic Lifetime Gross: $665,861",2010,1,2
+"$13,100","$166,000",,6/9,Janus Films,Foreign / Horror,House (re-release),1/15,301,Unrated,"January 15, 2010",,Jan.,"$150,284",2010,1,7
+"$15,800","$165,400",$9 million,4/29,IFC,Crime Thriller,Red Riding Trilogy,2/5,302,Unrated,"February 5, 2010",5 hrs. 7 min.,IFC,"$151,644",2010,1,9
+"$16,300","$165,200",,7/15,Indican,War,Only the Brave,5/28,303,R,"May 28, 2010",1 hrs. 39 min.,Indic.,"$150,000",2010,5,5
+"$21,600","$157,400",$18 million,1/20,IFC,Action Thriller,Carlos,10/15,304,Unrated,"October 15, 2010",2 hrs. 20 min.,IFC,"$145,526",2010,2,7
+"$11,400","$156,700",,7/1,IFC,Drama,Father of My Children,5/21,305,Unrated,"May 21, 2010",2 hrs. 0 min.,IFC,"$144,022",2010,1,7
+"$48,500","$154,700",$25 million,7/29,eOne Entertainment,Drama,Love Ranch,6/30,306,R,"June 30, 2010",1 hrs. 57 min.,E1,"$137,885",2010,11,11
+"$1,100","$152,400",,4/8,Indican,Action Thriller,The Weathered Underground,1/26,307,Unrated,"January 26, 2010",5 hrs. 10 min.,Indic.,"$140,091",2010,3,22
+"$149,900","$149,900",$3 million,10/7,New Films Cinema,Horror Thriller,Chain Letter,10/1,308,R,"October 1, 2010",1 hrs. 36 min.,NFC,"$138,788",2010,406,406
+"$14,400","$146,500",$3 million,6/24,Magnolia,Romance,The Eclipse,3/26,309,R,"March 26, 2010",1 hrs. 28 min.,Magn.,"$133,411",2010,6,12
+,"$145,600",,12/31,Warner Bros.,Music Drama,Pure Country 2,10/15,310,PG,"October 15, 2010",,WB,"$133,771",2010,,
+"$17,300","$142,800",,11/11,First Run,Documentary,Stonewall Uprising,6/16,311,Unrated,"June 16, 2010",1 hrs. 22 min.,FRun,"$128,203",2010,4,10
+"$11,100","$141,700",,5/20,Magnolia,Foreign / Action,Warlords,4/2,312,R,"April 2, 2010",,Magn.,"$129,078",2010,3,12
+"$5,200","$141,100",$10 million,7/1,IFC,Action / Adventure,"The Good, the Bad, the Weird",4/23,313,R,"April 23, 2010",2 hrs. 10 min.,IFC,"$128,486",2010,1,15
+"$5,100","$141,000",,11/4,"Monterey Media, Inc.",Drama,"Lovely, Still",9/10,314,PG,"September 10, 2010",1 hrs. 32 min.,Mont.,"$127,564",2010,2,17
+"$48,000","$138,600",$12 million,9/30,Magnolia,Action / Adventure,Centurion,8/27,315,R,"August 27, 2010",1 hrs. 37 min.,Magn.,"$123,570",2010,12,19
+"$11,100","$136,800",,12/16,Rialto,Drama,Ran (2010 re-issue),2/5,316,R,"February 5, 2010",2 hrs. 42 min.,Rialto,"$124,673Domestic Lifetime Gross: $4,135,750",2010,2,4
+"$5,700","$130,900",,6/24,Indican,Drama,Valley of the Heart's Delight,4/9,317,Unrated,"April 9, 2010",1 hrs. 40 min.,Indic.,"$119,290",2010,4,8
+"$5,400","$129,700",,3/22,Worldplay,Documentary,See What I'm Saying: The Deaf Entertainers Documentary,3/19,318,PG-13,"March 19, 2010",1 hrs. 30 min.,WP,"$118,206",2010,1,21
+"$52,000","$127,800",,7/1,CFI Releasing,Drama,Touching Home,4/30,319,PG-13,"April 30, 2010",1 hrs. 51 min.,CFI,"$116,353",2010,3,7
+"$26,400","$127,000",,10/7,Freestyle Releasing,Musical,Bran Nue Dae,9/10,320,PG-13,"September 10, 2010",1 hrs. 25 min.,Free,"$113,568",2010,16,55
+"$36,900","$124,900",$6 million,4/22,Paladin,Drama,The Greatest (2010),4/2,321,R,"April 2, 2010",,Pala.,"$114,766",2010,8,19
+"$17,900","$124,900",,8/12,IFC,Comedy,Let it Rain,6/18,322,Unrated,"June 18, 2010",1 hrs. 50 min.,IFC,"$111,844",2010,2,6
+"$7,300","$122,200",,3/24,Kino,Foreign,Dogtooth,6/25,323,Unrated,"June 25, 2010",1 hrs. 36 min.,Kino,"$110,248",2010,2,5
+"$3,500","$121,900",,5/22,Cinema Guild,Documentary,Marwencol,10/8,324,Unrated,"October 8, 2010",1 hrs. 23 min.,CGld,"$112,036",2010,1,6
+"$6,000","$121,900",,10/14,Abramorama,Documentary,Best Worst Movie,4/23,325,Unrated,"April 23, 2010",1 hrs. 33 min.,Abr.,"$109,895",2010,1,2
+"$51,100","$119,500",,9/30,Four of a Kind,Romantic Comedy,The Romantics,9/10,326,PG-13,"September 10, 2010",1 hrs. 35 min.,FOAK,"$106,524",2010,2,14
+"$65,800","$119,200",,5/6,Anchor Bay Films,Horror Thriller,After.Life,4/9,327,R,"April 9, 2010",1 hrs. 37 min.,Anch.,"$108,595",2010,41,41
+"$90,000","$119,000",$10 million,2/25,Paladin,Drama,Blood Done Sign My Name,2/19,328,PG-13,"February 19, 2010",2 hrs. 8 min.,Pala.,"$109,383",2010,95,95
+"$7,600","$117,900",,4/14,The Film Collaborative,Foreign,Undertow (2010),9/17,329,Unrated,"September 17, 2010",1 hrs. 40 min.,TFC,"$108,620",2010,1,3
+"$25,000","$117,300",$8 million,12/16,Freestyle Releasing,Comedy Thriller,Wild Target,10/29,330,PG-13,"October 29, 2010",1 hrs. 38 min.,Free,"$108,589",2010,4,13
+"$23,600","$116,700",,3/4,IndieVest Pictures,Comedy / Drama,Saint John of Las Vegas,1/29,331,R,"January 29, 2010",1 hrs. 25 min.,IVP,"$102,645",2010,2,14
+"$22,300","$116,200",,12/23,IFC,Foreign,Inspector Bellamy,10/29,332,Unrated,"October 29, 2010",1 hrs. 50 min.,IFC,"$107,612",2010,2,4
+"$11,900","$112,700",,12/16,Cinema Guild,Romance,Everyone Else,4/9,333,Unrated,"April 9, 2010",1 hrs. 59 min.,CGld,"$102,042",2010,1,5
+"$48,000","$112,000",$4 million,7/15,Magnolia,Horror,George A. Romero's Survival of the Dead,5/28,334,R,"May 28, 2010",1 hrs. 30 min.,Magn.,"$101,740",2010,20,20
+"$6,400","$111,600",,2/17,Strand,Comedy,Feed the Fish,4/23,335,Unrated,"April 23, 2010",,Strand,"$101,170",2010,1,4
+"$46,700","$111,000",,7/22,Red Flag Releasing,Documentary,8: The Mormon Proposition,6/18,336,R,"June 18, 2010",1 hrs. 20 min.,RF,"$100,280",2010,16,16
+"$12,200","$109,800",,9/9,Indican,Period Drama,Kings of the Evening,6/11,337,PG,"June 11, 2010",1 hrs. 39 min.,Indic.,"$99,270",2010,4,5
+"$37,800","$109,600",$10 million,3/25,Roadside Attractions,Romantic Comedy,The Good Guy,2/19,338,R,"February 19, 2010",1 hrs. 30 min.,RAtt.,"$100,688",2010,9,9
+"$8,900","$109,500",,5/12,First Run,Documentary,Bhutto,12/3,339,Unrated,"December 3, 2010",1 hrs. 51 min.,FRun,"$100,202",2010,2,4
+"$34,400","$109,400",$2.9 million,12/2,Magnolia,Documentary,Freakonomics,10/1,340,PG-13,"October 1, 2010",1 hrs. 25 min.,Magn.,"$101,270",2010,20,20
+,"$104,700",,-,Unknown,Foreign,Outside the Law (Hors-la-loi),11/3,341,Unrated,"November 3, 2010",2 hrs. 18 min.,,"$96,933",2010,,
+"$35,000","$100,500",$2 million,11/25,Anchor Bay Films,Horror,I Spit on Your Grave,10/8,342,Unrated,"October 8, 2010",1 hrs. 48 min.,Anch.,"$93,051",2010,12,12
+"$11,200","$98,500",,8/19,Music Box Films,Foreign,OSS 117: Lost in Rio,5/7,343,Unrated,"May 7, 2010",1 hrs. 37 min.,MBox,"$89,375",2010,3,7
+"$4,400","$98,500",,3/3,Saint Juste,Comedy,Oy Vey! My Son is Gay!,12/24,344,PG-13,"December 24, 2010",1 hrs. 31 min.,SJI,"$89,507",2010,1,5
+"$4,100","$96,300",,6/30,Moving Pictures Institute,Documentary,The Cartel,4/16,345,Unrated,"April 16, 2010",1 hrs. 33 min.,MP,"$87,763",2010,2,2
+"$70,100","$96,100",,1/14,Freestyle Releasing,Comedy,Crazy on the Outside,1/8,346,PG-13,"January 8, 2010",1 hrs. 36 min.,Free,"$88,335",2010,75,75
+"$17,400","$91,600",,9/2,Oscilloscope Pictures,Drama,Kisses,7/16,347,Unrated,"July 16, 2010",1 hrs. 12 min.,Osci.,"$81,680",2010,2,11
+"$9,700","$89,800",,6/17,IFC,Drama,No One Knows About Persian Cats,4/16,348,Unrated,"April 16, 2010",1 hrs. 46 min.,IFC,"$81,768",2010,2,12
+"$1,500","$88,700",,2/10,GKIDS,Animation,Summer Wars,12/24,349,PG,"December 24, 2010",1 hrs. 54 min.,GK,"$80,768",2010,1,11
+"$36,000","$88,600",,5/6,Buena Vista,Documentary,Waking Sleeping Beauty,3/26,350,PG,"March 26, 2010",1 hrs. 26 min.,BV,"$80,741",2010,5,5
+"$17,000","$85,000","$15,000",5/20,IFC,Romance,Breaking Upwards,4/2,351,Unrated,"April 2, 2010",1 hrs. 29 min.,IFC,"$77,389",2010,1,5
+"$14,600","$82,800",,2/24,Magnolia,Drama,Night Catches Us,12/3,352,R,"December 3, 2010",1 hrs. 28 min.,Magn.,"$76,185",2010,4,9
+"$2,600","$80,300",,4/7,International Film Circuit,Documentary,Enemies of the People,7/30,353,Unrated,"July 30, 2010",1 hrs. 33 min.,ICir,"$73,171",2010,1,6
+"$6,600","$80,300",,9/16,First Run,Documentary,Prodigal Sons,2/26,354,Unrated,"February 26, 2010",1 hrs. 26 min.,FRun,"$73,544",2010,1,11
+"$6,600","$79,400",,11/25,Music Box Films,Crime Drama,The Sicilian Girl,8/4,355,Unrated,"August 4, 2010",1 hrs. 55 min.,MBox,"$71,239",2010,1,6
+"$15,800","$78,800",,3/17,Indican,Action,Rosencrantz & Guildenstern Are Undead,6/4,356,R,"June 4, 2010",1 hrs. 25 min.,Indic.,"$71,007",2010,2,4
+"$23,500","$77,700",$9 million,10/14,First Look,Crime Comedy,Leaves of Grass,9/17,357,R,"September 17, 2010",1 hrs. 45 min.,First,"$70,066",2010,3,6
+"$11,100","$75,300",,-,The Film Desk,Drama,Le Amiche (re-issue),6/18,358,Unrated,"June 18, 2010",1 hrs. 44 min.,FDesk,"$68,167",2010,1,1
+"$9,900","$74,800",,11/11,Mangusta Productions,Documentary,2012: Time for Change,4/9,359,Unrated,"April 9, 2010",,Mang.,"$68,339",2010,1,2
+"$5,400","$74,700",,10/14,Strand,Historical Drama,John Rabe,5/21,360,Unrated,"May 21, 2010",2 hrs. 14 min.,Strand,"$67,519",2010,3,6
+"$11,800","$74,600",,-,Balcony Releasing,Documentary,The Sun Behind the Clouds: Tibet's Struggle for Freedom,3/31,361,Unrated,"March 31, 2010",1 hrs. 19 min.,Bal.,"$67,095",2010,1,4
+"$5,000","$74,500",,4/7,Variance Films,Documentary,Strange Powers: Stephin Merritt and the Magnetic Fields,10/27,362,Unrated,"October 27, 2010",1 hrs. 22 min.,Vari.,"$68,719",2010,1,5
+"$8,400","$73,800",,1/6,Balcony Releasing,Documentary,Budrus,10/8,363,Unrated,"October 8, 2010",1 hrs. 18 min.,Bal.,"$68,353",2010,1,4
+"$5,700","$72,700",,7/1,First Run,Documentary,Dancing Across Borders,3/26,364,Unrated,"March 26, 2010",1 hrs. 28 min.,FRun,"$66,166",2010,1,5
+"$22,000","$72,000",,7/22,Hannover House,Documentary,Racing Dreams,5/21,365,PG,"May 21, 2010",1 hrs. 36 min.,Hann.,"$65,082",2010,33,33
+"$8,600","$68,300",,2/17,Film Movement,Drama,Alamar,7/14,366,Unrated,"July 14, 2010",1 hrs. 13 min.,FM,"$61,613",2010,1,3
+"$20,900","$68,000",,5/19,China Lion,Foreign,Aftershock (Tangshan Dadizhen),10/29,367,Unrated,"October 29, 2010",2 hrs. 15 min.,CL,"$62,962",2010,25,25
+"$29,000","$67,700",,12/30,Roadside Attractions,Documentary,Cool It,11/12,368,PG,"November 12, 2010",1 hrs. 28 min.,RAtt.,"$62,713",2010,41,43
+"$12,200","$65,200",,10/21,Sony Classics,Romance,Orlando (re-issue),7/23,369,PG-13,"July 23, 2010",1 hrs. 33 min.,SPC,"$58,198Domestic Lifetime Gross: $5,377,643",2010,2,5
+"$3,300","$61,000",,10/7,Walking Shadows,Documentary,The Nature of Existence,6/18,370,Unrated,"June 18, 2010",1 hrs. 34 min.,WS,"$54,645",2010,1,4
+"$7,400","$60,700",,7/1,IFC,Comedy,Looking for Eric,5/14,371,Unrated,"May 14, 2010",1 hrs. 56 min.,IFC,"$55,804",2010,2,11
+"$18,000","$60,600",,7/29,Variance Films,Documentary,The Lottery,6/11,372,Unrated,"June 11, 2010",1 hrs. 49 min.,Vari.,"$54,543",2010,1,3
+"$1,300","$60,000",,9/23,Eleven Arts,Drama,The Harimaya Bridge,3/12,373,Unrated,"March 12, 2010",2 hrs. 0 min.,Elev.,"$54,473",2010,1,3
+"$11,700","$59,900",,7/22,Nocturnal Features,Action Horror,God of Vampires,7/2,374,Unrated,"July 2, 2010",1 hrs. 46 min.,Noct.,"$53,345",2010,10,10
+"$10,100","$59,300",,6/24,Zeitgeist,Documentary,Harlan: In the Shadow of Jew Suss,3/3,375,Unrated,"March 3, 2010",1 hrs. 39 min.,Zeit.,"$54,305",2010,1,5
+"$6,900","$58,100",,11/4,Cinema Purgatorio,Documentary,Cropsey,6/4,376,Unrated,"June 4, 2010",1 hrs. 24 min.,CP,"$52,476",2010,1,4
+"$9,200","$57,600",,7/15,Argot Pictures,Documentary,Breath Made Visible,4/2,377,Unrated,"April 2, 2010",1 hrs. 20 min.,Argo.,"$52,387",2010,3,3
+"$29,800","$56,900",,4/22,Grassroots Films,Documentary,The Human Experience,4/9,378,PG-13,"April 9, 2010",1 hrs. 30 min.,Gr.,"$52,296",2010,5,5
+"$56,800","$56,800",,10/7,Vitagraph,Horror,Hatchet 2,10/1,379,Unrated,"October 1, 2010",1 hrs. 36 min.,Vita.,"$52,604",2010,68,68
+"$8,100","$54,900",,11/3,Cinema Guild,Foreign,The Strange Case of Angelica,12/29,380,Unrated,"December 29, 2010",1 hrs. 37 min.,CGld,"$50,135",2010,1,2
+"$23,100","$52,700",,9/2,Buena Vista,Animation,Tales from Earthsea,8/13,381,PG-13,"August 13, 2010",1 hrs. 55 min.,BV,"$48,461",2010,5,5
+"$17,300","$52,400",,9/16,IFC,Foreign,Change of Plans,8/27,382,Unrated,"August 27, 2010",1 hrs. 40 min.,IFC,"$46,714",2010,2,2
+"$8,600","$51,200",,9/29,The Film Desk,Foreign,Every Man for Himself (2010 re-issue),11/12,383,Unrated,"November 12, 2010",1 hrs. 27 min.,FDesk,"$47,262",2010,1,2
+"$17,900","$50,600",,4/22,Roadside Attractions,Thriller,Ca$h,3/26,384,R,"March 26, 2010",1 hrs. 48 min.,RAtt.,"$46,488",2010,27,43
+"$14,400","$50,500",$3.5 million,3/4,Darius Films,Comedy / Drama,Defendor,2/19,385,R,"February 19, 2010",1 hrs. 35 min.,Dar.,"$44,462",2010,3,4
+"$7,000","$50,400",,2/10,Oscilloscope Pictures,Documentary,William S. Burroughs: A Man Within,11/17,386,Unrated,"November 17, 2010",1 hrs. 30 min.,Osci.,"$46,380",2010,1,4
+"$47,300","$47,300",,12/16,Yash Raj,Foreign,Band Baaja Baaraat,12/10,387,Unrated,"December 10, 2010",2 hrs. 35 min.,Yash,"$43,820",2010,32,32
+"$14,800","$46,900",,9/28,Milestone,Documentary,On the Bowery (re-release),9/17,388,Unrated,"September 17, 2010",1 hrs. 5 min.,Mile.,"$41,802",2010,1,1
+"$6,300","$46,700",,7/29,Zeitgeist,Documentary,The Oath,5/7,389,Unrated,"May 7, 2010",1 hrs. 30 min.,Zeit.,"$42,273",2010,1,4
+"$27,300","$45,500",,6/10,Reliance Big Pictures,Romance,Kites: The Remix,5/28,390,Unrated,"May 28, 2010",1 hrs. 30 min.,Relbig.,"$41,783Domestic Lifetime Gross: $1,685,269",2010,40,40
+"$4,300","$43,600",,-,Indican,Animation,The Trouble with Terkel (2010),10/15,391,R,"October 15, 2010",1 hrs. 24 min.,Indic.,"$40,385Domestic Lifetime Gross: $161,457",2010,2,4
+"$4,600","$42,500",,3/25,Image Entertainment,Drama,44 Inch Chest,1/15,392,R,"January 15, 2010",1 hrs. 35 min.,Imag.,"$39,033",2010,1,5
+"$3,200","$41,600",,9/15,The World According to Shorts,Animation,Nine Nation Animation,9/29,393,Unrated,"September 29, 2010",1 hrs. 22 min.,Shorts,"$38,382",2010,1,2
+"$9,100","$41,200",,12/16,Lorber Films,Foreign,Army of Crime,8/20,394,Unrated,"August 20, 2010",2 hrs. 19 min.,Lorb.,"$37,031",2010,3,3
+"$13,900","$41,200",,1/6,Balcony Releasing,Documentary,The Legend of Pale Male,11/24,395,Unrated,"November 24, 2010",1 hrs. 25 min.,Bal.,"$38,083",2010,1,4
+"$15,200","$40,500",,4/15,"Monterey Media, Inc.",Historical Drama,The Red Baron,3/19,396,PG-13,"March 19, 2010",1 hrs. 46 min.,Mont.,"$37,189",2010,15,19
+"$12,900","$39,300",,4/1,Magnolia,Action,District B13: Ultimatum,2/5,397,R,"February 5, 2010",1 hrs. 35 min.,Magn.,"$36,136",2010,9,9
+"$3,500","$38,700",,-,Variance Films,Music Drama,Guy and Madeline on a Park Bench,11/5,398,Unrated,"November 5, 2010",1 hrs. 22 min.,Vari.,"$35,556",2010,1,5
+"$12,500","$38,300",,12/23,Strand,Foreign,Hideaway (Le Refuge),9/10,399,Unrated,"September 10, 2010",1 hrs. 28 min.,Strand,"$34,525",2010,4,5
+"$6,000","$37,100",,3/3,Cinema Guild,Drama,Around a Small Mountain,7/9,400,Unrated,"July 9, 2010",1 hrs. 24 min.,CGld,"$33,216",2010,1,3
+"$14,300","$37,000",,10/3,Vitagraph,Documentary,Ahead of Time,9/10,401,Unrated,"September 10, 2010",1 hrs. 13 min.,Vita.,"$33,024",2010,1,3
+"$2,600","$37,000",,9/23,Variance Films,Drama,Spoken Word,7/23,402,Unrated,"July 23, 2010",1 hrs. 56 min.,Vari.,"$32,961",2010,1,4
+"$9,100","$36,800",,5/20,Strand,Fantasy,Bluebeard,3/26,403,Unrated,"March 26, 2010",1 hrs. 20 min.,Strand,"$33,490",2010,1,3
+"$7,100","$35,700",,7/29,Argot Pictures,Documentary,Beetle Queen Conquers Tokyo,5/12,404,Unrated,"May 12, 2010",1 hrs. 30 min.,Argo.,"$32,308",2010,1,3
+,"$35,100",,12/2,Zipporah Films,Documentary,Boxing Gym,10/22,405,Unrated,"October 22, 2010",1 hrs. 31 min.,Zipp.,"$32,476",2010,,7
+"$24,000","$35,000",,6/10,Truly Indie,Documentary,Living in Emergency,6/4,406,Unrated,"June 4, 2010",1 hrs. 33 min.,Truly,"$32,208",2010,7,7
+"$6,800","$34,500",,10/14,Lorber Films,Documentary,Who Is Harry Nilsson?,9/10,408,Unrated,"September 10, 2010",1 hrs. 56 min.,Lorb.,"$30,975",2010,1,3
+"$11,300","$34,500",,6/10,Magnolia,Documentary,180 South,5/21,407,PG,"May 21, 2010",1 hrs. 25 min.,Magn.,"$31,745",2010,4,4
+"$8,900","$34,400",,8/5,IFC,Sci-Fi Action,Valhalla Rising,7/16,409,Unrated,"July 16, 2010",1 hrs. 30 min.,IFC,"$30,638",2010,1,2
+"$3,000","$34,300",,10/21,International WOW,Documentary,GasLand,9/15,410,Unrated,"September 15, 2010",1 hrs. 47 min.,WOW,"$30,846",2010,1,2
+"$10,200","$33,200",,7/15,Morning Star,Drama / Thriller,In My Sleep,4/23,411,PG-13,"April 23, 2010",1 hrs. 30 min.,MSP,"$30,158",2010,1,2
+"$12,700","$32,800",,8/12,Truly Indie,Comedy / Drama,Lbs.,3/26,412,Unrated,"March 26, 2010",1 hrs. 39 min.,Truly,"$29,866",2010,1,1
+"$3,300","$32,700",,-,Indican,Foreign,Shanghai Red,2/12,413,R,"February 12, 2010",1 hrs. 38 min.,Indic.,"$30,353",2010,1,3
+"$11,900","$32,400",,3/17,Argot Pictures,Documentary,Saint Misbehavin': The Wavy Gravy Movie,12/3,414,Unrated,"December 3, 2010",1 hrs. 27 min.,Argo.,"$29,893",2010,3,3
+"$17,600","$32,400",,5/27,MAC Releasing,Drama,Multiple Sarcasms,5/7,415,R,"May 7, 2010",1 hrs. 38 min.,MAC,"$29,731",2010,15,15
+"$6,200","$31,700",,10/7,Lorber Films,Documentary,Two in the Wave,5/19,416,Unrated,"May 19, 2010",1 hrs. 31 min.,Lorb.,"$28,808",2010,1,1
+"$9,200","$31,200",,8/12,Magnolia,Foreign / Horror,[Rec] 2,7/9,417,R,"July 9, 2010",1 hrs. 25 min.,Magn.,"$27,766",2010,5,7
+"$7,000","$29,900",,-,Cinema Purgatorio,Comedy / Drama,Here and There,5/14,418,Unrated,"May 14, 2010",1 hrs. 25 min.,CP,"$27,156",2010,1,5
+"$7,400","$28,600",,3/18,New American Vision,Drama,Eyes Wide Open,2/5,419,Unrated,"February 5, 2010",1 hrs. 30 min.,NAV,"$26,258",2010,1,1
+"$7,600","$28,500",,6/24,International Film Circuit,Documentary,October Country,2/12,420,Unrated,"February 12, 2010",1 hrs. 20 min.,ICir,"$26,185",2010,1,4
+"$4,500","$28,400",,2/10,Flicker Alley,Documentary,Henri-Georges Clouzot's Inferno,7/16,421,Unrated,"July 16, 2010",1 hrs. 42 min.,FA,"$25,489",2010,1,3
+"$6,400","$27,800","$40,000",4/22,Oscilloscope Pictures,Drama,The Exploding Girl,3/12,422,Unrated,"March 12, 2010",1 hrs. 19 min.,Osci.,"$25,572",2010,1,3
+,"$27,700",,10/14,Ripple Effect Inc.,Documentary,Fresh (2010),4/9,423,Unrated,"April 9, 2010",1 hrs. 12 min.,REI,"$25,115",2010,,3
+"$4,300","$26,300",,10/21,First Run,Documentary,Behind the Burly Q,4/23,424,Unrated,"April 23, 2010",1 hrs. 38 min.,FRun,"$23,889",2010,1,2
+"$9,100","$25,900",,8/26,Kino,Documentary,Videocracy,2/12,425,Unrated,"February 12, 2010",1 hrs. 25 min.,Kino,"$23,720",2010,1,1
+"$11,700","$25,300",,9/30,Cabin Films,Documentary,The Other City,9/17,426,Unrated,"September 17, 2010",1 hrs. 30 min.,CF,"$22,539",2010,2,2
+"$14,200","$24,400",,3/11,Roadside Attractions,Drama,Happy Tears,2/19,427,R,"February 19, 2010",1 hrs. 35 min.,RAtt.,"$22,464",2010,15,15
+"$13,400","$23,800",,12/30,Roadside Attractions,Drama,Hemingway's Garden of Eden,12/10,429,R,"December 10, 2010",1 hrs. 51 min.,RAtt.,"$22,083",2010,14,14
+"$7,600","$23,800",,12/30,IFC,Documentary,And Everything is Going Fine,12/10,428,Unrated,"December 10, 2010",1 hrs. 29 min.,IFC,"$22,080",2010,1,2
+"$9,100","$23,700",,6/3,IFC,Comedy / Drama,Daddy Longlegs,5/14,430,Unrated,"May 14, 2010",1 hrs. 40 min.,IFC,"$21,766",2010,1,2
+"$5,700","$23,600",,5/13,Strand,Drama,Toe to Toe,2/26,431,Unrated,"February 26, 2010",1 hrs. 44 min.,Strand,"$21,648",2010,1,2
+"$4,400","$23,100",,3/11,Indican,Action,The Korean,2/5,432,PG-13,"February 5, 2010",1 hrs. 38 min.,Indic.,"$20,279",2010,1,2
+"$6,500","$23,000",,-,Magnolia,Drama,The Good Heart,4/30,433,R,"April 30, 2010",1 hrs. 35 min.,Magn.,"$20,930",2010,5,6
+"$9,300","$22,900",,1/20,Strand,Crime Thriller,Red Hill,11/5,434,R,"November 5, 2010",1 hrs. 35 min.,Strand,"$21,087",2010,5,5
+"$3,200","$22,300",,-,Paladin,Comedy,Douchebag,10/1,435,Unrated,"October 1, 2010",1 hrs. 20 min.,Pala.,"$20,615",2010,1,6
+"$5,100","$22,200",,10/28,Kino,Documentary,Double Take (2010),6/2,436,Unrated,"June 2, 2010",1 hrs. 20 min.,Kino,"$20,218",2010,1,1
+"$10,000","$22,200",,9/30,Mountain Top Releasing,Drama,The Trial (2010),9/10,437,PG-13,"September 10, 2010",,MTop,"$19,753",2010,1,2
+"$3,100","$21,900",,1/6,IFC,Documentary,Shoah,12/10,438,Unrated,"December 10, 2010",9 hrs. 10 min.,IFC,"$20,175",2010,1,1
+"$5,200","$21,500",,10/21,First Run,Documentary,Neshoba: The Price of Freedom,8/13,439,Unrated,"August 13, 2010",1 hrs. 26 min.,FRun,"$19,245",2010,1,2
+"$4,200","$21,500",,9/9,People Pictures,Comedy,The People I've Slept With,8/13,440,Unrated,"August 13, 2010",1 hrs. 29 min.,PP,"$19,137",2010,1,2
+"$6,100","$20,100",,8/5,Paladin,Documentary,Great Directors,7/2,441,Unrated,"July 2, 2010",1 hrs. 30 min.,Pala.,"$17,921",2010,3,4
+"$8,700","$19,900",,7/8,First Run,Documentary,Off and Running,1/29,442,Unrated,"January 29, 2010",1 hrs. 16 min.,FRun,"$18,262",2010,1,1
+"$1,300","$19,700",,4/28,Kino,Documentary,Nenette,12/22,443,Unrated,"December 22, 2010",1 hrs. 10 min.,Kino,"$18,009",2010,1,3
+"$13,300","$18,900",,1/21,Freestyle Releasing,Action,Bitch Slap,1/8,444,R,"January 8, 2010",1 hrs. 45 min.,Free,"$17,365",2010,3,3
+,"$18,900",,9/2,Oscilloscope Pictures,Drama,The Law (re-release),6/23,445,Unrated,"June 23, 2010",,Osci.,"$17,351",2010,,1
+$400,"$18,500",,-,Clay Way Media,Documentary,Carbon Nation,5/7,446,Unrated,"May 7, 2010",1 hrs. 26 min.,CWM,"$16,901",2010,1,2
+"$4,800","$18,200",,11/18,Phase 4,Comedy / Drama,The Freebie,9/17,447,R,"September 17, 2010",1 hrs. 18 min.,P4,"$16,613",2010,1,4
+"$8,300","$17,200",,6/17,Artigo/Ajemian,Comedy,BoyBand,6/4,448,Unrated,"June 4, 2010",1 hrs. 38 min.,A/A,"$15,628Domestic Lifetime Gross: $28,336",2010,1,2
+$900,"$17,000",,-,Delaware Pictures,Crime Thriller,Dreamkiller,2/19,449,R,"February 19, 2010",1 hrs. 43 min.,Del.,"$15,514",2010,3,3
+,"$16,100",,11/4,All Rise Films,Documentary,The Two Escobars,8/27,450,Unrated,"August 27, 2010",1 hrs. 40 min.,ARF,"$14,457",2010,,1
+"$10,900","$15,200",,10/14,Samuel Goldwyn,Drama,GhettoPhysics: Will the Real Pimps and Hos Please Stand Up?,10/8,451,R,"October 8, 2010",1 hrs. 34 min.,Gold.,"$14,034",2010,9,9
+"$9,800","$14,900",,4/15,Image Entertainment,Drama / Thriller,Don McKay,4/2,452,R,"April 2, 2010",1 hrs. 27 min.,Imag.,"$13,722",2010,7,7
+"$9,500","$14,800",,5/6,MPI Media Group,Comedy / Drama,Paper Man,4/23,453,R,"April 23, 2010",1 hrs. 50 min.,MPI,"$13,514",2010,3,3
+"$14,800","$14,700",,-,Paladin,Drama,Handsome Harry,4/16,454,R,"April 16, 2010",1 hrs. 34 min.,Pala.,"$13,500 (Estimate)",2010,4,4
+"$5,700","$14,400",,4/14,Embrem Entertainment,Comedy,Violet Tendencies,11/5,455,Unrated,"November 5, 2010",1 hrs. 39 min.,Embr.,"$13,304",2010,1,1
+"$8,400","$14,100",,10/21,Area23a,Sci-Fi,Jim (2010),10/8,456,Unrated,"October 8, 2010",1 hrs. 41 min.,A23,"$13,015",2010,1,1
+"$7,500","$13,500",,-,Strand,Documentary,Picture Me,9/17,457,Unrated,"September 17, 2010",1 hrs. 22 min.,Strand,"$12,008",2010,1,1
+"$4,200","$13,500",,7/22,Mangusta Productions,Comedy,The Living Wake,5/14,458,Unrated,"May 14, 2010",1 hrs. 30 min.,Mang.,"$12,232",2010,1,1
+"$8,200","$13,200",,8/5,Freestyle Releasing,Drama,The Dry Land,7/30,459,R,"July 30, 2010",1 hrs. 32 min.,Free,"$11,777",2010,5,5
+"$6,600","$13,100",,9/16,Dada Films,Romantic Comedy,White Wedding,9/3,460,PG-13,"September 3, 2010",1 hrs. 33 min.,Da.,"$11,710",2010,4,4
+"$4,900","$13,000",,12/16,Shadow Dist.,Documentary,The Kids Grow Up,10/29,461,Unrated,"October 29, 2010",1 hrs. 30 min.,Shad.,"$12,095",2010,1,1
+"$5,600","$13,000",,10/21,Lorber Films,Foreign,Salt of this Sea,8/13,462,Unrated,"August 13, 2010",1 hrs. 44 min.,Lorb.,"$11,662",2010,1,2
+"$2,700","$12,600",,6/24,Variance Films,Documentary,After the Cup: Sons of Sakhnin United,5/21,463,Unrated,"May 21, 2010",1 hrs. 20 min.,Vari.,"$11,538",2010,1,3
+"$3,800","$12,400",,3/10,Strand,Drama,The Taqwacores,10/22,464,Unrated,"October 22, 2010",1 hrs. 20 min.,Strand,"$11,445",2010,1,2
+"$2,600","$12,300",,11/4,Abramorama,Comedy / Drama,Cherry,10/8,465,R,"October 8, 2010",1 hrs. 35 min.,Abr.,"$11,362",2010,1,3
+"$5,300","$12,200",,-,Unknown,Drama,Children of Invention,3/12,466,Unrated,"March 12, 2010",1 hrs. 26 min.,,"$11,183",2010,2,2
+$900,"$12,100",,8/26,Strand,Foreign,Spring Fever,6/4,467,Unrated,"June 4, 2010",1 hrs. 56 min.,Strand,"$10,824",2010,1,2
+,"$11,900",,-,Indican,Drama,Christina,12/3,468,Unrated,"December 3, 2010",,Indic.,"$11,000",2010,,
+"$4,000","$11,800",,5/13,Indican,Animation,Terkel in Trouble,3/26,469,R,"March 26, 2010",1 hrs. 4 min.,Indic.,"$10,783Domestic Lifetime Gross: $161,457",2010,2,2
+"$2,100","$11,700",,-,Olive Films,Music Drama,The Milk of Sorrow,8/27,470,Unrated,"August 27, 2010",1 hrs. 34 min.,Olive,"$10,462",2010,1,2
+"$2,800","$11,400",,2/25,First Run,Documentary,Waiting for Armageddon,1/8,471,Unrated,"January 8, 2010",1 hrs. 14 min.,FRun,"$10,501",2010,1,1
+"$4,400","$11,200",,9/23,Indican,Horror Thriller,Circle,8/27,472,Unrated,"August 27, 2010",,Indic.,"$10,024",2010,2,2
+"$11,200","$11,200",,8/5,Phase 4,Documentary,"Hugh Hefner: Playboy, Activist and Rebel",7/30,473,R,"July 30, 2010",2 hrs. 4 min.,P4,"$10,000",2010,4,4
+"$2,200","$11,000",,2/17,Film Movement,Foreign,Come Undone (2010),12/3,474,Unrated,"December 3, 2010",2 hrs. 6 min.,FM,"$10,035",2010,1,2
+"$3,300","$10,600","$30,000",11/4,Magnolia,Comedy,Down Terrace,10/15,475,R,"October 15, 2010",1 hrs. 29 min.,Magn.,"$9,812",2010,2,2
+,"$10,500",,-,Cinema Purgatorio,Documentary,Brutal Beauty: Tales of the Rose City Rollers,1/8,476,Unrated,"January 8, 2010",1 hrs. 20 min.,CP,"$9,677",2010,,2
+"$5,000","$10,100",,1/21,Magnolia,Romance,Wonderful World,1/8,477,R,"January 8, 2010",1 hrs. 35 min.,Magn.,"$9,309",2010,4,4
+"$2,600","$10,100",,8/26,Olive Films,Foreign,Brotherhood (Broderskab),8/6,478,R,"August 6, 2010",1 hrs. 30 min.,Olive,"$8,979",2010,1,1
+"$2,400","$9,500",,-,Film Movement,Documentary,Only When I Dance,7/2,479,Unrated,"July 2, 2010",1 hrs. 18 min.,FM,"$8,738",2010,1,1
+"$5,700","$9,000",,7/22,Peaches Christ,Horror Comedy,All About Evil,7/9,480,Unrated,"July 9, 2010",,PC,"$7,995",2010,1,1
+"$2,100","$8,900",,10/28,First Run,Documentary,Mugabe and the White African,7/23,481,Unrated,"July 23, 2010",1 hrs. 34 min.,FRun,"$7,924",2010,1,1
+"$1,100","$8,700",,4/8,IFC,Thriller,Stolen (2010),3/12,482,R,"March 12, 2010",1 hrs. 30 min.,IFC,"$7,943",2010,1,2
+"$2,500","$8,500",,2/10,Cinema Purgatorio,Sci-Fi,Zenith,10/1,483,Unrated,"October 1, 2010",1 hrs. 33 min.,CP,"$7,862",2010,1,4
+"$3,000","$8,400",,-,UTV Communications,Foreign,Udaan,7/16,484,Unrated,"July 16, 2010",2 hrs. 14 min.,UTV,"$7,461",2010,2,2
+"$2,100","$8,200",,-,First Run,Documentary,Tales from the Script,3/12,485,Unrated,"March 12, 2010",1 hrs. 45 min.,FRun,"$7,535",2010,1,1
+"$5,700","$8,000",,4/15,Oscilloscope Pictures,Documentary,The Thorn in the Heart,4/2,486,Unrated,"April 2, 2010",1 hrs. 26 min.,Osci.,"$7,376",2010,1,1
+"$8,000","$8,000",,9/16,Real Bean,Drama,Logan,9/10,487,Unrated,"September 10, 2010",,RB,"$7,137",2010,1,1
+"$5,400","$7,900",$2 million,6/17,Anchor Bay Films,Crime Drama,Gangster's Paradise: Jerusalema,6/11,488,R,"June 11, 2010",2 hrs. 0 min.,Anch.,"$7,294",2010,4,4
+"$2,900","$7,800",,5/27,Strand,Drama,Happiness Runs,5/7,489,Unrated,"May 7, 2010",1 hrs. 28 min.,Strand,"$7,199",2010,1,2
+"$4,100","$7,500",,4/15,Regent Releasing,Comedy / Drama,Misconceptions,1/22,490,Unrated,"January 22, 2010",1 hrs. 35 min.,Reg.,"$6,892",2010,2,2
+"$1,900","$7,400",,5/13,IFC,Drama,Mercy (2010),4/30,491,R,"April 30, 2010",1 hrs. 27 min.,IFC,"$6,780",2010,1,2
+"$2,300","$7,400",,6/17,Phase 4,Romantic Comedy,Finding Bliss,6/4,492,R,"June 4, 2010",1 hrs. 36 min.,P4,"$6,783",2010,1,1
+"$1,900","$7,300",,-,Cinema Purgatorio,Documentary,Regina Spektor: Live In London,11/19,493,Unrated,"November 19, 2010",1 hrs. 7 min.,CP,"$6,684",2010,9,9
+"$2,400","$7,200",,7/1,Regent Releasing,Romance,Dream Boy,3/26,494,R,"March 26, 2010",1 hrs. 28 min.,Reg.,"$6,534",2010,1,1
+"$3,500","$6,900",,4/15,Regent Releasing,Drama,Watercolors,1/22,495,Unrated,"January 22, 2010",1 hrs. 54 min.,Reg.,"$6,305",2010,2,2
+"$2,700","$6,800",,3/17,Lorber Films,Foreign,The Red Chapel,12/29,496,Unrated,"December 29, 2010",1 hrs. 28 min.,Lorb.,"$6,196",2010,1,2
+"$2,500","$6,500",,12/23,Cinema Purgatorio,Documentary,Sweethearts of the Prison Rodeo,9/17,497,Unrated,"September 17, 2010",1 hrs. 30 min.,CP,"$5,922",2010,2,2
+"$6,500","$6,500",,10/28,TLA Releasing,Comedy,BearCity,10/22,498,Unrated,"October 22, 2010",,TLA,"$5,980",2010,1,1
+"$1,200","$6,200",,11/4,Winter Star,Drama / Thriller,Midnight Reckoning,9/10,499,PG-13,"September 10, 2010",,Wint.,"$5,673",2010,1,7
+,"$6,100",,2/10,Lorber Films,Documentary,American Grindhouse,6/18,500,Unrated,"June 18, 2010",1 hrs. 20 min.,Lorb.,"$5,529",2010,,2
+"$1,500","$5,900",,7/1,Shadow Dist.,Documentary,Whiz Kids,6/4,501,Unrated,"June 4, 2010",1 hrs. 22 min.,Shad.,"$5,386",2010,1,2
+"$3,700","$5,700",,6/17,Rockstone Releasing,Comedy,Speed-Dating,6/4,502,R,"June 4, 2010",1 hrs. 38 min.,RR,"$5,240",2010,1,1
+"$2,000","$5,400",,1/6,IFC,Drama,Hadewijch,12/24,503,Unrated,"December 24, 2010",1 hrs. 45 min.,IFC,"$5,006",2010,1,2
+"$1,300","$5,200",,-,Magnolia,Crime Thriller,The Oxford Murders,8/6,504,R,"August 6, 2010",1 hrs. 48 min.,Magn.,"$4,803",2010,1,2
+$900,"$5,000",,3/24,The Film Desk,Documentary,Promised Lands (2010 re-issue),2/5,505,Unrated,"February 5, 2010",1 hrs. 27 min.,FDesk,"$4,546",2010,1,1
+$100,"$4,900",,-,Driving With Our Eyes Shut,Comedy,To Die is Hard,12/17,506,Unrated,"December 17, 2010",1 hrs. 27 min.,DWOES,"$4,549",2010,1,1
+"$1,600","$4,700",,-,Lorber Films,Documentary,Kimjongilia,3/19,507,Unrated,"March 19, 2010",1 hrs. 15 min.,Lorb.,"$4,362",2010,1,1
+"$2,900","$4,500",,12/30,Film Movement,Drama,Helena From the Wedding,11/12,508,Unrated,"November 12, 2010",,FM,"$4,190",2010,1,1
+"$3,300","$4,400",,10/28,IFC,Thriller,Inhale,10/22,509,R,"October 22, 2010",1 hrs. 40 min.,IFC,"$4,115",2010,2,2
+"$1,400","$4,300",,6/10,Regent Releasing,Romance,Just Say Love,3/26,510,Unrated,"March 26, 2010",1 hrs. 15 min.,Reg.,"$3,944",2010,1,1
+"$1,500","$4,200",,7/29,North Poplar Pictures,Drama / Thriller,In/Significant Others,5/14,511,Unrated,"May 14, 2010",1 hrs. 39 min.,NPP,"$3,763",2010,1,1
+"$2,700","$4,100",,8/5,Magnolia,Documentary,Smash His Camera,7/30,512,PG-13,"July 30, 2010",1 hrs. 27 min.,Magn.,"$3,644",2010,1,1
+"$2,200","$4,000",,11/25,IFC,Sci-Fi Horror,Heartless,11/19,513,Unrated,"November 19, 2010",1 hrs. 49 min.,IFC,"$3,697",2010,1,1
+,"$3,800",,3/14,Wind Pixie,Musical,Metal Messiah,9/16,514,Unrated,"September 16, 2010",1 hrs. 27 min.,Wind Pixie,"$3,476",2010,,1
+"$1,500","$3,800",,6/24,Unknown,Drama,The Full Picture,6/11,515,Unrated,"June 11, 2010",1 hrs. 20 min.,,"$3,467",2010,1,1
+"$2,600","$3,700",,9/23,Cinema Libre Studio,Comedy,El Superstar: The Unlikely Rise of Juan Frances,9/17,516,Unrated,"September 17, 2010",1 hrs. 30 min.,CLS,"$3,271",2010,1,1
+"$1,100","$3,600",,4/15,Regent Releasing,Thriller,Murder in Fashion,1/22,517,R,"January 22, 2010",1 hrs. 30 min.,Reg.,"$3,346",2010,2,2
+$600,"$3,400",,4/22,Strand,Comedy,My Year Without Sex,3/12,518,Unrated,"March 12, 2010",1 hrs. 36 min.,Strand,"$3,119",2010,1,1
+"$1,600","$3,400",,6/2,Cinema Purgatorio,Drama / Thriller,The Afterlight,9/10,519,Unrated,"September 10, 2010",1 hrs. 27 min.,CP,"$3,059",2010,1,1
+"$1,400","$3,300",,10/7,First Run,Drama,Altiplano,8/20,520,Unrated,"August 20, 2010",1 hrs. 49 min.,FRun,"$2,961",2010,1,1
+$600,"$2,900",,11/18,Regent Releasing,Foreign,Eichmann,10/29,521,Unrated,"October 29, 2010",1 hrs. 36 min.,Reg.,"$2,706",2010,1,1
+"$1,900","$2,900",,4/29,IFC,Comedy / Drama,Boogie Woogie,4/23,522,R,"April 23, 2010",1 hrs. 30 min.,IFC,"$2,618",2010,1,1
+"$1,600","$2,600",,-,Strand,Drama / Thriller,Daniel & Ana,8/27,523,Unrated,"August 27, 2010",1 hrs. 30 min.,Strand,"$2,372",2010,1,1
+"$2,400","$2,400",,12/16,Reel Diva Consultants,Comedy / Drama,You Won't Miss Me,12/10,525,Unrated,"December 10, 2010",1 hrs. 21 min.,ReelD,"$2,240",2010,1,1
+$800,"$2,400",,10/7,Olive Films,Drama,The Girl (Flickan),9/17,524,Unrated,"September 17, 2010",1 hrs. 35 min.,Olive,"$2,201",2010,1,1
+$600,"$2,300",,9/5,Lorber Films,Documentary,Nobody's Perfect,4/16,526,Unrated,"April 16, 2010",1 hrs. 24 min.,Lorb.,"$2,122",2010,1,1
+$800,"$2,200",,10/7,Olive Films,Fantasy Drama,The Temptation of St. Tony,9/17,527,Unrated,"September 17, 2010",1 hrs. 50 min.,Olive,"$1,963",2010,1,1
+"$1,600","$2,200",,10/14,First Look,Thriller,As Good as Dead,10/8,529,R,"October 8, 2010",1 hrs. 31 min.,First,"$1,981",2010,1,1
+$900,"$2,200",,2/11,IFC,Drama,Falling Awake,1/29,528,R,"January 29, 2010",1 hrs. 50 min.,IFC,"$1,978",2010,2,2
+$900,"$2,100",,11/11,First Run,Documentary,A Mother's Courage: Talking Back to Autism,9/24,530,Unrated,"September 24, 2010",1 hrs. 43 min.,FRun,"$1,916",2010,2,2
+$700,"$1,700",,6/10,Regent Releasing,Comedy,Manuela and Manuel,3/26,531,PG-13,"March 26, 2010",1 hrs. 34 min.,Reg.,"$1,582",2010,1,1
+$900,"$1,600",,10/21,First Run,Adventure,"Carmo, Hit the Road",10/15,532,Unrated,"October 15, 2010",1 hrs. 40 min.,FRun,"$1,512",2010,1,1
+"$1,300","$1,500",,1/28,Strand,Comedy,Drool,1/22,533,Unrated,"January 22, 2010",1 hrs. 25 min.,Strand,"$1,403",2010,1,1
+$100,$900,,3/11,Seven Arts Distribution,Documentary,45365,2/26,534,Unrated,"February 26, 2010",1 hrs. 30 min.,7Arts,$853,2010,1,1
+$900,$900,,5/27,IFC,Drama / Thriller,Perrier's Bounty,5/21,535,R,"May 21, 2010",1 hrs. 28 min.,IFC,$828,2010,1,1
+$100,$600,,11/18,Regent Releasing,Historical Drama,Shake Hands with the Devil,10/29,536,R,"October 29, 2010",1 hrs. 52 min.,Reg.,$594,2010,1,1
+$100,$400,,11/18,Regent Releasing,Thriller,The Magician (2010),10/29,537,Unrated,"October 29, 2010",1 hrs. 25 min.,Reg.,$406,2010,1,1

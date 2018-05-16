@@ -1,0 +1,670 @@
+adjusted_opening,adjusted_total_gross,budget,close,distributor,genre,movie_title,open,rank,rating,release_date,runtime,studio,total_gross,year,theaters_opening,theaters_gross
+"$234,007,200","$704,231,900",$220 million,10/4,Buena Vista,Action / Adventure,Marvel's The Avengers,5/4,1,PG-13,"May 4, 2012",2 hrs. 22 min.,BV,"$623,357,910",2012,"4,349","4,349"
+"$189,425,100","$527,449,300",$250 million,12/13,Warner Bros.,Action Thriller,The Dark Knight Rises,7/20,2,PG-13,"July 20, 2012",2 hrs. 45 min.,WB,"$448,139,099",2012,"4,404","4,404"
+"$176,417,600","$465,907,500",$78 million,9/6,Lionsgate,Action / Adventure,The Hunger Games,3/23,3,PG-13,"March 23, 2012",2 hrs. 22 min.,LGF,"$408,010,692",2012,"4,137","4,137"
+"$100,549,200","$346,632,700",$200 million,3/10,Sony / Columbia,Action,Skyfall,11/9,4,PG-13,"November 9, 2012",2 hrs. 23 min.,Sony,"$304,360,277",2012,"3,505","3,526"
+"$96,285,000","$346,556,800",,4/25,Warner Bros. (New Line),Fantasy,The Hobbit: An Unexpected Journey,12/14,5,PG-13,"December 14, 2012",2 hrs. 46 min.,WB (NL),"$303,003,568",2012,"4,045","4,100"
+"$160,519,200","$332,769,100",$120 million,3/7,Lionsgate/Summit,Romance,The Twilight Saga: Breaking Dawn Part 2,11/16,6,PG-13,"November 16, 2012",1 hrs. 56 min.,LG/S,"$292,324,737",2012,"4,070","4,070"
+"$73,002,900","$308,489,900",$230 million,10/14,Sony / Columbia,Action / Adventure,The Amazing Spider-Man,7/3,7,PG-13,"July 3, 2012",2 hrs. 16 min.,Sony,"$262,030,663",2012,"4,318","4,318"
+"$74,818,200","$274,410,300",$185 million,1/17,Buena Vista,Animation,Brave,6/22,8,PG,"June 22, 2012",1 hrs. 40 min.,BV,"$237,283,207",2012,"4,164","4,164"
+"$61,384,600","$257,594,100",$50 million,10/25,Universal,Comedy,Ted,6/29,9,R,"June 29, 2012",1 hrs. 46 min.,Uni.,"$218,815,487",2012,"3,239","3,303"
+"$81,210,700","$246,662,600",$70 million,7/26,Universal,Animation,Dr. Seuss' The Lorax,3/2,10,PG,"March 2, 2012",1 hrs. 35 min.,Uni.,"$214,030,500",2012,"3,729","3,769"
+"$68,042,000","$246,465,100",$145 million,10/18,Paramount (DreamWorks),Animation,Madagascar 3: Europe's Most Wanted,6/8,11,PG,"June 8, 2012",1 hrs. 33 min.,P/DW,"$216,391,482",2012,"4,258","4,263"
+"$55,800,600","$215,756,800",$165 million,5/2,Buena Vista,Animation,Wreck-It Ralph,11/2,12,PG,"November 2, 2012",1 hrs. 48 min.,BV,"$189,422,889",2012,"3,752","3,752"
+"$1,074,500","$208,225,400",$65 million,4/25,Buena Vista,Historical Drama,Lincoln,11/9,13,PG-13,"November 9, 2012",2 hrs. 25 min.,BV,"$182,207,973",2012,11,"2,293"
+"$61,585,000","$202,555,100",$225 million,9/9,Sony / Columbia,Sci-Fi Comedy,MIB 3,5/25,14,PG-13,"May 25, 2012",1 hrs. 46 min.,Sony,"$179,020,854",2012,"4,248","4,248"
+"$54,900,300","$189,836,800",$95 million,2/7,Fox,Animation,Ice Age: Continental Drift,7/13,15,PG,"July 13, 2012",1 hrs. 34 min.,Fox,"$161,321,843",2012,"3,881","3,886"
+"$34,276,500","$187,255,500",$100 million,5/16,Weinstein Company,Western,Django Unchained,12/25,16,R,"December 25, 2012",2 hrs. 45 min.,Wein.,"$162,805,434",2012,"3,010","3,012"
+"$63,418,000","$175,924,600",$170 million,9/6,Universal,Adventure,Snow White and the Huntsman,6/1,17,PG-13,"June 1, 2012",2 hrs. 7 min.,Uni.,"$155,332,381",2012,"3,773","3,777"
+"$31,043,600","$171,047,600",$61 million,4/4,Universal,Musical,Les Miserables (2012),12/25,18,PG-13,"December 25, 2012",2 hrs. 37 min.,Uni.,"$148,809,770",2012,"2,814","2,927"
+"$50,064,700","$168,821,500",$85 million,2/28,Sony / Columbia,Animation,Hotel Transylvania,9/28,19,PG,"September 28, 2012",1 hrs. 31 min.,Sony,"$148,313,048",2012,"3,349","3,375"
+"$56,342,300","$159,157,500",$45 million,2/21,Fox,Action,Taken 2,10/5,20,PG-13,"October 5, 2012",1 hrs. 31 min.,Fox,"$139,854,287",2012,"3,661","3,706"
+"$41,986,400","$158,407,700",$42 million,7/1,Sony / Columbia,Action Comedy,21 Jump Street,3/16,21,R,"March 16, 2012",1 hrs. 49 min.,Sony,"$138,447,667",2012,"3,121","3,148"
+"$22,141,200","$155,206,300",$44.5 million,4/24,Warner Bros.,Drama / Thriller,Argo,10/12,22,R,"October 12, 2012",2 hrs. 0 min.,WB,"$136,025,503",2012,"3,232","3,247"
+"$504,100","$151,763,500",$21 million,6/6,Weinstein Company,Comedy,Silver Linings Playbook,11/16,23,R,"November 16, 2012",2 hrs. 2 min.,Wein.,"$132,092,958",2012,16,"2,809"
+"$46,462,400","$146,066,000",$85 million,5/17,Universal,Action Thriller,Safe House,2/10,24,R,"February 10, 2012",1 hrs. 57 min.,Uni.,"$126,373,434",2012,"3,119","3,121"
+"$47,653,300","$144,533,600",$30 million,5/17,Sony / Screen Gems,Drama,The Vow,2/10,25,PG-13,"February 10, 2012",1 hrs. 44 min.,SGem,"$125,014,030",2012,"2,958","3,038"
+"$57,588,500","$143,323,900",$130 million,9/20,Fox,Sci-Fi Action,Prometheus,6/8,26,R,"June 8, 2012",2 hrs. 4 min.,Fox,"$126,477,084",2012,"3,396","3,442"
+"$25,547,300","$142,791,100",$120 million,7/25,Fox,Adventure,Life of Pi,11/21,27,PG,"November 21, 2012",2 hrs. 6 min.,Fox,"$124,987,023",2012,"2,927","2,946"
+"$44,138,500","$133,893,300",$7 million,9/27,Warner Bros.,Comedy / Drama,Magic Mike,6/29,28,R,"June 29, 2012",1 hrs. 50 min.,WB,"$113,721,571",2012,"2,930","3,120"
+"$44,908,500","$133,193,500",$125 million,11/8,Universal,Action,The Bourne Legacy,8/10,29,PG-13,"August 10, 2012",2 hrs. 15 min.,Uni.,"$113,203,870",2012,"3,745","3,753"
+"$31,615,100","$119,944,200",$79 million,6/28,Warner Bros. (New Line),Adventure,Journey 2: The Mysterious Island,2/10,30,PG,"February 10, 2012",1 hrs. 34 min.,WB (NL),"$103,860,290",2012,"3,470","3,500"
+"$27,051,500","$117,947,500",$145 million,4/11,Paramount (DreamWorks),Animation,Rise of the Guardians,11/21,31,PG,"November 21, 2012",1 hrs. 37 min.,P/DW,"$103,412,758",2012,"3,653","3,672"
+"$474,700","$110,411,800",$40 million,3/31,Sony / Columbia,Thriller,Zero Dark Thirty,12/19,32,R,"December 19, 2012",2 hrs. 37 min.,Sony,"$95,720,716",2012,5,"2,946"
+"$28,334,100","$106,739,300",$31 million,2/14,Paramount,Drama,Flight,11/2,33,R,"November 2, 2012",2 hrs. 19 min.,Par.,"$93,772,375",2012,"1,884","2,638"
+"$37,944,400","$103,289,900",$12 million,7/8,Sony / Screen Gems,Comedy,Think Like a Man,4/20,34,PG-13,"April 20, 2012",2 hrs. 2 min.,SGem,"$91,547,205",2012,"2,015","2,052"
+"$31,304,700","$102,264,200",,11/22,Warner Bros.,Comedy,The Campaign,8/10,35,R,"August 10, 2012",1 hrs. 37 min.,WB,"$86,907,746",2012,"3,205","3,302"
+"$33,662,800","$100,050,000",$100 million,11/22,Lionsgate,Action,The Expendables 2,8/17,36,R,"August 17, 2012",1 hrs. 42 min.,LGF,"$85,028,192",2012,"3,316","3,355"
+"$38,695,400","$94,386,500",$150 million,6/28,Warner Bros.,Fantasy,Wrath of the Titans,3/30,37,PG-13,"March 30, 2012",1 hrs. 39 min.,WB,"$83,670,083",2012,"3,545","3,545"
+"$17,307,500","$91,892,100",$60 million,3/21,Paramount,Crime Drama,Jack Reacher,12/21,38,PG-13,"December 21, 2012",2 hrs. 10 min.,Par.,"$80,070,736",2012,"3,352","3,352"
+"$33,487,300","$90,127,800",$150 million,8/16,Warner Bros.,Horror Comedy,Dark Shadows,5/11,39,PG-13,"May 11, 2012",1 hrs. 53 min.,WB,"$79,727,149",2012,"3,755","3,755"
+"$16,560,900","$88,878,800",$25 million,5/23,Fox,Comedy,Parental Guidance,12/25,40,PG,"December 25, 2012",1 hrs. 44 min.,Fox,"$77,267,296",2012,"3,367","3,368"
+"$34,905,400","$84,266,800",$250 million,6/28,Buena Vista,Sci-Fi Adventure,John Carter,3/9,41,PG-13,"March 9, 2012",2 hrs. 12 min.,BV,"$73,078,100",2012,"3,749","3,749"
+"$28,308,800","$80,881,300",$12 million,6/7,Relativity,Thriller,Act of Valor,2/24,42,R,"February 24, 2012",1 hrs. 51 min.,Rela.,"$70,012,847",2012,"3,039","3,053"
+"$13,175,800","$77,545,600",$35 million,2/28,Universal,Comedy,This Is 40,12/21,43,R,"December 21, 2012",2 hrs. 13 min.,Uni.,"$67,544,505",2012,"2,912","2,931"
+"$28,642,600","$77,298,700",$20 million,9/20,Lionsgate,Comedy,Tyler Perry's Madea's Witness Protection,6/29,44,PG-13,"June 29, 2012",1 hrs. 54 min.,LGF,"$65,653,242",2012,"2,161","2,161"
+"$28,162,200","$76,944,000",$25 million,3/15,Universal,Thriller,Contraband,1/13,45,R,"January 13, 2012",1 hrs. 50 min.,Uni.,"$66,528,000",2012,"2,863","2,870"
+"$24,491,300","$75,654,800",$30 million,1/1,TriStar,Sci-Fi Action,Looper,9/28,46,R,"September 28, 2012",1 hrs. 58 min.,TriS,"$66,486,205",2012,"2,992","2,993"
+"$17,248,700","$74,765,500",,10/21,Sony / Columbia,Comedy / Drama,Hope Springs,8/8,47,PG-13,"August 8, 2012",2 hrs. 1 min.,Sony,"$63,536,011",2012,"2,361","2,441"
+"$25,449,200","$74,658,400",$12 million,6/7,Fox,Sci-Fi Action,Chronicle (2012),2/3,48,PG-13,"February 3, 2012",1 hrs. 23 min.,Fox,"$64,575,175",2012,"2,907","2,908"
+"$6,062,800","$73,975,900",$17 million,2/14,Universal,Comedy,Pitch Perfect,9/28,49,PG-13,"September 28, 2012",1 hrs. 52 min.,Uni.,"$65,001,093",2012,335,"2,787"
+"$28,805,300","$73,898,400",$209 million,8/2,Universal,Action,Battleship,5/18,50,PG-13,"May 18, 2012",2 hrs. 11 min.,Uni.,"$65,422,625",2012,"3,690","3,702"
+"$20,970,900","$73,279,700",$85 million,8/16,Relativity,Fantasy,Mirror Mirror,3/30,51,PG,"March 30, 2012",1 hrs. 46 min.,Rela.,"$64,935,167",2012,"3,603","3,618"
+"$29,268,900","$72,078,400",$70 million,3/8,Sony / Screen Gems,Action Horror,Underworld Awakening,1/20,52,R,"January 20, 2012",1 hrs. 28 min.,SGem,"$62,321,039",2012,"3,078","3,078"
+"$30,114,700","$69,309,500",$125 million,10/7,Sony / Columbia,Sci-Fi Action,Total Recall (2012),8/3,53,PG-13,"August 3, 2012",2 hrs. 1 min.,Sony,"$58,877,969",2012,"3,601","3,601"
+"$25,402,500","$68,211,200",,7/19,Warner Bros.,Romance,The Lucky One,4/20,54,PG-13,"April 20, 2012",1 hrs. 41 min.,WB,"$60,457,138",2012,"3,155","3,175"
+"$19,668,200","$67,325,100",$65 million,7/26,Paramount,Comedy,The Dictator,5/16,55,R,"May 16, 2012",1 hrs. 23 min.,Par.,"$59,650,222",2012,"3,008","3,014"
+"$16,585,800","$65,824,500",$60 million,1/3,Focus Features,Animation,ParaNorman,8/17,56,PG,"August 17, 2012",1 hrs. 33 min.,Focus,"$56,003,051",2012,"3,429","3,455"
+"$19,499,400","$65,297,800",$18 million,6/7,Paramount,Romance,Titanic 3D,4/4,57,PG-13,"April 4, 2012",3 hrs. 14 min.,Par.,"$57,884,114Domestic Lifetime Gross: $659,363,944",2012,"2,674","3,674"
+"$24,269,600","$64,313,500",$50 million,5/31,Universal,Comedy,American Reunion,4/6,58,R,"April 6, 2012",1 hrs. 53 min.,Uni.,"$57,011,521",2012,"3,192","3,203"
+"$20,131,100","$63,274,600",$65 million,6/14,Fox,Action,This Means War,2/17,59,PG-13,"February 17, 2012",1 hrs. 37 min.,Fox,"$54,760,791",2012,"3,189","3,189"
+"$24,347,300","$63,238,800",,5/17,Warner Bros.,Comedy,Project X,3/2,60,R,"March 2, 2012",1 hrs. 28 min.,WB,"$54,731,865",2012,"3,055","3,055"
+"$24,142,200","$62,824,600",,5/3,CBS Films,Horror Thriller,The Woman in Black,2/3,61,PG-13,"February 3, 2012",1 hrs. 35 min.,CBS,"$54,333,290",2012,"2,855","2,856"
+"$39,013,900","$61,600,900","$1,000,000",3/22,Paramount,Horror,The Devil Inside,1/6,62,R,"January 6, 2012",1 hrs. 27 min.,Par.,"$53,261,944",2012,"2,285","2,551"
+"$33,003,200","$61,333,100",$5 million,1/3,Paramount,Horror,Paranormal Activity 4,10/19,63,R,"October 19, 2012",1 hrs. 35 min.,Par.,"$53,900,335",2012,"3,412","3,412"
+"$12,742,600","$60,943,500",,1/17,Buena Vista,Fantasy,The Odd Life of Timothy Green,8/15,64,PG,"August 15, 2012",1 hrs. 40 min.,BV,"$51,854,875",2012,"2,598","2,717"
+"$25,577,800","$59,842,300",$57 million,5/10,Sony / Columbia,Action Horror,Ghost Rider: Spirit of Vengeance,2/17,65,PG-13,"February 17, 2012",1 hrs. 35 min.,Sony,"$51,774,002",2012,"3,174","3,174"
+"$22,744,000","$59,651,200",$25 million,4/19,Open Road Films,Action Drama,The Grey,1/27,66,R,"January 27, 2012",1 hrs. 57 min.,ORF,"$51,580,236",2012,"3,185","3,208"
+"$20,877,800","$57,723,100",$14 million,11/22,Lionsgate,Horror,The Possession,8/31,67,PG-13,"August 31, 2012",1 hrs. 31 min.,LGF,"$49,130,154",2012,"2,816","2,860"
+"$21,722,800","$57,678,700",$58 million,6/7,Fox,Action / Adventure,Red Tails,1/20,68,PG-13,"January 20, 2012",2 hrs. 0 min.,Fox,"$49,876,377",2012,"2,512","2,573"
+"$17,217,500","$57,655,700",$22 million,12/20,Fox,Comedy,Diary of a Wimpy Kid: Dog Days,8/3,69,PG,"August 3, 2012",1 hrs. 34 min.,Fox,"$49,008,662",2012,"3,391","3,401"
+"$18,858,000","$55,786,600",$45 million,9/6,Universal,Thriller,Savages (2012),7/6,70,R,"July 6, 2012",2 hrs. 10 min.,Uni.,"$47,382,068",2012,"2,628","2,635"
+"$20,531,200","$55,062,700",,5/3,Buena Vista,Animation,Beauty and the Beast (3D),1/13,71,G,"January 13, 2012",1 hrs. 24 min.,BV,"$47,617,067Domestic Lifetime Gross: $218,967,620",2012,"2,625","2,625"
+"$20,490,700","$54,718,600",$3 million,1/3,Lionsgate/Summit,Horror,Sinister,10/12,72,R,"October 12, 2012",1 hrs. 50 min.,LG/S,"$48,086,903",2012,"2,527","2,542"
+"$590,000","$52,906,700",$16 million,11/1,Focus Features,Drama,Moonrise Kingdom,5/25,73,PG-13,"May 25, 2012",1 hrs. 33 min.,Focus,"$45,512,466",2012,4,924
+"$831,500","$52,701,200",$10 million,10/25,Fox Searchlight,Comedy / Drama,The Best Exotic Marigold Hotel,5/4,74,PG-13,"May 4, 2012",1 hrs. 58 min.,FoxS,"$46,412,041",2012,27,"1,298"
+"$13,446,000","$51,568,300",,2/18,Sony / Columbia,Comedy,Here Comes the Boom,10/12,75,PG,"October 12, 2012",1 hrs. 45 min.,Sony,"$45,290,318",2012,"3,014","3,014"
+"$16,245,300","$51,013,600",$65 million,2/21,FilmDistrict,Action,Red Dawn (2012),11/21,76,PG-13,"November 21, 2012",1 hrs. 33 min.,FD,"$44,806,783",2012,"2,724","2,781"
+"$25,988,000","$50,254,200",,5/28,Fox,Sci-Fi Fantasy,Star Wars: Episode I - The Phantom Menace (in 3D),2/10,77,PG,"February 10, 2012",2 hrs. 13 min.,Fox,"$43,456,382Domestic Lifetime Gross: $474,544,677",2012,"2,655","2,655"
+"$19,188,800","$50,046,600",$30 million,8/16,Fox,Comedy,The Three Stooges,4/13,78,PG,"April 13, 2012",1 hrs. 32 min.,Fox,"$44,338,224",2012,"3,477","3,482"
+"$24,786,400","$49,594,500",$65 million,11/11,Sony / Screen Gems,Action Horror,Resident Evil: Retribution,9/14,79,R,"September 14, 2012",1 hrs. 35 min.,SGem,"$42,345,531",2012,"3,012","3,016"
+"$19,647,800","$48,081,200",,1/17,Buena Vista,Animation,Finding Nemo (3D),9/14,80,G,"September 14, 2012",1 hrs. 44 min.,BV,"$41,128,283Domestic Lifetime Gross: $380,843,261",2012,"2,904","2,904"
+"$16,632,000","$47,472,200",,7/12,Lionsgate,Horror Comedy,The Cabin in the Woods,4/13,81,R,"April 13, 2012",1 hrs. 35 min.,LGF,"$42,073,277",2012,"2,811","2,811"
+"$15,485,700","$47,380,100",$7 million,1/17,Open Road Films,Crime Drama,End of Watch,9/21,82,R,"September 21, 2012",1 hrs. 49 min.,ORF,"$41,003,371",2012,"2,730","2,780"
+"$11,897,900","$46,479,700",$40 million,8/2,Lionsgate,Romantic Comedy,What to Expect When You're Expecting,5/18,83,PG-13,"May 18, 2012",1 hrs. 50 min.,LGF,"$41,152,203",2012,"3,021","3,021"
+"$11,776,100","$43,955,500",,11/29,Weinstein Company,Crime Drama,Lawless,8/29,84,R,"August 29, 2012",1 hrs. 55 min.,Wein.,"$37,400,127",2012,"2,888","3,138"
+"$16,286,400","$43,764,400",$75 million,8/16,Warner Bros. (New Line),Musical,Rock of Ages,6/15,85,PG-13,"June 15, 2012",2 hrs. 3 min.,WB (NL),"$38,518,613",2012,"3,470","3,470"
+"$18,395,600","$43,038,600",$69 million,9/20,Fox,Horror Thriller,Abraham Lincoln: Vampire Hunter,6/22,86,R,"June 22, 2012",1 hrs. 45 min.,Fox,"$37,519,139",2012,"3,108","3,109"
+"$6,020,100","$42,612,800",$40 million,3/7,Paramount,Comedy,The Guilt Trip,12/19,87,PG-13,"December 19, 2012",1 hrs. 35 min.,Par.,"$37,134,215",2012,"2,431","2,431"
+"$15,176,800","$41,895,500",$70 million,7/22,Sony / Columbia,Comedy,That's My Boy,6/15,88,R,"June 15, 2012",1 hrs. 54 min.,Sony,"$36,931,089",2012,"3,030","3,030"
+"$15,011,900","$41,580,500",$68 million,10/18,Fox,Comedy,The Watch,7/27,89,R,"July 27, 2012",1 hrs. 42 min.,Fox,"$35,353,000",2012,"3,168","3,168"
+"$14,319,300","$41,334,000",,12/13,Warner Bros.,Drama,Trouble with the Curve,9/21,90,PG-13,"September 21, 2012",1 hrs. 51 min.,WB,"$35,763,137",2012,"3,212","3,212"
+"$13,812,700","$41,293,000",$33 million,10/4,Lionsgate/Summit,Music Drama,Step Up Revolution,7/27,91,PG-13,"July 27, 2012",1 hrs. 40 min.,LG/S,"$35,074,677",2012,"2,567","2,606"
+"$18,023,800","$40,484,200",,5/17,Lionsgate,Drama,Tyler Perry's Good Deeds,2/24,92,PG-13,"February 24, 2012",2 hrs. 9 min.,LGF,"$35,025,791",2012,"2,132","2,132"
+"$12,985,800","$40,168,600",$39 million,2/28,Buena Vista,Animation,Frankenweenie,10/5,93,PG,"October 5, 2012",1 hrs. 27 min.,BV,"$35,291,068",2012,"3,005","3,005"
+"$37,200","$39,346,100",,10/11,Rocky Mountain Pictures,Documentary,2016 Obama's America,7/13,94,PG,"July 13, 2012",1 hrs. 29 min.,RM,"$33,449,086",2012,1,"2,017"
+"$5,433,100","$39,067,500",,5/2,Buena Vista,Animation,"Monsters, Inc. (3D)",12/19,95,G,"December 19, 2012",1 hrs. 30 min.,BV,"$34,043,006Domestic Lifetime Gross: $289,916,256",2012,"2,618","2,618"
+"$14,466,700","$36,566,000",$10 million,12/20,Relativity,Thriller,House at the End of The Street,9/21,96,PG-13,"September 21, 2012",1 hrs. 41 min.,Rela.,"$31,611,916",2012,"3,083","3,083"
+"$12,982,700","$35,775,000",,3/22,Warner Bros.,Comedy / Drama,Joyful Noise,1/13,97,PG-13,"January 13, 2012",1 hrs. 58 min.,WB,"$30,932,113",2012,"2,735","2,735"
+"$12,564,200","$35,114,100",$55 million,8/5,Sony / Columbia,Animation,The Pirates! Band of Misfits,4/27,98,PG,"April 27, 2012",1 hrs. 28 min.,Sony,"$31,051,126",2012,"3,358","3,358"
+"$12,040,800","$32,704,000",,8/9,Buena Vista,Documentary,Chimpanzee,4/20,99,G,"April 20, 2012",1 hrs. 18 min.,BV,"$28,972,764",2012,"1,563","1,567"
+"$11,969,000","$32,528,700",$30 million,6/21,Universal,Comedy,The Five-Year Engagement,4/27,100,R,"April 27, 2012",2 hrs. 4 min.,Uni.,"$28,835,528",2012,"2,936","2,941"
+"$10,328,700","$29,134,000",,1/24,Warner Bros.,Sci-Fi,Cloud Atlas,10/26,101,R,"October 26, 2012",2 hrs. 44 min.,WB,"$27,108,272",2012,"2,008","2,023"
+"$12,577,200","$28,847,000",$40 million,4/12,Lionsgate,Action Comedy,One For the Money,1/27,102,PG-13,"January 27, 2012",1 hrs. 31 min.,LGF,"$26,414,527",2012,"2,737","2,737"
+"$7,936,500","$28,158,200",$12 million,8/30,Paramount,Documentary,Katy Perry: Part of Me,7/5,103,PG,"July 5, 2012",1 hrs. 35 min.,Par.,"$25,326,071",2012,"2,730","2,732"
+"$12,246,200","$27,818,900",$35 million,1/3,Lionsgate/Summit,Crime Thriller,Alex Cross,10/19,104,PG-13,"October 19, 2012",1 hrs. 41 min.,LG/S,"$25,888,412",2012,"2,539","2,541"
+"$12,945,400","$27,125,700",$14 million,9/30,TriStar,Music Drama,Sparkle (2012),8/17,105,PG-13,"August 17, 2012",2 hrs. 0 min.,TriS,"$24,397,469",2012,"2,244","2,244"
+"$6,704,500","$22,524,700",$35 million,10/21,Sony / Columbia,Action Thriller,Premium Rush,8/24,106,PG-13,"August 24, 2012",1 hrs. 31 min.,Sony,"$20,275,446",2012,"2,255","2,255"
+"$8,475,500","$22,011,500",$40 million,4/5,Universal,Drama,Big Miracle,2/3,107,PG,"February 3, 2012",2 hrs. 3 min.,Uni.,"$20,157,300",2012,"2,129","2,133"
+"$7,040,600","$20,949,700",,6/7,Buena Vista,Animation,The Secret World of Arrietty,2/17,108,G,"February 17, 2012",1 hrs. 34 min.,BV,"$19,202,743",2012,"1,522","1,522"
+"$154,500","$20,702,100",,4/18,Lionsgate/Summit,Drama,The Impossible,12/21,109,PG-13,"December 21, 2012",1 hrs. 47 min.,LG/S,"$19,019,882",2012,15,886
+"$9,202,000","$20,688,400",$23 million,3/22,Relativity,Action,Haywire,1/20,110,R,"January 20, 2012",1 hrs. 33 min.,Rela.,"$18,942,396",2012,"2,439","2,441"
+"$8,739,500","$20,336,200",$42 million,3/1,Lionsgate/Summit,Thriller,Man on a Ledge,1/27,111,PG-13,"January 27, 2012",1 hrs. 42 min.,LG/S,"$18,620,000",2012,"2,998","2,998"
+"$6,745,600","$20,074,200",$40 million,5/31,Paramount (DreamWorks),Comedy / Drama,A Thousand Words,3/9,112,PG-13,"March 9, 2012",1 hrs. 31 min.,P/DW,"$18,450,127",2012,"1,890","1,895"
+"$8,474,600","$19,309,200",,7/19,Warner Bros.,Horror,Chernobyl Diaries,5/25,113,R,"May 25, 2012",1 hrs. 30 min.,WB,"$18,119,640",2012,"2,433","2,433"
+"$253,900","$19,085,400",,2/7,Lionsgate/Summit,Drama,The Perks of Being a Wallflower,9/21,114,PG-13,"September 21, 2012",1 hrs. 43 min.,LG/S,"$17,742,948",2012,4,745
+"$7,128,200","$19,051,700",,4/5,Universal,Comedy,Wanderlust,2/24,115,R,"February 24, 2012",1 hrs. 38 min.,Uni.,"$17,450,535",2012,"2,002","2,002"
+"$8,621,000","$18,835,700",$20 million,12/16,Open Road Films,Horror,Silent Hill: Revelation 3D,10/26,116,R,"October 26, 2012",1 hrs. 34 min.,ORF,"$17,529,157",2012,"2,933","2,933"
+"$384,900","$18,521,800",,11/15,Sony Classics,Comedy,To Rome with Love,6/22,117,R,"June 22, 2012",1 hrs. 35 min.,SPC,"$16,685,867",2012,5,806
+"$8,407,700","$18,261,000",,6/21,Lionsgate,Action,Safe (2012),4/27,118,R,"April 27, 2012",1 hrs. 35 min.,LGF,"$17,142,080",2012,"2,266","2,271"
+"$818,600","$17,861,200",,3/14,Weinstein Company,Drama,The Master,9/14,119,R,"September 14, 2012",2 hrs. 17 min.,Wein.,"$16,377,274",2012,5,864
+"$7,765,400","$17,055,300",$26 million,7/12,Relativity,Thriller,The Raven,4/27,120,R,"April 27, 2012",1 hrs. 43 min.,Rela.,"$16,008,272",2012,"2,203","2,209"
+"$8,500,600","$16,799,400",$15 million,12/20,Universal,Action / Adventure,The Man with the Iron Fists,11/2,121,R,"November 2, 2012",1 hrs. 36 min.,Uni.,"$15,634,090",2012,"1,868","1,872"
+"$7,320,700","$16,149,600",$15 million,2/21,Weinstein Company,Crime Thriller,Killing Them Softly,11/30,122,R,"November 30, 2012",1 hrs. 37 min.,Wein.,"$15,026,056",2012,"2,424","2,424"
+"$4,486,100","$16,143,800",$15 million,12/20,CBS Films,Action Comedy,Seven Psychopaths,10/12,123,R,"October 12, 2012",1 hrs. 49 min.,CBS,"$15,024,049",2012,"1,480","1,480"
+"$287,900","$15,639,600",,-,Warner Bros.,IMAX,To the Arctic (IMAX),4/20,124,G,"April 20, 2012",0 hrs. 40 min.,WB,"$14,528,210",2012,50,52
+"$5,032,400","$15,284,000",$2 million,10/11,Open Road Films,Action Comedy,Hit and Run,8/22,125,R,"August 22, 2012",1 hrs. 40 min.,ORF,"$13,749,300",2012,"2,870","2,870"
+"$6,638,600","$15,262,000",$20 million,5/24,FilmDistrict,Sci-Fi Action,Lockout,4/13,126,PG-13,"April 13, 2012",1 hrs. 50 min.,FD,"$14,326,864",2012,"2,308","2,335"
+"$6,980,600","$14,734,700",$50 million,11/1,Lionsgate,Action / Adventure,Dredd,9/21,127,R,"September 21, 2012",1 hrs. 35 min.,LGF,"$13,414,714",2012,"2,506","2,557"
+"$180,800","$14,178,800",,3/21,Fox Searchlight,Drama,Beasts of the Southern Wild,6/27,128,PG-13,"June 27, 2012",1 hrs. 31 min.,FoxS,"$12,795,746",2012,4,318
+"$6,178,900","$14,086,900",,2/21,FilmDistrict,Romantic Comedy,Playing for Keeps,12/7,129,PG-13,"December 7, 2012",1 hrs. 35 min.,FD,"$13,102,272",2012,"2,837","2,840"
+"$7,275,200","$13,915,400",,5/3,Open Road Films,Horror,Silent House,3/9,130,R,"March 9, 2012",1 hrs. 25 min.,ORF,"$12,754,783",2012,"2,124","2,124"
+"$4,533,200","$13,825,300",$16 million,8/30,Buena Vista,Drama,People Like Us,6/29,131,PG-13,"June 29, 2012",1 hrs. 55 min.,BV,"$12,434,778",2012,"2,055","2,055"
+"$344,600","$13,810,900",,2/28,Focus Features,Drama,Anna Karenina,11/16,132,R,"November 16, 2012",2 hrs. 10 min.,Focus,"$12,816,367",2012,16,422
+"$2,324,200","$13,556,900",,2/14,Paramount,Concert,Cirque Du Soleil: Worlds Away,12/21,133,PG,"December 21, 2012",1 hrs. 31 min.,Par.,"$12,512,862",2012,840,840
+"$5,282,200","$12,772,500",$6 million,10/4,CBS Films,Drama,The Words,9/7,134,PG-13,"September 7, 2012",1 hrs. 36 min.,CBS,"$11,494,838",2012,"2,801","2,801"
+"$5,210,100","$12,755,500",,4/12,Lionsgate/Summit,Thriller,Gone,2/24,135,PG-13,"February 24, 2012",1 hrs. 25 min.,LG/S,"$11,682,205",2012,"2,186","2,186"
+"$110,300","$11,203,200",,1/17,Weinstein Company,Foreign,The Intouchables (U.S.-only),5/25,136,R,"May 25, 2012",1 hrs. 52 min.,Wein.,"$10,198,820",2012,4,194
+"$4,406,700","$10,110,900",$14 million,12/13,Paramount,Comedy,Fun Size,10/26,137,PG-13,"October 26, 2012",1 hrs. 30 min.,Par.,"$9,409,538",2012,"3,014","3,016"
+"$91,400","$9,912,900",,9/20,Millennium Ent.,Comedy / Drama,Bernie,4/27,138,PG-13,"April 27, 2012",1 hrs. 44 min.,MNE,"$9,206,470",2012,3,332
+"$246,700","$9,689,600",,6/7,CBS Films,Drama,Salmon Fishing in the Yemen,3/9,139,PG-13,"March 9, 2012",1 hrs. 52 min.,CBS,"$9,047,981",2012,18,524
+"$2,226,100","$8,668,300",,1/17,Roadside Attractions,Drama,Arbitrage,9/14,140,R,"September 14, 2012",1 hrs. 40 min.,RAtt.,"$7,919,574",2012,197,256
+"$186,900","$8,277,300",,1/24,Focus Features,Drama,Promised Land (2012),12/28,141,R,"December 28, 2012",2 hrs. 20 min.,Focus,"$7,597,898",2012,25,"1,676"
+"$2,205,200","$7,882,200",,6/14,Roadside Attractions,Comedy,Friends with Kids,3/9,142,R,"March 9, 2012",1 hrs. 40 min.,RAtt.,"$7,251,073",2012,369,640
+"$4,072,300","$7,611,900",$10 million,7/5,Focus Features,Comedy / Drama,Seeking a Friend for the End of the World,6/22,143,R,"June 22, 2012",1 hrs. 34 min.,Focus,"$7,078,738",2012,"1,625","1,625"
+"$3,335,600","$7,352,000",,12/30,LD Entertainment,Horror Thriller,The Collection,11/30,144,R,"November 30, 2012",1 hrs. 21 min.,LD,"$6,842,058",2012,"1,403","1,403"
+"$73,400","$7,333,000",$8.9 million,5/16,Sony Classics,Foreign,Amour,12/19,145,PG-13,"December 19, 2012",2 hrs. 5 min.,SPC,"$6,739,492",2012,3,333
+"$87,400","$6,926,800",,3/28,Focus Features,Drama,Hyde Park on Hudson,12/7,146,R,"December 7, 2012",1 hrs. 34 min.,Focus,"$6,376,145",2012,4,246
+"$309,200","$6,477,400",,3/14,Fox Searchlight,Drama,Hitchcock,11/23,147,PG-13,"November 23, 2012",1 hrs. 38 min.,FoxS,"$6,008,677",2012,17,561
+"$121,900","$6,458,200",,3/14,Fox Searchlight,Drama,The Sessions,10/19,148,R,"October 19, 2012",1 hrs. 38 min.,FoxS,"$6,002,451",2012,4,516
+"$2,437,300","$6,451,400",$20 million,1/13,Fox,Sports Drama,Chasing Mavericks,10/26,149,PG,"October 26, 2012",1 hrs. 51 min.,Fox,"$6,002,756",2012,"2,002","2,030"
+"$2,498,100","$6,414,100",,5/17,Lionsgate,Comedy,Casa De Mi Padre,3/16,150,R,"March 16, 2012",1 hrs. 24 min.,LGF,"$5,909,483",2012,382,475
+"$2,008,700","$6,064,700",,8/16,Arc Entertainment,Foreign,For Greater Glory,6/1,151,R,"June 1, 2012",2 hrs. 23 min.,ArcEnt,"$5,672,846",2012,757,757
+"$2,894,500","$5,706,400",,11/22,Fox,Drama,Won't Back Down,9/28,152,PG,"September 28, 2012",2 hrs. 1 min.,Fox,"$5,310,554",2012,"2,515","2,517"
+"$1,853,600","$5,551,700",,6/14,Samuel Goldwyn,Drama,October Baby (2012),3/23,153,PG-13,"March 23, 2012",1 hrs. 47 min.,Gold.,"$5,157,886Domestic Lifetime Gross: $5,357,328",2012,390,390
+"$3,159,200","$5,486,100",$17 million,10/11,Warner Bros.,Thriller,The Apparition,8/24,154,PG-13,"August 24, 2012",1 hrs. 22 min.,WB,"$4,936,819",2012,810,810
+"$934,600","$4,602,300",,5/17,Paramount Vantage,Comedy,"Jeff, Who Lives at Home",3/16,155,R,"March 16, 2012",1 hrs. 23 min.,ParV,"$4,269,426",2012,254,513
+"$1,346,500","$4,548,200",,5/31,Magnolia,Sports Comedy,Goon,2/24,156,R,"February 24, 2012",1 hrs. 31 min.,Magn.,"$4,168,528",2012,241,242
+"$104,100","$4,397,100",,10/18,FilmDistrict,Sci-Fi Comedy,Safety Not Guaranteed,6/8,157,R,"June 8, 2012",1 hrs. 25 min.,FD,"$4,010,957",2012,9,182
+"$233,500","$4,381,600",,7/12,Sony Classics,Foreign / Action,The Raid: Redemption,3/23,158,R,"March 23, 2012",1 hrs. 41 min.,SPC,"$4,105,187",2012,14,881
+"$2,036,400","$4,182,600",,10/4,Lionsgate/Summit,Action Thriller,The Cold Light of Day,9/7,159,PG-13,"September 7, 2012",1 hrs. 33 min.,LG/S,"$3,763,583",2012,"1,511","1,511"
+"$570,400","$4,115,600",,6/21,Weinstein Company,Documentary,Bully (PG-13),4/13,160,PG-13,"April 13, 2012",1 hrs. 38 min.,Wein.,"$3,863,446Domestic Lifetime Gross: $4,142,648",2012,158,263
+"$30,500","$4,021,500",,8/22,Sony Classics,Documentary,Searching for Sugar Man,7/27,161,PG-13,"July 27, 2012",1 hrs. 25 min.,SPC,"$3,696,196",2012,3,157
+"$1,316,100","$3,755,100",,10/11,Arc Entertainment,Sports Comedy,Nitro Circus the Movie 3D,8/8,162,PG-13,"August 8, 2012",1 hrs. 28 min.,ArcEnt,"$3,377,618",2012,800,800
+"$1,763,300","$3,691,400",,10/11,Rocky Mountain Pictures,Drama,Last Ounce of Courage,9/14,163,PG,"September 14, 2012",1 hrs. 41 min.,RM,"$3,329,674",2012,"1,407","1,407"
+"$39,500","$3,683,800",,1/21,Samuel Goldwyn,Sci-Fi Comedy,Robot & Frank,8/17,164,PG-13,"August 17, 2012",1 hrs. 30 min.,Gold.,"$3,325,038",2012,2,209
+"$1,882,100","$3,584,700",,11/29,Atlas Distribution,Drama,Atlas Shrugged: Part II,10/12,165,PG-13,"October 12, 2012",1 hrs. 52 min.,ADC,"$3,336,053",2012,"1,012","1,012"
+"$1,860,900","$3,473,800",,10/4,Paramount,Period Adventure,Raiders of the Lost Ark (IMAX),9/7,166,PG,"September 7, 2012",1 hrs. 55 min.,Par.,"$3,125,613Domestic Lifetime Gross: $248,159,971",2012,267,322
+"$119,800","$3,438,700",,12/13,Sony Classics,Comedy / Drama,Celeste and Jesse Forever,8/3,167,R,"August 3, 2012",1 hrs. 31 min.,SPC,"$3,094,813",2012,4,586
+"$760,200","$3,289,900",,5/17,Roadside Attractions,Drama,Albert Nobbs,1/27,168,R,"January 27, 2012",1 hrs. 54 min.,RAtt.,"$3,014,696",2012,245,245
+"$1,379,300","$3,274,700",,11/25,Yash Raj,Foreign,Jab Tak Hai Jaan,11/13,169,Unrated,"November 13, 2012",2 hrs. 10 min.,Yash,"$3,047,539",2012,161,164
+"$1,180,400","$3,093,800",,10/28,UTV Communications,Foreign,Barfi!,9/14,170,Unrated,"September 14, 2012",2 hrs. 30 min.,UTV,"$2,804,874",2012,132,132
+"$1,760,800","$3,086,600",,1/10,Reliance Big Pictures,Foreign,Talaash,11/30,171,Unrated,"November 30, 2012",2 hrs. 19 min.,Relbig.,"$2,871,956",2012,172,172
+"$84,700","$2,918,400",,4/25,Oscilloscope Pictures,Documentary,Samsara,8/24,172,PG-13,"August 24, 2012",1 hrs. 39 min.,Osci.,"$2,672,413",2012,2,70
+"$156,600","$2,822,200",,10/25,Fox Searchlight,Romantic Comedy,Ruby Sparks,7/25,173,R,"July 25, 2012",1 hrs. 44 min.,FoxS,"$2,540,106",2012,13,261
+"$1,474,400","$2,779,700",,6/21,Lionsgate,Comedy / Drama,Girl in Progress,5/11,174,PG-13,"May 11, 2012",1 hrs. 30 min.,LGF,"$2,609,412",2012,322,322
+"$45,900","$2,735,700",,8/23,Magnolia,Foreign,Jiro Dreams of Sushi,3/9,175,PG,"March 9, 2012",1 hrs. 21 min.,Magn.,"$2,552,478",2012,2,80
+"$1,095,200","$2,716,900",,1/24,Eros,Foreign,Dabangg 2,12/21,176,Unrated,"December 21, 2012",2 hrs. 5 min.,Eros,"$2,519,190",2012,166,166
+"$57,100","$2,664,800",,11/22,Magnolia,Documentary,The Queen of Versailles,7/20,177,PG,"July 20, 2012",1 hrs. 40 min.,Magn.,"$2,401,999",2012,3,89
+"$1,266,700","$2,501,000",,8/26,Yash Raj,Foreign,Ek Tha Tiger,8/15,178,Unrated,"August 15, 2012",2 hrs. 13 min.,Yash,"$2,347,774",2012,120,120
+"$76,500","$2,499,300",,11/22,IFC,Comedy,Sleepwalk with Me,8/24,179,PG-13,"August 24, 2012",1 hrs. 21 min.,IFC,"$2,266,067",2012,1,135
+"$29,200","$2,239,300",,4/4,Sony Classics,Foreign,Rust and Bone,11/23,180,R,"November 23, 2012",2 hrs. 0 min.,SPC,"$2,062,027",2012,2,168
+"$42,100","$2,207,600",,10/14,LD Entertainment,Comedy / Drama,Killer Joe,7/27,181,NC-17,"July 27, 2012",1 hrs. 43 min.,LD,"$1,987,762",2012,3,75
+"$1,245,600","$2,169,900",,2/23,Eros,Foreign,Agneepath,1/26,182,Unrated,"January 26, 2012",2 hrs. 48 min.,Eros,"$1,986,748",2012,132,132
+"$119,500","$2,149,300",,10/11,Music Box Films,Foreign,Monsieur Lazhar (U.S.-only),4/13,183,PG-13,"April 13, 2012",1 hrs. 34 min.,MBox,"$2,009,517",2012,19,86
+"$51,900","$2,148,900",,7/12,Sony Classics,Foreign,Footnote,3/9,184,PG,"March 9, 2012",1 hrs. 43 min.,SPC,"$2,007,758",2012,2,101
+"$801,000","$2,000,900",,11/25,Eros,Foreign,English Vinglish,10/5,185,Unrated,"October 5, 2012",2 hrs. 14 min.,Eros,"$1,862,086",2012,88,88
+"$274,200","$1,953,900",,7/19,Branded/Peck Ent.,Sports Drama,Crooked Arrows,5/18,186,PG-13,"May 18, 2012",1 hrs. 40 min.,BPE,"$1,832,541",2012,55,327
+"$38,000","$1,937,100",,9/27,Sony Classics,Period Comedy,Hysteria,5/18,187,R,"May 18, 2012",1 hrs. 40 min.,SPC,"$1,804,139",2012,5,218
+"$902,400","$1,908,700",,5/17,Eros,Foreign,Housefull 2,4/6,188,Unrated,"April 6, 2012",2 hrs. 25 min.,Eros,"$1,791,780",2012,121,121
+"$450,300","$1,859,300",,3/29,Shorts International,Unknown,2012 Oscar Nominated Short Films,2/10,189,Unrated,"February 10, 2012",,Shrts.,"$1,702,415",2012,120,146
+"$116,300","$1,798,000",,8/26,IFC,Comedy / Drama,Your Sister's Sister,6/15,190,R,"June 15, 2012",1 hrs. 30 min.,IFC,"$1,636,190",2012,13,101
+"$652,900","$1,788,800",,8/26,Warner Bros.,Musical,Singin' In the Rain (2012 re-release),7/12,191,G,"July 12, 2012",1 hrs. 43 min.,WB,"$1,608,925Domestic Lifetime Gross: $1,826,108",2012,561,561
+"$80,200","$1,757,700",,10/18,Cohen Media Group,Foreign,Farewell My Queen,7/13,192,R,"July 13, 2012",1 hrs. 40 min.,Cohen,"$1,597,998",2012,4,64
+"$80,900","$1,684,200",,3/14,Entertainment One,Drama,A Late Quartet,11/2,193,R,"November 2, 2012",1 hrs. 45 min.,EOne,"$1,562,546",2012,9,100
+,"$1,682,300",,7/19,Warner Bros.,Action / Adventure,The Dark Knight (2012 re-release),7/19,194,PG-13,"July 19, 2012",2 hrs. 30 min.,WB,"$1,513,086Domestic Lifetime Gross: $534,858,444",2012,,
+,"$1,677,400",,7/19,Warner Bros.,Action / Adventure,Batman Begins (2012 re-release),7/19,195,PG-13,"July 19, 2012",2 hrs. 20 min.,WB,"$1,508,658Domestic Lifetime Gross: $206,852,432",2012,,
+"$41,100","$1,672,500",,5/2,Magnolia,Foreign,A Royal Affair,11/9,196,R,"November 9, 2012",2 hrs. 12 min.,Magn.,"$1,546,761",2012,7,56
+"$50,200","$1,571,700",,6/14,IFC,Foreign,Kid With a Bike,3/16,197,PG-13,"March 16, 2012",1 hrs. 27 min.,IFC,"$1,470,000",2012,3,86
+"$279,100","$1,508,300",,8/16,Magnolia,Documentary,Marley,4/20,198,PG-13,"April 20, 2012",2 hrs. 25 min.,Magn.,"$1,413,480",2012,42,73
+,"$1,456,500",,9/9,3D Entertainment,Documentary,Air Racers 3D,4/6,199,Unrated,"April 6, 2012",0 hrs. 40 min.,3D,"$1,309,987",2012,,10
+,"$1,434,300",,5/2,Submarine Deluxe,Documentary,Chasing Ice,11/9,200,PG-13,"November 9, 2012",1 hrs. 16 min.,SD,"$1,328,467",2012,,53
+"$160,000","$1,388,000",,10/11,Focus Features,Comedy,"For a Good Time, Call... ",8/31,201,R,"August 31, 2012",1 hrs. 26 min.,Focus,"$1,251,749",2012,23,107
+"$135,100","$1,384,000",,2/10,Cohen Media Group,Foreign,The Other Son,10/26,202,PG-13,"October 26, 2012",1 hrs. 45 min.,Cohen,"$1,285,918",2012,41,53
+"$146,000","$1,378,300",,9/27,Magnolia,Drama,Take This Waltz,6/29,203,R,"June 29, 2012",1 hrs. 56 min.,Magn.,"$1,239,692",2012,30,64
+"$720,400","$1,365,100",,8/9,Eros,Foreign,Cocktail (2012),7/13,204,Unrated,"July 13, 2012",2 hrs. 26 min.,Eros,"$1,227,789",2012,96,96
+"$624,800","$1,352,300",,7/29,FIP,Foreign,Bol Bachchan,7/6,205,PG,"July 6, 2012",1 hrs. 46 min.,FIP,"$1,216,258",2012,98,98
+"$683,400","$1,292,300",,5/31,Codeblack Entertainment,Thriller,Woman Thou Art Loosed!: On the 7th Day,4/13,206,PG-13,"April 13, 2012",1 hrs. 41 min.,Code,"$1,213,128",2012,102,106
+"$45,800","$1,286,800",,8/16,Magnolia,Thriller,Headhunters,4/27,207,R,"April 27, 2012",1 hrs. 40 min.,Magn.,"$1,200,010",2012,4,60
+"$695,800","$1,262,100",,3/22,UTV Communications,Foreign,Ek Main Aur Ekk Tu,2/10,208,Unrated,"February 10, 2012",2 hrs. 20 min.,UTV,"$1,155,545",2012,111,111
+,"$1,253,100",,4/26,Warner Bros.,Romance,Casablanca (2012 re-release),3/21,209,PG,"March 21, 2012",1 hrs. 42 min.,WB,"$1,155,330Domestic Lifetime Gross: $4,108,411",2012,,507
+"$135,300","$1,206,000",,8/30,Music Box Films,Romance,The Deep Blue Sea,3/23,210,R,"March 23, 2012",1 hrs. 38 min.,MBox,"$1,126,525",2012,31,61
+"$493,500","$1,135,500",$20 million,9/20,Kenn Viselman Presents,Family,Oogieloves In The BIG Balloon Adventure,8/29,211,G,"August 29, 2012",1 hrs. 23 min.,KVP,"$1,065,907",2012,"2,160","2,160"
+"$29,900","$1,131,400",,5/17,Sony Classics,Foreign,In Darkness,2/10,212,R,"February 10, 2012",2 hrs. 25 min.,SPC,"$1,041,455",2012,3,52
+"$583,900","$1,105,600",,10/7,Veracity,Drama,Unconditional,9/21,213,PG-13,"September 21, 2012",1 hrs. 37 min.,VMP,"$1,005,800",2012,312,312
+"$70,800","$1,098,300",,2/21,Samuel Goldwyn,Documentary,Diana Vreeland: The Eye Has to Travel,9/21,214,PG-13,"September 21, 2012",1 hrs. 32 min.,Gold.,"$1,017,579",2012,3,27
+"$68,100","$1,094,600",,7/11,Adopt Films,Foreign,Barbara,12/21,215,PG-13,"December 21, 2012",1 hrs. 45 min.,AF,"$1,013,902",2012,15,23
+"$51,200","$1,080,300",,6/28,IFC,Documentary,First Position,5/4,216,Unrated,"May 4, 2012",1 hrs. 30 min.,IFC,"$1,014,071",2012,5,58
+"$62,400","$1,078,500",,8/23,Sony Classics,Comedy,Damsels in Distress,4/6,217,PG-13,"April 6, 2012",1 hrs. 38 min.,SPC,"$1,008,455",2012,4,205
+,"$1,063,900",,-,Callbox LLC,Documentary,Burn,7/24,218,Unrated,"July 24, 2012",1 hrs. 26 min.,CB,"$996,103Domestic Lifetime Gross: $1,109,276",2012,,14
+"$66,000","$1,058,700",,5/10,Millennium Ent.,Crime Drama,Rampart,2/10,219,R,"February 10, 2012",1 hrs. 47 min.,MNE,"$972,512",2012,5,106
+,"$996,800",,4/18,CJ Entertainment,Foreign,Masquerade (2012),9/21,220,Unrated,"September 21, 2012",2 hrs. 11 min.,CJ,"$922,921",2012,,15
+"$24,900","$992,800",,12/2,Indomina Media,Documentary,The Imposter,7/13,221,Unrated,"July 13, 2012",1 hrs. 39 min.,IM,"$898,317",2012,1,31
+,"$882,600",,-,Page 124 Productions,Documentary,Bill W.,5/18,222,Unrated,"May 18, 2012",1 hrs. 44 min.,P124,"$809,590",2012,,31
+"$200,400","$860,000",,5/24,ATO Pictures,Crime Drama,Thin Ice,2/17,223,R,"February 17, 2012",1 hrs. 34 min.,ATO,"$790,421",2012,53,53
+"$78,200","$848,800",,10/4,Entertainment One,Drama,Cosmopolis,8/17,224,R,"August 17, 2012",1 hrs. 48 min.,EOne,"$763,556",2012,3,65
+"$42,600","$847,100",,8/23,Sony Classics,Comedy,Darling Companion,4/20,225,PG-13,"April 20, 2012",1 hrs. 43 min.,SPC,"$793,815",2012,4,64
+"$432,400","$842,900",,7/15,Eros,Foreign,Teri Meri Kahaani,6/22,226,Unrated,"June 22, 2012",2 hrs. 0 min.,Eros,"$781,196",2012,94,94
+"$367,000","$829,300",,12/13,Eros,Foreign,Son of Sardaar,11/13,227,Unrated,"November 13, 2012",2 hrs. 25 min.,Eros,"$771,789",2012,109,109
+"$406,700","$828,300",,7/5,UTV Communications,Foreign,Rowdy Rathore,6/1,228,Unrated,"June 1, 2012",2 hrs. 10 min.,UTV,"$777,373",2012,120,120
+"$66,800","$822,300",,5/31,Weinstein Company,Period Drama,Coriolanus,1/20,229,R,"January 20, 2012",2 hrs. 2 min.,Wein.,"$757,195",2012,9,21
+,"$805,300",,11/7,National Geographic Entertainment,Documentary,Meerkats,5/26,230,Unrated,"May 26, 2012",,NGE,"$777,595",2012,,8
+"$42,500","$784,900",,5/2,IFC,Drama,On the Road,12/21,231,R,"December 21, 2012",2 hrs. 4 min.,IFC,"$744,296",2012,4,107
+"$466,400","$762,600",,4/15,Eros,Foreign / Action,Agent Vinod,3/23,232,Unrated,"March 23, 2012",2 hrs. 37 min.,Eros,"$698,210",2012,122,122
+"$110,400","$745,000",,11/22,Millennium Ent.,Thriller,The Paperboy,10/5,233,R,"October 5, 2012",1 hrs. 47 min.,MNE,"$693,286",2012,11,76
+"$147,200","$737,000",,12/20,Well Go USA,Foreign / Action,The Thieves,10/12,234,Unrated,"October 12, 2012",2 hrs. 15 min.,WGUSA,"$685,839",2012,11,22
+"$350,800","$720,000",,11/11,Eros,Foreign,Student of the Year,10/19,235,Unrated,"October 19, 2012",,Eros,"$670,086",2012,106,106
+"$79,000","$719,500",,1/3,Warner Bros.,Animation,The Polar Express (2012 re-issue),11/21,236,G,"November 21, 2012",1 hrs. 40 min.,WB,"$669,289Domestic Lifetime Gross: $186,493,472",2012,15,17
+"$26,600","$702,600",,11/15,Magnolia,Comedy,2 Days in New York,8/10,237,R,"August 10, 2012",1 hrs. 31 min.,Magn.,"$633,210",2012,2,42
+"$20,300","$691,200",,1/27,Indomina Media,Foreign,Holy Motors,10/17,238,Unrated,"October 17, 2012",1 hrs. 55 min.,IM,"$641,100",2012,2,29
+"$20,600","$664,800",$20 million,1/24,Paramount Vantage,Drama,Not Fade Away,12/21,239,R,"December 21, 2012",1 hrs. 52 min.,ParV,"$610,792",2012,3,565
+"$433,500","$661,400",,10/11,UTV Communications,Foreign,Heroine,9/21,240,Unrated,"September 21, 2012",2 hrs. 20 min.,UTV,"$598,668",2012,114,114
+,"$652,900",,8/30,Warner Bros.,Family,Thunderstruck,8/24,241,PG,"August 24, 2012",,WB,"$587,211",2012,,250
+"$112,900","$634,300",,7/12,IFC,Comedy / Drama,"Peace, Love and Misunderstanding",6/8,242,R,"June 8, 2012",1 hrs. 36 min.,IFC,"$590,700",2012,31,76
+"$51,400","$634,200",,5/10,Weinstein Company,Historical Drama,W.E.,2/3,243,R,"February 3, 2012",1 hrs. 58 min.,Wein.,"$583,455",2012,4,24
+"$278,200","$633,900",,6/7,Roadside Attractions,Comedy,Blue Like Jazz,4/13,244,PG-13,"April 13, 2012",1 hrs. 46 min.,RAtt.,"$595,018",2012,136,136
+"$36,200","$609,500",,6/7,Weinstein Company,Documentary,Undefeated (2012),2/17,245,PG-13,"February 17, 2012",1 hrs. 53 min.,Wein.,"$562,218",2012,5,21
+"$45,700","$593,800",,9/27,IFC,Documentary,Ai Weiwei: Never Sorry,7/27,246,R,"July 27, 2012",1 hrs. 30 min.,IFC,"$534,100",2012,5,37
+"$48,000","$587,200",,4/12,Focus Features,Comedy / Drama,Being Flynn,3/2,247,R,"March 2, 2012",1 hrs. 26 min.,Focus,"$540,152",2012,4,88
+"$180,300","$584,800",,5/17,Eros,Foreign,Vicky Donor,4/20,248,Unrated,"April 20, 2012",2 hrs. 22 min.,Eros,"$549,001",2012,50,50
+"$33,400","$583,900",,6/14,IFC,Foreign,We Have a Pope,4/6,249,Unrated,"April 6, 2012",1 hrs. 45 min.,IFC,"$548,115",2012,3,27
+"$16,400","$572,000",,9/13,Sony Classics,Foreign,Where Do We Go Now?,5/11,250,PG-13,"May 11, 2012",1 hrs. 50 min.,SPC,"$531,997",2012,3,37
+,"$567,400",,8/16,Oscilloscope Pictures,Concert,Shut Up and Play the Hits,7/18,251,Unrated,"July 18, 2012",1 hrs. 48 min.,Osci.,"$510,334",2012,,161
+,"$544,500",,-,Cohen Media Group,Foreign,Delicacy,3/16,252,PG-13,"March 16, 2012",1 hrs. 48 min.,Cohen,"$498,584",2012,,
+"$21,400","$507,200",,1/10,IFC,Foreign,The Flat,10/19,253,Unrated,"October 19, 2012",1 hrs. 37 min.,IFC,"$471,842",2012,3,27
+"$201,800","$497,400",,10/11,Radius-TWC,Comedy,Bachelorette,9/7,254,R,"September 7, 2012",1 hrs. 31 min.,RTWC,"$447,954",2012,47,60
+"$256,500","$474,100",,-,Eros,Foreign,Ferrari Ki Sawaari,6/15,255,Unrated,"June 15, 2012",2 hrs. 19 min.,Eros,"$434,107",2012,99,99
+"$272,900","$449,600",,4/5,Anchor Bay Films,Action Thriller,Seeking Justice,3/16,256,R,"March 16, 2012",1 hrs. 45 min.,Anch.,"$411,746",2012,231,231
+"$38,500","$434,700",,6/28,Fox Searchlight,Drama,Sound of My Voice,4/27,257,R,"April 27, 2012",1 hrs. 25 min.,FoxS,"$408,015",2012,5,48
+"$11,400","$426,300",,-,Kino Lorber,Foreign,The Well-Digger's Daughter,7/20,258,Unrated,"July 20, 2012",1 hrs. 47 min.,KL,"$386,368",2012,3,16
+"$19,400","$425,000",,2/28,Loki Films,Documentary,Detropia,9/7,259,Unrated,"September 7, 2012",1 hrs. 33 min.,LF,"$390,024",2012,1,24
+"$246,000","$407,800",,-,Eros,Foreign,Khiladi 786,12/7,260,Unrated,"December 7, 2012",2 hrs. 21 min.,Eros,"$379,466",2012,115,115
+"$29,000","$404,700",,1/10,Sony Classics,Comedy / Drama,Smashed,10/12,261,R,"October 12, 2012",1 hrs. 25 min.,SPC,"$376,597",2012,4,50
+"$194,100","$401,100",,6/21,Weinstein / Dimension,Horror,Piranha 3DD,6/1,262,R,"June 1, 2012",1 hrs. 23 min.,W/Dim.,"$376,512",2012,86,86
+"$213,300","$393,700",,11/1,ATO Pictures,Comedy / Drama,The Oranges,10/5,263,R,"October 5, 2012",1 hrs. 30 min.,ATO,"$366,377",2012,110,110
+"$267,500","$393,000",,10/4,Roadside Attractions,Action,Branded,9/7,264,R,"September 7, 2012",1 hrs. 46 min.,RAtt.,"$353,513",2012,307,307
+"$22,600","$381,300",,4/12,GKIDS,Foreign,Chico & Rita,2/10,265,Unrated,"February 10, 2012",1 hrs. 34 min.,GK,"$350,524",2012,1,23
+,"$378,600",,-,Cohen Media Group,Drama,The Lady,4/13,266,R,"April 13, 2012",2 hrs. 25 min.,Cohen,"$355,391",2012,19,19
+"$44,600","$376,300",,11/22,Variance Films,Drama,Red Hook Summer,8/10,267,R,"August 10, 2012",2 hrs. 1 min.,Vari.,"$338,803",2012,4,41
+,"$368,800",,1/10,CJ Entertainment,Foreign,A Werewolf Boy,11/30,268,Unrated,"November 30, 2012",2 hrs. 5 min.,CJ,"$342,922",2012,20,20
+"$30,500","$355,500",,11/22,IFC,Comedy / Drama,Liberal Arts,9/14,269,PG-13,"September 14, 2012",1 hrs. 37 min.,IFC,"$327,345",2012,4,31
+"$18,300","$354,100",,11/1,Magnolia,Drama / Thriller,Compliance,8/17,270,R,"August 17, 2012",1 hrs. 30 min.,Magn.,"$319,285",2012,1,21
+"$32,800","$351,300",,1/31,IFC,Documentary,The Central Park Five,11/23,271,Unrated,"November 23, 2012",1 hrs. 59 min.,IFC,"$325,653",2012,3,22
+"$20,900","$341,700",,8/23,Zeitgeist,Foreign,The Salt of Life,3/2,272,Unrated,"March 2, 2012",1 hrs. 30 min.,Zeit.,"$317,405",2012,2,19
+"$52,900","$339,400",,4/26,Wrekin Hill,Historical Drama,The Flowers of War,1/20,273,R,"January 20, 2012",2 hrs. 21 min.,WHE,"$311,434",2012,30,30
+"$36,800","$339,400",,9/13,GKIDS,Animation,A Cat in Paris,6/1,274,PG,"June 1, 2012",1 hrs. 10 min.,GK,"$309,973",2012,6,18
+"$90,800","$337,600",,4/12,China Lion,Foreign,Love (2012),2/17,275,Unrated,"February 17, 2012",,CL,"$309,200",2012,7,15
+"$113,600","$336,400",,1/10,China Lion,Foreign,Back to 1942,11/30,276,Unrated,"November 30, 2012",2 hrs. 26 min.,CL,"$312,954",2012,20,20
+"$14,400","$336,200",,4/25,Sony Classics,Documentary,West of Memphis,12/25,277,R,"December 25, 2012",2 hrs. 27 min.,SPC,"$310,154",2012,5,40
+"$203,600","$324,200",,9/27,Millennium Ent.,Action Thriller,Stolen (2012),9/14,278,R,"September 14, 2012",1 hrs. 36 min.,MNE,"$304,318",2012,141,141
+"$160,100","$307,300",,7/5,Indomina Media,Documentary,Something From Nothing: The Art of Rap,6/15,279,R,"June 15, 2012",1 hrs. 53 min.,IM,"$288,312",2012,157,157
+"$127,200","$297,400",,4/12,Weinstein Company,Documentary,Bully (2012),3/30,280,Unrated,"March 30, 2012",1 hrs. 38 min.,Wein.,"$279,202Domestic Lifetime Gross: $4,142,648",2012,5,6
+"$12,600","$279,300",,-,Sony Classics,Foreign,Chicken with Plums,8/17,281,PG-13,"August 17, 2012",1 hrs. 33 min.,SPC,"$253,874",2012,2,24
+"$23,200","$275,600",,-,Paladin/Unison,Comedy / Drama,Boy (2012),3/2,282,Unrated,"March 2, 2012",1 hrs. 27 min.,PalUni,"$256,211",2012,2,18
+"$99,600","$273,200",,5/10,China Lion,Foreign,Love in the Buff,3/30,283,Unrated,"March 30, 2012",1 hrs. 52 min.,CL,"$256,451",2012,10,14
+"$61,800","$270,500",,12/27,Music Box Films,Drama,Keep the Lights On,9/7,284,Unrated,"September 7, 2012",1 hrs. 41 min.,MBox,"$246,112",2012,5,10
+"$33,900","$270,100",,7/12,Fox Searchlight,Comedy,Lola Versus,6/8,285,R,"June 8, 2012",1 hrs. 29 min.,FoxS,"$252,603",2012,4,52
+"$122,000","$266,900",,11/11,Rocky Mountain Pictures,Comedy,My Uncle Rafael,9/21,286,PG-13,"September 21, 2012",1 hrs. 42 min.,RM,"$243,616",2012,14,14
+"$7,900","$264,200",,5/16,International Film Circuit,Documentary,The Waiting Room,9/26,287,Unrated,"September 26, 2012",1 hrs. 21 min.,ICir,"$244,951",2012,4,8
+"$14,800","$261,200",,8/9,Kino Lorber,Foreign,Gerhard Richter Painting,3/14,288,Unrated,"March 14, 2012",1 hrs. 37 min.,KL,"$242,646",2012,1,9
+"$32,400","$256,100",,8/26,IFC,Drama,Trishna,7/13,289,R,"July 13, 2012",1 hrs. 48 min.,IFC,"$240,381",2012,3,38
+"$73,000","$254,500","$200,000",12/13,AFFRM,Drama,Middle of Nowhere (2012),10/12,290,R,"October 12, 2012",1 hrs. 37 min.,AFFRM,"$236,806",2012,6,25
+"$9,600","$253,700",,10/25,Zeitgeist,Foreign,Elena,5/16,291,Unrated,"May 16, 2012",1 hrs. 49 min.,Zeit.,"$233,380",2012,1,13
+"$157,800","$244,900",,5/17,Eros,Foreign,Tezz,4/27,292,Unrated,"April 27, 2012",2 hrs. 3 min.,Eros,"$229,931",2012,97,97
+"$69,100","$240,800",,3/29,China Lion,Foreign,The Viral Factor,1/20,293,Unrated,"January 20, 2012",2 hrs. 2 min.,CL,"$220,496",2012,22,22
+"$12,800","$238,700",,10/18,Sony Classics,Documentary,Neil Young Journeys,6/29,294,PG,"June 29, 2012",1 hrs. 27 min.,SPC,"$215,026",2012,3,23
+"$20,200","$236,100",,3/7,Producers Distribution Agency,Documentary,Brooklyn Castle,10/19,295,PG,"October 19, 2012",1 hrs. 41 min.,PDA,"$219,407",2012,2,13
+"$106,700","$233,100",,-,Cohen Media Group,Horror Thriller,The Awakening (2012),8/17,296,R,"August 17, 2012",1 hrs. 47 min.,Cohen,"$209,696",2012,70,70
+"$143,500","$229,400",,10/25,UTV Communications,Foreign / Action,Thaandavam,9/28,297,Unrated,"September 28, 2012",2 hrs. 40 min.,UTV,"$213,476",2012,45,45
+"$8,700","$228,800",,1/31,Long Shot Factory,Documentary,Somewhere Between,8/24,298,Unrated,"August 24, 2012",1 hrs. 34 min.,Long Shot,"$210,975",2012,1,6
+"$27,400","$228,700",,9/13,Weinstein Company,Foreign,Easy Money (2012),7/11,299,R,"July 11, 2012",2 hrs. 4 min.,Wein.,"$205,741",2012,2,7
+"$28,500","$228,300",,11/1,MPI Media Group,Foreign,Little White Lies,8/24,300,Unrated,"August 24, 2012",2 hrs. 34 min.,MPI,"$206,088",2012,3,14
+"$91,400","$227,900",,11/29,Variance Films,Foreign / Action,Tai Chi Zero,10/19,301,PG-13,"October 19, 2012",1 hrs. 34 min.,Vari.,"$212,094",2012,31,31
+"$17,700","$226,900",,2/14,Abramorama,Documentary,The House I Live In,10/5,302,Unrated,"October 5, 2012",,Abr.,"$210,752",2012,2,12
+"$17,600","$225,200",,6/21,IFC,Foreign / Action,Polisse,5/18,303,Unrated,"May 18, 2012",2 hrs. 7 min.,IFC,"$211,440",2012,3,21
+"$25,200","$223,700",,10/11,Anchor Bay Films,Comedy / Drama,10 Years,9/14,304,PG-13,"September 14, 2012",1 hrs. 40 min.,Anch.,"$203,373",2012,3,63
+"$96,000","$223,200",,2/23,UTV Communications,Foreign / Action,Vettai,1/13,305,Unrated,"January 13, 2012",2 hrs. 30 min.,UTV,"$204,373",2012,34,34
+"$95,500","$222,500",,-,Magnolia,Comedy,Tim & Eric's Billion Dollar Movie,3/2,306,R,"March 2, 2012",1 hrs. 32 min.,Magn.,"$201,436",2012,24,33
+"$43,500","$217,700",,4/4,Music Box Films,Drama,Any Day Now,12/14,307,R,"December 14, 2012",1 hrs. 37 min.,MBox,"$201,395",2012,16,19
+"$71,400","$217,600",,5/23,Anchor Bay Films,Sports Drama,Touchback,4/13,308,PG-13,"April 13, 2012",1 hrs. 58 min.,Anch.,"$204,232",2012,50,69
+"$46,200","$204,400",,10/4,China Lion,Foreign,A Simple Life,4/13,309,Unrated,"April 13, 2012",1 hrs. 58 min.,CL,"$191,826",2012,9,13
+"$63,600","$199,000",,3/15,Nocturnal Features,Sci-Fi Thriller,Lost Woods,3/2,310,Unrated,"March 2, 2012",1 hrs. 28 min.,Noct.,"$180,117",2012,13,13
+"$67,000","$194,600",,4/25,Eleven Arts,Animation,Puella Magi Madoka Magica the Movie,10/19,311,Unrated,"October 19, 2012",4 hrs. 0 min.,Elev.,"$180,440",2012,5,5
+"$130,300","$194,200",,3/8,Eleven Arts,Foreign,Fullmetal Alchemist: The Sacred Star of Milos,1/20,312,Unrated,"January 20, 2012",1 hrs. 50 min.,Elev.,"$177,802",2012,42,42
+"$103,300","$194,100",,3/22,UTV Communications,Foreign,Tere Naal Love Ho Gaya,2/24,313,Unrated,"February 24, 2012",2 hrs. 10 min.,UTV,"$177,743",2012,49,49
+"$31,000","$189,300",,5/20,ArtAffects,Documentary,Monumental: In Search of America's National Treasure,3/30,314,PG,"March 30, 2012",1 hrs. 25 min.,AAE,"$177,729",2012,6,27
+"$20,300","$188,200",,-,Magnolia,Drama,The Hunter (2012),4/6,315,R,"April 6, 2012",1 hrs. 41 min.,Magn.,"$176,669",2012,4,17
+"$117,100","$188,100",,9/20,UTV Communications,Foreign,Joker,8/31,316,Unrated,"August 31, 2012",3 hrs. 20 min.,UTV,"$169,181",2012,74,74
+"$8,000","$187,100",,12/20,Rialto,Foreign,Grand Illusion (2012 re-release),5/11,317,Unrated,"May 11, 2012",1 hrs. 54 min.,Rialto,"$174,065",2012,1,4
+"$121,300","$183,200",,6/14,Cinedigm/Brian&Barrett,Music Drama,Battlefield America,6/1,318,PG-13,"June 1, 2012",1 hrs. 46 min.,CEB&B,"$172,000",2012,188,188
+"$14,400","$182,200",,8/26,Brainstorm and Double Hope,Drama,Dark Horse,6/8,319,Unrated,"June 8, 2012",1 hrs. 24 min.,BM&DH,"$166,228",2012,1,10
+"$106,100","$181,400",,-,Indomina Media,Foreign / Action,Flying Swords of Dragon Gate,8/31,320,R,"August 31, 2012",2 hrs. 2 min.,IM,"$170,276",2012,15,15
+"$133,100","$173,200",,8/30,Eros,Foreign,Shirin Farhad Ki Toh Nikal Padi,8/24,321,Unrated,"August 24, 2012",,Eros,"$155,758",2012,54,54
+"$8,700","$171,800",,5/3,Zipporah Films,Documentary,Crazy Horse,1/18,322,Unrated,"January 18, 2012",2 hrs. 14 min.,Zipp.,"$157,782",2012,1,14
+"$29,700","$171,000",,11/1,Strand,Foreign,Unforgivable,6/29,323,Unrated,"June 29, 2012",1 hrs. 51 min.,Strand,"$154,189",2012,5,6
+"$14,800","$170,200",,12/20,MPI Media Group,Foreign,The Big Picture (2012),10/12,324,Unrated,"October 12, 2012",,MPI,"$158,411",2012,2,8
+"$25,900","$168,500",,9/13,Kino Lorber,Foreign,Elles,4/27,325,NC-17,"April 27, 2012",1 hrs. 36 min.,KL,"$157,508",2012,6,13
+"$16,500","$167,000",,-,Adopt Films,Foreign,Sister (2012),10/5,326,Unrated,"October 5, 2012",1 hrs. 37 min.,AF,"$154,659",2012,3,14
+"$32,200","$166,300",,5/28,Nocturnal Features,Horror Thriller,Deadtime,5/11,327,Unrated,"May 11, 2012",1 hrs. 42 min.,Noct.,"$156,072",2012,18,18
+"$35,200","$165,600",,5/3,Drafthouse,Foreign,Bullhead,2/17,328,R,"February 17, 2012",2 hrs. 4 min.,Drft.,"$151,840",2012,7,34
+"$12,000","$165,300",,-,Cinema Guild,Foreign,Once Upon a Time in Anatolia,1/4,329,Unrated,"January 4, 2012",2 hrs. 30 min.,CGld,"$152,408",2012,1,6
+"$105,200","$163,100",,11/15,Eros,Foreign,Chakravyuh,10/24,330,Unrated,"October 24, 2012",,Eros,"$151,778",2012,79,79
+"$81,800","$162,400",,12/20,Lionsgate,Foreign,Hecho En Mexico,11/30,331,R,"November 30, 2012",1 hrs. 38 min.,LGF,"$151,133",2012,12,26
+"$10,700","$161,900",,11/22,The Film Arcade,Foreign,Simon and the Oaks,10/12,332,Unrated,"October 12, 2012",2 hrs. 2 min.,TFA,"$150,664",2012,1,17
+"$53,000","$160,200",,8/23,Nocturnal Features,Horror,From Beneath,8/10,333,Unrated,"August 10, 2012",1 hrs. 22 min.,Noct.,"$144,123",2012,18,18
+"$11,600","$158,000",,8/23,Magnolia,Foreign,I Wish,5/11,334,PG,"May 11, 2012",2 hrs. 8 min.,Magn.,"$145,808",2012,5,12
+"$45,400","$155,700",,6/28,Nocturnal Features,Horror,Deadly Renovations,6/8,335,Unrated,"June 8, 2012",1 hrs. 24 min.,Noct.,"$146,146",2012,13,13
+"$8,300","$154,700",,12/20,Weinstein Company,Comedy / Drama,This Must Be the Place,11/2,336,R,"November 2, 2012",1 hrs. 58 min.,Wein.,"$143,979",2012,2,15
+"$102,500","$154,200",,11/15,UTV Communications,Foreign,Luv Shuv Tey Chicken Khurana,11/2,337,Unrated,"November 2, 2012",,UTV,"$143,507",2012,60,60
+"$28,700","$152,900",,9/20,IFC,Foreign,Beloved (2012),8/17,338,Unrated,"August 17, 2012",2 hrs. 18 min.,IFC,"$137,515",2012,5,7
+"$54,900","$152,100",,9/27,Nocturnal Features,Drama,Slaughter Creek,9/14,339,Unrated,"September 14, 2012",1 hrs. 16 min.,Noct.,"$136,815",2012,16,16
+"$88,200","$148,100",,6/14,Anchor Bay Films,Comedy,High School,6/1,340,R,"June 1, 2012",1 hrs. 39 min.,Anch.,"$139,034",2012,200,200
+"$10,200","$145,300",,-,Kino Lorber,Documentary,Kumare,6/20,341,Unrated,"June 20, 2012",1 hrs. 24 min.,KL,"$132,160",2012,1,9
+"$22,000","$145,300",,11/15,The Film Arcade,Documentary,The Other Dream Team,9/28,342,Unrated,"September 28, 2012",1 hrs. 29 min.,TFA,"$135,228",2012,2,14
+"$60,900","$145,100",$23 million,-,Well Go USA,Foreign / Action,Warriors of the Rainbow: Seediq Bale,4/27,343,Unrated,"April 27, 2012",2 hrs. 34 min.,WGUSA,"$136,166",2012,12,13
+"$31,400","$143,400",,11/15,IFC,Documentary,How to Survive a Plague,9/21,344,Unrated,"September 21, 2012",1 hrs. 49 min.,IFC,"$132,055",2012,4,15
+"$16,900","$139,200",,12/20,IFC,Thriller,The Loneliest Planet,10/26,345,Unrated,"October 26, 2012",1 hrs. 53 min.,IFC,"$129,579",2012,2,13
+"$29,200","$138,000",,4/19,IFC,Foreign,Forgiveness of Blood,2/24,346,Unrated,"February 24, 2012",1 hrs. 49 min.,IFC,"$126,700",2012,3,12
+"$33,300","$136,200",,3/28,Roadside Attractions,Documentary,Escape Fire,10/5,347,PG-13,"October 5, 2012",1 hrs. 35 min.,RAtt.,"$126,238",2012,12,12
+"$11,100","$135,800",,-,New Yorker,Foreign,"Turn Me On, Dammit!",3/30,348,Unrated,"March 30, 2012",1 hrs. 16 min.,NYer,"$126,085",2012,2,5
+,"$135,600",,10/4,Entertainment One,Sci-Fi Comedy,Iron Sky,7/25,349,R,"July 25, 2012",1 hrs. 33 min.,EOne,"$122,082",2012,,8
+"$29,100","$131,000",,7/12,Magnolia,Comedy,God Bless America,5/11,350,R,"May 11, 2012",1 hrs. 44 min.,Magn.,"$122,550",2012,14,15
+"$48,300","$130,800",,9/27,China Lion,Foreign / Action,Bullet Vanishes,8/31,351,Unrated,"August 31, 2012",1 hrs. 44 min.,CL,"$117,629",2012,14,14
+"$40,500","$129,300",,8/2,Magnolia,Period Drama,Bel Ami,6/8,352,R,"June 8, 2012",1 hrs. 42 min.,Magn.,"$120,462",2012,15,15
+"$58,200","$128,600",,6/14,Samuel Goldwyn,Family,Cowgirls n' Angels,5/25,353,PG,"May 25, 2012",1 hrs. 32 min.,Gold.,"$120,680",2012,50,50
+"$13,100","$126,100",,3/14,Snagfilms,Documentary,Beware of Mr. Baker,11/28,354,Unrated,"November 28, 2012",1 hrs. 40 min.,SF,"$116,476",2012,1,15
+"$4,000","$122,700",,10/18,Screen Media,Documentary,Wild Horse Wild Ride,8/24,355,PG,"August 24, 2012",1 hrs. 46 min.,Scre.,"$111,205",2012,1,21
+"$35,200","$122,200",,-,ATO Pictures,Thriller,The Woman in the Fifth,6/15,356,R,"June 15, 2012",1 hrs. 23 min.,ATO,"$113,800",2012,9,14
+"$2,100","$121,600",,12/23,Area23a,Documentary,Burn (2012),11/9,357,Unrated,"November 9, 2012",1 hrs. 26 min.,A23,"$113,173Domestic Lifetime Gross: $1,109,276",2012,1,4
+"$8,400","$120,800",,8/9,International Film Circuit,Documentary,Follow Me: The Yoni Netanyahu Story,5/4,358,Unrated,"May 4, 2012",1 hrs. 24 min.,ICir,"$112,679",2012,1,19
+"$7,100","$118,600",,-,Kino Lorber,Foreign,5 Broken Cameras,5/30,359,Unrated,"May 30, 2012",1 hrs. 30 min.,KL,"$109,983",2012,1,9
+"$93,300","$118,100",,8/2,Arc Entertainment,Comedy,The Obama Effect,7/13,360,PG-13,"July 13, 2012",1 hrs. 25 min.,ArcEnt,"$110,904",2012,25,25
+"$15,200","$117,500",,6/21,Variance Films,Comedy,The Perfect Family,5/4,361,PG-13,"May 4, 2012",1 hrs. 24 min.,Vari.,"$110,313",2012,5,25
+"$26,600","$117,500",,11/22,Oscilloscope Pictures,Comedy / Drama,Hello I Must Be Going,9/7,362,R,"September 7, 2012",1 hrs. 35 min.,Osci.,"$106,709",2012,2,15
+"$11,500","$113,800",,9/6,Magnolia,Comedy / Drama,The Magic of Belle Isle,7/6,363,PG,"July 6, 2012",1 hrs. 49 min.,Magn.,"$102,388",2012,4,10
+"$76,200","$112,800",,10/11,Radius-TWC,Comedy,Butter,10/5,364,R,"October 5, 2012",1 hrs. 26 min.,RTWC,"$105,018",2012,90,90
+"$61,700","$112,100",,9/27,UTV Communications,Foreign / Action,Mugamoodi,8/31,365,Unrated,"August 31, 2012",2 hrs. 30 min.,UTV,"$100,809",2012,21,21
+"$10,200","$110,000",,9/20,Strand,Foreign,"Oslo, August 31st",5/25,366,Unrated,"May 25, 2012",1 hrs. 35 min.,Strand,"$101,475",2012,2,7
+"$9,600","$108,400",,12/6,Oscilloscope Pictures,Drama,Wuthering Heights (2012),10/5,367,Unrated,"October 5, 2012",2 hrs. 9 min.,Osci.,"$100,915",2012,1,12
+"$39,100","$107,800",,11/15,Magnolia,Horror,V/H/S,10/5,368,R,"October 5, 2012",1 hrs. 56 min.,Magn.,"$100,345",2012,16,19
+"$13,500","$106,900",,9/27,Magnolia,Drama,360,8/3,369,R,"August 3, 2012",1 hrs. 51 min.,Magn.,"$100,343",2012,2,12
+"$53,100","$103,100",,6/24,Rocky Mountain Pictures,Action Drama,Hardflip,6/1,370,PG-13,"June 1, 2012",,RM,"$96,734",2012,22,22
+"$22,500","$101,200",,5/17,IFC,Foreign,Goodbye First Love,4/20,371,Unrated,"April 20, 2012",1 hrs. 50 min.,IFC,"$95,000",2012,4,5
+"$60,400","$98,500",,5/24,Freestyle Releasing,Foreign / Horror,The Road (2012),5/11,372,R,"May 11, 2012",1 hrs. 50 min.,Free,"$92,476",2012,50,50
+"$16,800","$94,900",,2/21,Music Box Films,Drama,Starlet,11/9,373,Unrated,"November 9, 2012",1 hrs. 43 min.,MBox,"$88,212",2012,6,10
+"$11,800","$94,100",,10/11,Music Box Films,Documentary,Marina Abramovic: The Artist is Present,6/13,374,Unrated,"June 13, 2012",1 hrs. 46 min.,MBox,"$86,637",2012,2,5
+"$28,700","$92,200",,11/8,Sycamore,Drama,The Eye of the Storm,9/7,375,Unrated,"September 7, 2012",1 hrs. 59 min.,SEG,"$83,566",2012,7,9
+"$43,700","$87,500",,11/8,Rocky Mountain Pictures,Documentary,Hating Breitbart,10/19,376,R,"October 19, 2012",1 hrs. 25 min.,RM,"$81,432",2012,4,8
+"$32,300","$85,600",,3/1,Magnolia,Horror,The Innkeepers,2/3,377,R,"February 3, 2012",1 hrs. 41 min.,Magn.,"$78,396",2012,25,25
+"$12,100","$84,100",,11/1,Tribeca Film,Foreign / Action,Hara-Kiri: Death of a Samurai,7/20,378,Unrated,"July 20, 2012",2 hrs. 6 min.,Trib.,"$75,688",2012,2,5
+,"$83,600",,5/16,Onyx Films,Documentary,Harvest of Empire,9/28,379,Unrated,"September 28, 2012",1 hrs. 30 min.,Onyx,"$79,627",2012,,2
+"$13,800","$83,400",,1/17,Palisades Tartan,Documentary,This is Not a Film,2/29,380,Unrated,"February 29, 2012",1 hrs. 15 min.,PalT,"$77,016",2012,5,5
+"$15,300","$81,500",,-,Samuel Goldwyn,Documentary,The Island President,3/28,381,PG,"March 28, 2012",1 hrs. 41 min.,Gold.,"$76,398",2012,2,5
+"$4,000","$79,800",,8/9,Rocky Mountain Pictures,Documentary,Runaway Slave,7/6,382,Unrated,"July 6, 2012",1 hrs. 48 min.,RM,"$71,737",2012,1,6
+"$19,600","$79,700",,5/3,PMK*BNC,Drama / Thriller,On the Ice,2/17,383,R,"February 17, 2012",1 hrs. 36 min.,PMKBNC,"$73,492",2012,4,5
+"$17,600","$78,500",,-,Cinedigm Entertainment,Documentary,The Invisible War,6/22,384,Unrated,"June 22, 2012",1 hrs. 33 min.,Cdgm.,"$71,968",2012,4,19
+"$11,700","$78,200",,-,Tribeca Film,Drama,Detachment,3/16,385,Unrated,"March 16, 2012",1 hrs. 40 min.,Trib.,"$72,689",2012,2,15
+"$44,500","$76,400",,4/12,Millennium Ent.,Horror Thriller,Intruders,3/30,386,R,"March 30, 2012",1 hrs. 40 min.,MNE,"$69,136",2012,33,33
+"$22,600","$75,800",,3/15,Rocky Mountain Pictures,Documentary,An Inconsistent Truth,1/27,387,PG,"January 27, 2012",1 hrs. 29 min.,RM,"$69,394",2012,1,3
+"$19,000","$74,800",,6/3,CJ Entertainment,Foreign,My Way (2012),4/20,388,R,"April 20, 2012",2 hrs. 24 min.,CJ,"$70,177",2012,22,22
+"$53,200","$74,000",,-,Eros,Foreign,Taur Mittran Di,5/11,389,Unrated,"May 11, 2012",,Eros,"$69,510",2012,24,24
+"$21,900","$73,300",,9/20,Drafthouse,Foreign,Klown,7/27,390,R,"July 27, 2012",1 hrs. 29 min.,Drft.,"$68,795",2012,3,16
+"$22,100","$71,700",,10/18,Hannover House,Animation,Toys in the Attic,9/7,391,PG,"September 7, 2012",1 hrs. 20 min.,Hann.,"$64,918",2012,27,27
+"$32,300","$71,600",,8/16,China Lion,Foreign,Girlfriend Boyfriend - GF BF,8/3,392,Unrated,"August 3, 2012",1 hrs. 45 min.,CL,"$64,414",2012,16,16
+"$20,800","$71,400",,1/24,Magnolia,Crime,Deadfall (2012),12/7,393,R,"December 7, 2012",1 hrs. 34 min.,Magn.,"$66,351",2012,11,17
+"$12,300","$68,600",,4/26,Variance Films,Foreign / Action,Let the Bullets Fly,3/2,394,Unrated,"March 2, 2012",2 hrs. 12 min.,Vari.,"$63,012",2012,5,10
+"$19,900","$68,300",,11/11,Radius-TWC,Comedy,The Details,11/2,395,R,"November 2, 2012",1 hrs. 41 min.,RTWC,"$63,595",2012,14,73
+"$25,800","$67,300",,-,Dada Films,Drama,Backwards,9/21,396,PG,"September 21, 2012",1 hrs. 29 min.,Da.,"$61,465",2012,5,9
+,"$66,600",,-,Warner Bros.,Romance,The Bodyguard (2012 re-release),3/28,397,R,"March 28, 2012",2 hrs. 10 min.,WB,"$61,020Domestic Lifetime Gross: $122,006,740",2012,,484
+"$14,100","$66,100",,6/13,Cinema Guild,Foreign,Neighboring Sounds,8/24,398,Unrated,"August 24, 2012",2 hrs. 11 min.,CGld,"$60,255",2012,2,3
+"$1,600","$65,000",,3/14,Zeitgeist,Documentary,Gregory Crewdson: Brief Encounters,11/2,399,Unrated,"November 2, 2012",1 hrs. 17 min.,Zeit.,"$60,064",2012,1,3
+"$7,700","$65,000",,11/15,Tribeca Film,Documentary,Side By Side,8/17,400,Unrated,"August 17, 2012",1 hrs. 39 min.,Trib.,"$58,825",2012,1,9
+"$14,000","$64,600",,3/15,IFC,Foreign,Declaration of War,1/27,401,Unrated,"January 27, 2012",1 hrs. 50 min.,IFC,"$59,100",2012,6,11
+"$34,600","$63,500",,10/18,China Lion,Foreign,Vulgaria,9/28,402,Unrated,"September 28, 2012",1 hrs. 32 min.,CL,"$59,059",2012,16,16
+"$10,000","$61,200",,4/25,Cinema Guild,Foreign,The Turin Horse,2/10,403,Unrated,"February 10, 2012",2 hrs. 26 min.,CGld,"$56,391",2012,1,3
+"$5,300","$60,900",,8/2,Magnolia,Sci-Fi,Beyond the Black Rainbow,5/18,404,R,"May 18, 2012",1 hrs. 50 min.,Magn.,"$56,491",2012,2,5
+"$11,300","$60,100",,-,Cinema Guild,Comedy,Natural Selection,3/16,405,R,"March 16, 2012",1 hrs. 30 min.,CGld,"$55,282",2012,1,3
+"$49,400","$59,000",,5/13,Tyscot Manhaddon & Releve,Drama,Deitrick Haddon's A Beautiful Soul,5/4,406,PG-13,"May 4, 2012",1 hrs. 30 min.,TMF&RE,"$54,008",2012,20,20
+"$45,500","$58,400",,10/4,Magnolia,Documentary,Occupy Unmasked,9/21,407,Unrated,"September 21, 2012",,Magn.,"$52,768",2012,4,4
+,"$58,300",,-,Film Movement,Foreign,Free Men,3/16,408,Unrated,"March 16, 2012",1 hrs. 39 min.,FM,"$53,810",2012,,4
+"$19,400","$58,000",,12/6,Well Go USA,Foreign,Dangerous Liaisons (2012),11/9,409,Unrated,"November 9, 2012",1 hrs. 50 min.,WGUSA,"$54,000",2012,6,6
+"$4,400","$57,700",,9/20,First Run,Documentary,Surviving Progress,4/6,410,Unrated,"April 6, 2012",1 hrs. 26 min.,FRun,"$53,953",2012,2,6
+"$57,500","$57,500",,2/26,Yash Raj,Foreign,Jodi Breakers,2/24,411,Unrated,"February 24, 2012",2 hrs. 26 min.,Yash,"$52,618",2012,45,45
+"$3,200","$57,400",,8/30,Flicker Alley,Documentary,A Trip to the Moon/The Extraordinary Voyage,2/10,412,Unrated,"February 10, 2012",,FA,"$52,986",2012,3,6
+"$11,500","$56,100",,8/16,Millennium Ent.,Thriller,Red Lights (2012),7/13,413,R,"July 13, 2012",1 hrs. 53 min.,MNE,"$52,624",2012,2,18
+"$7,300","$54,100",,12/27,Drafthouse,Thriller,Wake in Fright,10/5,414,R,"October 5, 2012",,Drft.,"$50,394",2012,1,12
+"$14,800","$54,100",,1/3,Tribeca Film,Drama,The Fitzgerald Family Christmas,12/7,415,PG-13,"December 7, 2012",1 hrs. 39 min.,Trib.,"$50,292",2012,4,21
+"$19,800","$53,700",,-,Well Go USA,Foreign / Action,Painted Skin: The Resurrection,8/17,416,Unrated,"August 17, 2012",2 hrs. 11 min.,WGUSA,"$50,425",2012,6,6
+"$25,400","$52,300",,2/16,China Lion,Foreign,"All's Well, End's Well (2012)",1/27,417,Unrated,"January 27, 2012",1 hrs. 55 min.,CL,"$47,919",2012,20,20
+"$6,300","$52,000",,3/7,Cinema Guild,Foreign,Step Up to the Plate,9/14,418,Unrated,"September 14, 2012",1 hrs. 26 min.,CGld,"$47,439",2012,2,6
+"$14,700","$51,900",,6/3,S2BN Films,Documentary,Sing Your Song,1/13,419,Unrated,"January 13, 2012",1 hrs. 43 min.,S2BN,"$47,718",2012,2,4
+"$5,100","$51,300",,11/8,Weinstein Company,Foreign,War of the Buttons (2012),10/12,420,PG-13,"October 12, 2012",,Wein.,"$47,771",2012,5,35
+"$16,000","$49,800",,9/3,Dada Films,Comedy,Union Square,7/13,421,Unrated,"July 13, 2012",1 hrs. 20 min.,Da.,"$44,830",2012,4,4
+"$22,900","$49,100",,9/13,Strand,Documentary,Ballplayer: Pelotero,7/13,422,Unrated,"July 13, 2012",1 hrs. 12 min.,Strand,"$46,109",2012,10,10
+"$5,200","$48,900",,5/3,First Run,Documentary,The Pruitt-Igoe Myth,1/20,423,Unrated,"January 20, 2012",1 hrs. 19 min.,FRun,"$44,883",2012,1,6
+"$19,200","$47,700",,6/21,China Lion,Foreign,Double Trouble ,6/8,424,Unrated,"June 8, 2012",1 hrs. 30 min.,CL,"$44,788",2012,12,12
+,"$47,100",,-,Area23a,Documentary,Fixing the Future,7/18,425,Unrated,"July 18, 2012",1 hrs. 37 min.,A23,"$42,393",2012,,
+"$6,100","$47,000",,-,Fisher-Klingenstein Films,Documentary,OC87,5/25,427,Unrated,"May 25, 2012",1 hrs. 31 min.,FKF,"$43,583",2012,1,6
+"$6,200","$47,000",,8/23,Rialto,Comedy / Drama,The Graduate: 45th Anniversary Reunion,4/11,426,PG,"April 11, 2012",1 hrs. 46 min.,Rialto,"$43,466Domestic Lifetime Gross: $104,945,305",2012,1,2
+"$4,000","$46,900",,10/18,First Run,Foreign,Nobody Else But You,5/11,428,Unrated,"May 11, 2012",1 hrs. 42 min.,FRun,"$43,040",2012,2,4
+"$13,800","$46,300",,5/19,Kino Lorber,Foreign,All Together,10/19,429,Unrated,"October 19, 2012",1 hrs. 36 min.,KL,"$43,180",2012,10,10
+"$9,500","$45,200",,5/24,ATO Pictures,Documentary,Last Call at the Oasis,5/4,430,PG-13,"May 4, 2012",1 hrs. 45 min.,ATO,"$42,423",2012,3,6
+"$1,600","$44,500","$750,000",10/11,Outsider Films,Comedy,Fat Kid Rules the World,10/5,431,R,"October 5, 2012",,OutF,"$41,457",2012,1,1
+"$6,400","$44,200",,1/3,Tribeca Film,Drama,The Comedy,11/9,432,Unrated,"November 9, 2012",1 hrs. 30 min.,Trib.,"$41,113",2012,1,4
+"$16,900","$44,100",,5/6,Drafthouse,Comedy,The FP,3/16,433,R,"March 16, 2012",1 hrs. 22 min.,Drft.,"$40,557",2012,28,28
+"$22,500","$44,000",,3/22,UTV Communications,Foreign,Paan Singh Tomar,3/2,434,Unrated,"March 2, 2012",2 hrs. 15 min.,UTV,"$40,311",2012,10,10
+"$27,800","$43,300",,8/16,Roadside Attractions,Action / Adventure,Soldiers of Fortune,8/3,435,R,"August 3, 2012",1 hrs. 34 min.,RAtt.,"$38,898",2012,50,50
+"$6,300","$42,200",,11/15,Area23a,Documentary,Death by China,8/17,436,Unrated,"August 17, 2012",1 hrs. 4 min.,A23,"$38,492",2012,1,3
+"$6,500","$41,700",,8/2,Abramorama,Documentary,Paul Williams Still Alive,6/8,437,PG-13,"June 8, 2012",1 hrs. 24 min.,Abr.,"$38,691",2012,1,2
+"$4,600","$41,300",,8/2,Kino Lorber,Foreign,The Fairy,2/24,438,Unrated,"February 24, 2012",1 hrs. 33 min.,KL,"$38,399",2012,2,6
+"$5,300","$40,700",,-,First Run,Documentary,Wagner & Me,12/7,439,Unrated,"December 7, 2012",1 hrs. 29 min.,FRun,"$37,745",2012,2,4
+"$11,700","$40,400",,3/29,Janus Films,Foreign,Children of Paradise (2012 re-release),3/9,440,Unrated,"March 9, 2012",2 hrs. 43 min.,Jan.,"$36,986",2012,2,2
+"$12,500","$39,200",,-,Rialto,Foreign,Max et les Ferrailleurs (Max and the Junkmen) (2012 re-release),8/10,441,Unrated,"August 10, 2012",1 hrs. 47 min.,Rialto,"$35,387",2012,1,2
+"$38,100","$39,000",,4/8,NeoClassics Films,Foreign / Action,Fetih 1453: The Conquest of Constantinople,4/6,442,Unrated,"April 6, 2012",2 hrs. 40 min.,NeoC,"$35,730",2012,4,4
+"$19,600","$38,600",,5/31,Paladin,Documentary,Mansome,5/18,443,PG-13,"May 18, 2012",1 hrs. 24 min.,Pala.,"$36,280",2012,20,20
+"$40,000","$38,300",,-,Wrekin Hill,Comedy,The Inbetweeners Movie,9/7,444,R,"September 7, 2012",1 hrs. 35 min.,WHE,"$36,000",2012,10,10
+"$24,600","$38,100",,9/27,China Lion,Foreign / Action,Bangkok Revenge,9/14,445,Unrated,"September 14, 2012",1 hrs. 21 min.,CL,"$35,784",2012,22,22
+"$8,700","$36,900",$1.5 million,4/29,Wrekin Hill,Documentary,Comic-Con Episode IV: A Fan's Hope,4/6,446,PG-13,"April 6, 2012",1 hrs. 28 min.,WHE,"$34,665",2012,3,6
+"$7,200","$36,900",,4/18,First Run,Documentary,Orchestra of Exiles,10/26,447,Unrated,"October 26, 2012",1 hrs. 25 min.,FRun,"$34,577",2012,1,5
+"$6,900","$36,400",,-,Variance Films,Documentary,Hit So Hard,4/13,448,R,"April 13, 2012",1 hrs. 43 min.,Vari.,"$34,025",2012,1,4
+"$9,900","$34,800",,-,Paladin,Romance,Musical Chairs,3/23,449,PG,"March 23, 2012",1 hrs. 40 min.,Pala.,"$31,478",2012,9,12
+"$27,000","$34,300",,11/8,Rocky Mountain Pictures,Documentary,District of Corruption,10/26,450,Unrated,"October 26, 2012",,RM,"$31,954",2012,3,3
+"$8,500","$34,100",,-,Kino Lorber,Documentary,Meet the Fokkens,8/8,451,Unrated,"August 8, 2012",1 hrs. 20 min.,KL,"$30,810",2012,1,1
+"$5,700","$33,800",,-,Kino Lorber,Foreign,Whores' Glory,4/27,452,Unrated,"April 27, 2012",1 hrs. 50 min.,KL,"$31,420",2012,3,3
+"$6,000","$33,800",,-,New Yorker,Foreign,Celine & Julie Go Boating (re-issue),5/4,453,Unrated,"May 4, 2012",3 hrs. 13 min.,NYer,"$31,452",2012,1,1
+"$20,900","$33,200",,9/20,Music Box Films,Foreign,Hermano,8/24,454,Unrated,"August 24, 2012",1 hrs. 37 min.,MBox,"$29,864",2012,49,49
+"$16,900","$33,100",,8/9,Samuel Goldwyn,Foreign,Sacrifice,7/27,455,R,"July 27, 2012",2 hrs. 2 min.,Gold.,"$29,792",2012,11,11
+"$18,200","$33,000",,-,UTV Communications,Foreign,Kalakalappu@Masala Cafe,5/11,456,Unrated,"May 11, 2012",2 hrs. 15 min.,UTV,"$30,949",2012,10,10
+"$21,200","$33,000",,11/15,Roadside Attractions,Horror Thriller,The Bay,11/2,457,R,"November 2, 2012",1 hrs. 24 min.,RAtt.,"$30,668",2012,23,23
+"$21,500","$32,900",,5/3,PMK*BNC,Comedy,L!fe Happens,4/13,458,R,"April 13, 2012",1 hrs. 40 min.,PMKBNC,"$30,905",2012,16,16
+$700,"$32,900",,7/26,Joules Films,Drama,Hide Away (2012),5/25,459,PG-13,"May 25, 2012",1 hrs. 23 min.,JLF,"$30,655",2012,1,5
+"$5,000","$32,200",,11/22,International Film Circuit,Documentary,You've Been Trumped,8/3,460,Unrated,"August 3, 2012",1 hrs. 40 min.,ICir,"$29,273",2012,1,5
+"$10,700","$31,700",,3/8,IFC,Horror,Kill List,2/3,461,Unrated,"February 3, 2012",1 hrs. 35 min.,IFC,"$29,063",2012,2,10
+"$3,200","$31,200",,9/29,Film Movement,Documentary,Hitler's Children,11/16,462,Unrated,"November 16, 2012",0 hrs. 59 min.,FM,"$28,663",2012,1,3
+"$4,800","$30,500",,2/21,Strand,Foreign,North Sea Texas,11/2,463,Unrated,"November 2, 2012",,Strand,"$28,307",2012,3,3
+"$16,900","$30,100",,11/8,Brainstorm Media,Drama,Least Among Saints,10/12,464,R,"October 12, 2012",1 hrs. 47 min.,BSM,"$28,026",2012,3,8
+"$7,400","$30,100",,2/14,Rialto,Foreign,Port of Shadows (2012 re-issue),9/14,465,Unrated,"September 14, 2012",1 hrs. 31 min.,Rialto,"$27,389",2012,1,2
+"$14,500","$29,900",,-,Drafthouse,Documentary,The Ambassador,8/29,466,Unrated,"August 29, 2012",1 hrs. 37 min.,Drft.,"$28,102",2012,4,8
+"$1,800","$29,000",,7/4,The Film Desk,Foreign,"The Devil, Probably (2012 re-release)",1/13,467,Unrated,"January 13, 2012",1 hrs. 35 min.,FDesk,"$26,816",2012,1,2
+"$2,900","$29,000",,9/13,First Run,Documentary,"Pink Ribbons, Inc.",6/1,468,R,"June 1, 2012",1 hrs. 38 min.,FRun,"$26,608",2012,3,4
+"$8,400","$28,500",,7/5,Strand,Romance,Here (2012),4/13,469,Unrated,"April 13, 2012",2 hrs. 6 min.,Strand,"$26,743",2012,1,2
+"$6,600","$28,100",,-,Rialto,Foreign,Django (2012 re-release),12/21,470,Unrated,"December 21, 2012",1 hrs. 31 min.,Rialto,"$25,916",2012,8,10
+"$9,400","$27,600",,3/22,Indican,Horror,Death of the Virgin,2/10,471,Unrated,"February 10, 2012",1 hrs. 43 min.,Indic.,"$25,247",2012,3,3
+"$7,800","$27,200",,11/22,Magnolia,Drama,Nobody Walks,10/19,472,R,"October 19, 2012",1 hrs. 23 min.,Magn.,"$25,342",2012,2,7
+"$3,400","$27,200",,3/14,Kino Lorber,Drama,In Another Country,11/9,473,Unrated,"November 9, 2012",1 hrs. 29 min.,KL,"$25,079",2012,1,6
+"$6,400","$27,100",,-,Magnolia,Foreign,Sound of Noise,3/9,474,R,"March 9, 2012",1 hrs. 42 min.,Magn.,"$24,565",2012,3,5
+"$6,500","$26,300",,-,Kino Lorber,Documentary,Radio Unnameable,9/19,475,Unrated,"September 19, 2012",1 hrs. 27 min.,KL,"$24,090",2012,1,2
+"$5,800","$26,100",,6/28,Paladin,Documentary,Otter 501,5/11,476,G,"May 11, 2012",1 hrs. 25 min.,Pala.,"$24,449",2012,3,4
+"$4,400","$25,800",,6/28,Strand,Foreign,Attenberg,3/9,477,Unrated,"March 9, 2012",1 hrs. 37 min.,Strand,"$24,036",2012,1,2
+"$4,600","$25,400",,1/24,GKIDS,Animation,The Rabbi's Cat,12/7,478,Unrated,"December 7, 2012",1 hrs. 40 min.,GK,"$23,392",2012,1,6
+"$4,800","$24,900",,7/18,Film Movement,Documentary,The Iran Job,9/28,480,Unrated,"September 28, 2012",1 hrs. 30 min.,FM,"$23,115",2012,1,2
+"$4,400","$24,900",,10/25,Area23a,Documentary,Hellbound?,9/21,479,Unrated,"September 21, 2012",1 hrs. 24 min.,A23,"$22,887",2012,4,5
+"$5,500","$24,800",,2/19,Entertainment One,Documentary,Carol Channing: Larger Than Life,1/20,481,PG,"January 20, 2012",1 hrs. 23 min.,EOne,"$22,740",2012,2,3
+"$18,300","$24,500",,10/25,Samuel Goldwyn,Comedy / Drama,The First Time,10/19,482,PG-13,"October 19, 2012",,Gold.,"$22,836",2012,19,19
+"$1,500","$24,500",,6/6,The Film Desk,Drama,The Long Day Closes (2012 re-release),3/5,483,PG,"March 5, 2012",1 hrs. 25 min.,FDesk,"$22,765",2012,1,2
+"$2,800","$24,400",,2/28,Kino Lorber,Documentary,The Revisionaries,10/5,484,Unrated,"October 5, 2012",1 hrs. 32 min.,KL,"$22,664",2012,1,5
+"$3,500","$24,300",,6/21,"Monterey Media, Inc.",Thriller,Keyhole,4/6,485,R,"April 6, 2012",1 hrs. 33 min.,Mont.,"$22,826",2012,1,7
+,"$23,900",,-,Pasidg Productions,Adventure Comedy,Sedona,3/16,486,Unrated,"March 16, 2012",1 hrs. 30 min.,Pasi.,"$21,638",2012,,3
+"$1,200","$23,800",,-,Strand,Foreign,My Worst Nightmare,10/19,487,Unrated,"October 19, 2012",1 hrs. 43 min.,Strand,"$21,952",2012,1,4
+"$6,200","$23,700",,-,Better Than Something,Documentary,Better Than Something: Jay Reatard,3/2,488,Unrated,"March 2, 2012",1 hrs. 29 min.,BTS,"$21,697",2012,4,4
+"$2,400","$23,600",,-,House Lights Media,Romantic Comedy,Losing Control,3/23,489,Unrated,"March 23, 2012",1 hrs. 31 min.,HLM,"$22,081",2012,1,3
+"$5,400","$23,500",,12/6,First Run,Documentary,Girl Model,9/5,490,Unrated,"September 5, 2012",1 hrs. 18 min.,FRun,"$21,154",2012,1,5
+"$11,300","$23,300",,9/13,Anchor Bay Films,Sci-Fi Thriller,The Day,8/29,491,Unrated,"August 29, 2012",1 hrs. 30 min.,Anch.,"$20,984",2012,12,12
+"$21,000","$23,200",,12/13,Samuel Goldwyn,Documentary,Waiting for Lightning,12/7,492,PG-13,"December 7, 2012",1 hrs. 36 min.,Gold.,"$21,577",2012,11,11
+"$2,400","$22,900",,8/16,Strand,Foreign,Bonsai,5/11,493,Unrated,"May 11, 2012",1 hrs. 35 min.,Strand,"$21,267",2012,1,3
+"$22,600","$22,600",,12/13,Radius-TWC,Comedy,Lay the Favorite,12/7,494,R,"December 7, 2012",1 hrs. 33 min.,RTWC,"$20,998",2012,61,61
+"$6,100","$21,700",,10/4,International Film Circuit,Documentary,How to Grow a Band,4/13,495,Unrated,"April 13, 2012",1 hrs. 28 min.,ICir,"$20,135",2012,1,2
+"$10,800","$21,700",,6/17,Cinema Libre Studio,Documentary,The Highest Pass,4/27,496,Unrated,"April 27, 2012",1 hrs. 30 min.,CLS,"$20,386",2012,2,2
+"$8,700","$21,500",,6/3,Entertainment One,Comedy / Drama,Jesus Henry Christ,4/20,497,PG-13,"April 20, 2012",1 hrs. 35 min.,EOne,"$20,183",2012,3,3
+"$2,600","$21,000",,1/24,Oscilloscope Pictures,Documentary,Tchoupitoulas,12/7,498,Unrated,"December 7, 2012",1 hrs. 20 min.,Osci.,"$19,375",2012,1,6
+"$8,000","$20,900","$100,000",-,Slater Brothers,Romantic Comedy,In Over My Head,10/26,499,Unrated,"October 26, 2012",1 hrs. 46 min.,SBE,"$19,482",2012,1,1
+"$14,300","$20,700",,2/2,Unknown,Comedy,Sophomore,1/13,500,Unrated,"January 13, 2012",1 hrs. 38 min.,,"$18,945",2012,1,1
+"$4,100","$20,400",,9/25,APD/Cinema Conservancy,Comedy,The Color Wheel,5/18,501,Unrated,"May 18, 2012",1 hrs. 23 min.,APD/C,"$19,001",2012,2,3
+"$2,000","$20,300",,12/13,Oscilloscope Pictures,Drama,28 Hotel Rooms,11/9,502,Unrated,"November 9, 2012",1 hrs. 22 min.,Osci.,"$18,869",2012,1,5
+"$6,400","$20,100",,8/26,Rialto,Sci-Fi Action,Total Recall (2012 re-release),8/10,503,R,"August 10, 2012",1 hrs. 53 min.,Rialto,"$18,081Domestic Lifetime Gross: $119,412,921",2012,1,2
+"$5,400","$20,100",,9/27,First Run,Documentary,Chely Wright: Wish Me Away,6/1,504,Unrated,"June 1, 2012",2 hrs. 0 min.,FRun,"$18,618",2012,3,4
+"$5,100","$19,700",,9/20,Millennium Ent.,Drama,Little Birds,8/29,505,R,"August 29, 2012",1 hrs. 36 min.,MNE,"$17,739",2012,1,2
+"$13,400","$19,700",,-,Image Entertainment,Horror Thriller,Lovely Molly,5/18,506,R,"May 18, 2012",1 hrs. 39 min.,Imag.,"$18,464",2012,5,5
+"$13,100","$19,700",,3/18,Outsider Pictures,Foreign,Juan of the Dead,3/16,507,Unrated,"March 16, 2012",,Outs,"$18,000",2012,1,1
+"$18,400","$19,500",$3 million,11/1,Gigapix Releasing,Foreign,El Milagro De Marcelino Pan,10/26,508,Unrated,"October 26, 2012",1 hrs. 40 min.,GPR,"$18,193",2012,1,1
+"$9,100","$19,400",,4/5,IFC,Fantasy Drama,4:44: Last Day on Earth,3/23,509,R,"March 23, 2012",1 hrs. 21 min.,IFC,"$17,801",2012,3,3
+"$2,300","$19,200",,8/2,Zeitgeist,Documentary,Payback (2012),4/25,510,Unrated,"April 25, 2012",1 hrs. 26 min.,Zeit.,"$17,979",2012,1,3
+,"$18,400",,-,Indican,Comedy / Drama,The Understudy,3/16,511,Unrated,"March 16, 2012",1 hrs. 36 min.,Indic.,"$17,036",2012,,2
+"$9,100","$18,300",$2.75 million,10/4,Slater Brothers,Drama,The Prophet's Son,9/29,512,Unrated,"September 29, 2012",1 hrs. 40 min.,SBE,"$16,983",2012,1,1
+"$11,200","$18,200",,5/20,UTV Communications,Foreign / Action,Grandmaster,5/4,513,Unrated,"May 4, 2012",,UTV,"$17,077",2012,9,9
+"$6,000","$17,900",,9/6,Film Movement,Foreign,Teddy Bear,8/22,514,Unrated,"August 22, 2012",1 hrs. 32 min.,FM,"$16,138",2012,2,2
+"$6,600","$17,800",,-,First Run,Documentary,Inventing Our Life: The Kibbutz Experiment,4/27,515,Unrated,"April 27, 2012",1 hrs. 20 min.,FRun,"$16,734",2012,1,3
+"$2,900","$17,700",,1/3,Kino Lorber,Foreign,Alps,7/13,516,Unrated,"July 13, 2012",1 hrs. 33 min.,KL,"$16,057",2012,2,3
+"$9,300","$17,700",,8/30,Truly Indie,Thriller,$upercapitalist,8/10,517,Unrated,"August 10, 2012",1 hrs. 36 min.,Truly,"$15,919",2012,1,1
+"$7,300","$17,600",,3/22,Dada Films,Drama,Return (2012),2/10,518,Unrated,"February 10, 2012",1 hrs. 37 min.,Da.,"$16,124",2012,3,3
+"$17,200","$17,200",,11/1,Dutchmen Films,Documentary,Long Shot: The Kevin Laue Story,10/26,519,Unrated,"October 26, 2012",,DM,"$16,011Domestic Lifetime Gross: $45,874",2012,1,1
+"$5,600","$17,200",,-,Cinema Guild,Documentary,Patience (After Sebald),5/9,520,Unrated,"May 9, 2012",1 hrs. 30 min.,CGld,"$15,941",2012,1,1
+"$3,700","$17,100",,-,Strand,Foreign,Michael (2012),2/15,521,Not Yet Rated,"February 15, 2012",1 hrs. 36 min.,Strand,"$15,715",2012,1,2
+"$1,800","$17,000",,7/26,Music Box Films,Foreign,Quill: The Life of a Guide Dog,5/18,522,Unrated,"May 18, 2012",1 hrs. 40 min.,MBox,"$15,674",2012,2,5
+"$1,900","$16,900",,6/3,Indican,Documentary,This Binary Universe,5/4,523,Unrated,"May 4, 2012",1 hrs. 50 min.,Indic.,"$15,875",2012,2,2
+$400,"$16,800",,6/7,"Monterey Media, Inc.",Romantic Comedy,Take Me Home,3/9,524,PG-13,"March 9, 2012",1 hrs. 37 min.,Mont.,"$15,760",2012,1,6
+"$10,700","$16,800",,5/10,Millennium Ent.,Romance,A Little Bit of Heaven,5/4,525,PG-13,"May 4, 2012",1 hrs. 47 min.,MNE,"$15,375",2012,11,11
+"$1,600","$16,600",,2/28,Oscilloscope Pictures,Documentary,Only the Young,12/7,526,Unrated,"December 7, 2012",1 hrs. 12 min.,Osci.,"$15,312",2012,1,2
+"$3,700","$16,600",,1/24,Strand,Drama,California Solo,11/30,527,Unrated,"November 30, 2012",1 hrs. 34 min.,Strand,"$15,433",2012,1,2
+"$4,900","$16,500",,-,Strand,Foreign,17 Girls,9/21,528,Unrated,"September 21, 2012",1 hrs. 26 min.,Strand,"$15,123",2012,10,10
+"$3,400","$16,500",,4/5,Indican,Comedy,Kung Fu Joe,2/10,529,Unrated,"February 10, 2012",1 hrs. 29 min.,Indic.,"$15,120",2012,2,2
+"$9,600","$16,300",,8/2,Roadside Attractions,Romantic Comedy,30 Beats,7/20,530,R,"July 20, 2012",,RAtt.,"$14,693",2012,15,15
+$600,"$16,200",,11/8,"Monterey Media, Inc.",Thriller,Trade of Innocents,10/5,531,PG-13,"October 5, 2012",1 hrs. 31 min.,Mont.,"$15,091",2012,1,3
+"$5,100","$15,700",,11/29,Cohen Media Group,Foreign,Tristana (2012 re-release),10/12,532,PG,"October 12, 2012",1 hrs. 35 min.,Cohen,"$14,586",2012,1,2
+"$10,500","$15,700",,12/6,Anchor Bay Films,Horror,Silent Night,11/30,533,R,"November 30, 2012",,Anch.,"$14,567",2012,11,11
+"$2,100","$15,600",,7/12,First Run,Documentary,Never Stand Still: Dancing at Jacob's Pillow,5/18,534,Unrated,"May 18, 2012",1 hrs. 14 min.,FRun,"$14,272",2012,1,2
+"$9,600","$15,600",,-,GoDigital,Documentary,Unraveled,4/13,535,Unrated,"April 13, 2012",1 hrs. 24 min.,GD,"$14,615",2012,2,2
+"$2,200","$15,400",,3/14,Cinema Guild,Documentary,Planet of Snail,7/25,536,Unrated,"July 25, 2012",1 hrs. 28 min.,CGld,"$13,957",2012,1,2
+"$15,300","$15,300",,5/20,Epic Pictures,Animation,Space Dogs 3D,5/18,537,G,"May 18, 2012",1 hrs. 25 min.,EpicPics,"$14,408",2012,5,5
+"$7,300","$15,200",,7/12,Janus Films,Foreign,Daisies (2012 re-release),7/6,538,Unrated,"July 6, 2012",,Jan.,"$13,692",2012,1,1
+"$1,300","$15,200",,11/22,Variance Films,Documentary,Head Games,9/21,539,PG-13,"September 21, 2012",1 hrs. 31 min.,Vari.,"$14,056",2012,2,5
+"$5,100","$15,100",,11/15,The Film Collaborative,Comedy / Drama,Gayby,10/12,540,Unrated,"October 12, 2012",1 hrs. 29 min.,TFC,"$14,062",2012,1,1
+"$1,800","$15,100",,-,The Film Desk,Foreign,We Won't Grow Old Together (2012 re-release),6/8,541,Unrated,"June 8, 2012",1 hrs. 50 min.,FDesk,"$14,104",2012,1,1
+"$1,400","$15,000",,-,Indican,Drama,Falling Away,3/2,542,Unrated,"March 2, 2012",,Indic.,"$13,869",2012,2,2
+"$2,100","$15,000",,6/28,Secret Identity,Comedy,6 Month Rule,6/1,543,R,"June 1, 2012",1 hrs. 39 min.,SIP,"$14,057",2012,1,3
+"$3,500","$14,800",,4/25,Cinema Guild,Foreign,The Day He Arrives,4/20,544,Unrated,"April 20, 2012",1 hrs. 19 min.,CGld,"$13,746",2012,1,2
+"$8,100","$14,800",$5 million,3/29,Datari Turner Productions,Comedy,Dysfunctional Friends,2/3,545,Unrated,"February 3, 2012",1 hrs. 51 min.,DTP,"$13,546",2012,2,2
+,"$14,700",,8/22,Alive Mind Cinema,Documentary,When the Iron Bird Flies,10/19,547,Unrated,"October 19, 2012",1 hrs. 36 min.,AM,"$13,598",2012,,1
+"$3,000","$14,700",,-,Cinema Guild,Foreign,The Law in These Parts,11/16,546,Unrated,"November 16, 2012",1 hrs. 40 min.,CGld,"$13,683",2012,1,1
+$800,"$14,600",,5/17,"Monterey Media, Inc.",Family Comedy,Reuniting the Rubins,3/16,548,PG,"March 16, 2012",1 hrs. 39 min.,Mont.,"$13,569",2012,2,4
+"$6,100","$14,400",,1/17,Cinedigm Entertainment,Horror Thriller,Citadel,11/9,549,R,"November 9, 2012",1 hrs. 24 min.,Cdgm.,"$13,377",2012,1,7
+"$3,000","$14,200",,-,First Run,Documentary,"How Much Does Your Building Weigh, Mr. Foster?",1/25,550,Unrated,"January 25, 2012",1 hrs. 18 min.,FRun,"$13,013",2012,1,4
+"$14,200","$14,200",,-,Red Flag Releasing,Foreign,Norwegian Wood,1/6,551,Unrated,"January 6, 2012",2 hrs. 13 min.,RF,"$13,000",2012,3,3
+"$5,000","$14,100",,4/26,7A Productions,Romantic Comedy,The Trouble with Bliss,3/23,552,PG-13,"March 23, 2012",1 hrs. 37 min.,7A,"$13,093",2012,1,4
+"$3,700","$14,000",,-,APD/Cinema Conservancy,Romance,Nothing But a Man (2012 re-release),11/9,553,Unrated,"November 9, 2012",1 hrs. 35 min.,APD/C,"$13,063",2012,1,2
+,"$13,700",,5/31,Indican,Fantasy Drama,Around June,2/24,554,Unrated,"February 24, 2012",1 hrs. 33 min.,Indic.,"$12,578",2012,2,2
+"$5,100","$13,700",,11/1,Tribeca Film,Drama,For Ellen,9/5,555,Unrated,"September 5, 2012",1 hrs. 34 min.,Trib.,"$12,396",2012,1,3
+"$7,400","$13,600",,6/3,Entertainment One,Drama,Virginia,5/18,556,R,"May 18, 2012",1 hrs. 50 min.,EOne,"$12,728",2012,5,5
+"$6,900","$13,200",,-,Samuel Goldwyn,Comedy / Drama,Grassroots,6/22,557,R,"June 22, 2012",,Gold.,"$12,356",2012,1,2
+"$7,600","$12,900",,-,Cinema Libre Studio,Documentary,Lost Angels: Skid Row is My Home,12/7,558,Unrated,"December 7, 2012",,CLS,"$12,025",2012,1,1
+"$4,300","$12,600",,-,Tribeca Film,Documentary,Ultrasuede,1/20,559,Unrated,"January 20, 2012",1 hrs. 25 min.,Trib.,"$11,539",2012,1,1
+"$7,900","$12,000",,1/26,Well Go USA,Foreign / Action,The Front Line,1/20,560,Unrated,"January 20, 2012",2 hrs. 12 min.,WGUSA,"$11,018",2012,6,6
+"$1,700","$12,000",,1/10,Argot Pictures,Drama,"Now, Forager",10/3,561,Unrated,"October 3, 2012",1 hrs. 33 min.,Argo.,"$11,146",2012,1,4
+"$12,000","$12,000",,12/2,Radius-TWC,Foreign / Action,Dragon (2012),11/30,562,R,"November 30, 2012",1 hrs. 37 min.,RTWC,"$11,137",2012,14,14
+"$8,000","$11,900",,10/4,GKIDS,Animation,Tales of the Night,9/26,563,Unrated,"September 26, 2012",1 hrs. 24 min.,GK,"$10,975",2012,1,1
+"$4,200","$11,700",,9/20,Zeitgeist,Documentary,China Heavyweight,7/6,564,Unrated,"July 6, 2012",1 hrs. 29 min.,Zeit.,"$10,550",2012,1,4
+"$2,400","$11,700",,6/21,Music Box Films,Foreign,Henning Mankell's 'Wallander': The Revenge,5/25,565,Unrated,"May 25, 2012",,MBox,"$10,960",2012,1,2
+"$11,600","$11,500",,-,Entertainment One,Action,Special Forces,10/12,566,R,"October 12, 2012",1 hrs. 49 min.,EOne,"$10,759",2012,5,5
+"$4,200","$11,500",,2/2,Indican,Drama,Santa Mesa,1/13,567,Unrated,"January 13, 2012",1 hrs. 22 min.,Indic.,"$10,490",2012,3,3
+"$3,300","$11,400",,-,Indican,Comedy / Drama,The Man Who Shook the Hand of Vicente Fernandez,12/7,568,Unrated,"December 7, 2012",,Indic.,"$10,782",2012,1,2
+"$4,100","$11,300",,6/28,Film Movement,Foreign,Found Memories,6/1,569,Unrated,"June 1, 2012",1 hrs. 38 min.,FM,"$10,575",2012,1,1
+"$11,100","$11,100",,7/12,Red Flag Releasing,Comedy,The Do-Deca-Pentathlon,7/6,570,R,"July 6, 2012",1 hrs. 30 min.,RF,"$10,000",2012,8,8
+"$5,000","$11,100",,11/1,UTV Communications,Foreign,Husbands in Goa,9/21,571,Unrated,"September 21, 2012",2 hrs. 20 min.,UTV,"$10,135",2012,7,7
+"$2,500","$11,000",,9/20,China Lion,Foreign,Starry Starry Night,3/23,572,Unrated,"March 23, 2012",1 hrs. 39 min.,CL,"$10,033",2012,2,2
+"$5,900","$10,900",,6/3,UTV Communications,Animation,Arjun: The Warrior Prince,5/25,573,Unrated,"May 25, 2012",1 hrs. 36 min.,UTV,"$10,017",2012,10,10
+"$1,700","$10,900",,-,Kino Lorber,Foreign,Putin's Kiss,2/17,574,Unrated,"February 17, 2012",1 hrs. 25 min.,KL,"$10,082",2012,1,1
+"$3,300","$10,600",,10/4,Magnolia,Foreign / Horror,Rec 3: Genesis,9/7,575,R,"September 7, 2012",1 hrs. 20 min.,Magn.,"$9,600",2012,8,8
+"$2,600","$10,400",,-,Kino Lorber,Foreign,Post Mortem,4/11,576,Unrated,"April 11, 2012",1 hrs. 38 min.,KL,"$9,750",2012,1,1
+"$3,300","$10,100",,2/9,Argot Pictures,Documentary,The City Dark,1/18,577,Unrated,"January 18, 2012",1 hrs. 23 min.,Argo.,"$9,269",2012,1,2
+"$9,700","$10,000",$4.5 million,9/27,Pro-Motion Pictures,Action Thriller,Art of Submission,9/21,578,PG-13,"September 21, 2012",1 hrs. 59 min.,PMP,"$9,004",2012,1,1
+"$1,100","$9,900",,-,First Run,Documentary,Three Stars,9/21,579,Unrated,"September 21, 2012",1 hrs. 30 min.,FRun,"$8,942",2012,1,1
+"$9,800","$9,700",,-,Snagfilms,Documentary,Decoding Deepak,10/5,580,Unrated,"October 5, 2012",1 hrs. 23 min.,SF,"$9,100",2012,3,3
+"$2,400","$9,600",,7/5,Film Movement,Foreign,Corpo Celeste,6/8,581,Unrated,"June 8, 2012",1 hrs. 40 min.,FM,"$8,919",2012,1,1
+"$5,600","$9,600",,8/16,The Film Collaborative,Drama,Mosquita y Mari,8/3,582,Unrated,"August 3, 2012",1 hrs. 25 min.,TFC,"$8,614",2012,1,1
+$300,"$9,600",,-,Pelican House,Comedy,General Education,8/24,583,PG-13,"August 24, 2012",1 hrs. 34 min.,PHP,"$8,601",2012,1,4
+"$3,700","$9,500",,2/23,First Run,Documentary,Man on a Mission,1/13,584,Unrated,"January 13, 2012",1 hrs. 23 min.,FRun,"$8,688",2012,4,5
+"$9,800","$9,400",,-,Image Entertainment,Sports Comedy,Home Run Showdown,7/27,585,Unrated,"July 27, 2012",1 hrs. 34 min.,Imag.,"$8,824",2012,1,1
+"$4,200","$9,400",,1/31,Rialto,Comedy,The Man in the White Suit (2012 re-release),11/16,586,Unrated,"November 16, 2012",1 hrs. 25 min.,Rialto,"$8,718",2012,1,1
+"$3,400","$9,300",,8/16,Strand,Documentary,Dreams of a Life,8/3,587,Unrated,"August 3, 2012",1 hrs. 35 min.,Strand,"$8,405",2012,1,1
+"$1,400","$9,200",,3/22,IFC,Thriller,The Snowtown Murders,3/2,588,Unrated,"March 2, 2012",2 hrs. 0 min.,IFC,"$8,452",2012,1,3
+"$3,300","$9,200",,6/28,Long Shot Factory,Comedy,"Small, Beautiful Moving Parts",5/11,589,Unrated,"May 11, 2012",,Long Shot,"$8,631",2012,1,1
+"$8,200","$9,100",,6/11,Freestyle Releasing,Foreign,Cartas a Elena,6/8,590,PG,"June 8, 2012",1 hrs. 32 min.,Free,"$8,511",2012,12,12
+"$8,600","$8,800",,4/29,AFFRM,Drama,Restless City,4/27,591,R,"April 27, 2012",1 hrs. 16 min.,AFFRM,"$8,100",2012,3,3
+"$2,900","$8,700",,-,Magnolia,Drama,Roadie (2012),1/6,592,R,"January 6, 2012",1 hrs. 36 min.,Magn.,"$7,825",2012,1,1
+"$3,200","$8,400",,11/22,First Run,Documentary,Photographic Memory,10/12,594,Unrated,"October 12, 2012",1 hrs. 27 min.,FRun,"$7,822",2012,2,2
+"$5,800","$8,400",,8/9,Millennium Ent.,Comedy,The Babymakers,8/3,593,R,"August 3, 2012",1 hrs. 35 min.,MNE,"$7,889",2012,11,11
+"$2,900","$8,300",,3/15,IFC,Documentary,Last Days Here,3/2,595,Unrated,"March 2, 2012",1 hrs. 31 min.,IFC,"$7,643",2012,1,1
+"$4,300","$8,200",,10/4,Oscilloscope Pictures,Comedy,Brooklyn Brothers Beat the Best,9/21,596,Unrated,"September 21, 2012",1 hrs. 38 min.,Osci.,"$7,466",2012,1,3
+"$2,000","$8,000",,10/25,Producers Distribution Agency,Foreign,Bel Borba Aqui,10/3,597,Unrated,"October 3, 2012",,PDA,"$7,426",2012,1,2
+"$3,000","$8,000",,11/29,IFC,Comedy / Drama,Price Check,11/16,598,Unrated,"November 16, 2012",1 hrs. 32 min.,IFC,"$7,413",2012,1,2
+"$1,900","$7,900",,5/17,Tribeca Film,Romantic Comedy,The Giant Mechanical Man,4/27,599,PG-13,"April 27, 2012",1 hrs. 34 min.,Trib.,"$7,396",2012,1,1
+"$3,100","$7,800",,3/22,Strand,Foreign,Domain (2012),1/13,600,Unrated,"January 13, 2012",,Strand,"$7,105",2012,1,1
+$900,"$7,600",,10/11,Music Box Films,Drama,Last Ride,6/29,601,Unrated,"June 29, 2012",1 hrs. 30 min.,MBox,"$6,853",2012,1,2
+"$4,300","$7,500",,12/13,Submarine Deluxe,Documentary,"Love, Marilyn",11/30,602,Unrated,"November 30, 2012",1 hrs. 45 min.,SD,"$6,950",2012,1,1
+"$1,900","$7,100",,5/10,First Run,Documentary,Windfall,2/3,603,Unrated,"February 3, 2012",1 hrs. 23 min.,FRun,"$6,504",2012,1,1
+"$4,700","$7,000",,12/20,Cinedigm Entertainment,Drama,In Our Nature,12/7,604,Unrated,"December 7, 2012",1 hrs. 43 min.,Cdgm.,"$6,543",2012,1,1
+"$1,600","$6,900",,7/19,First Run,Documentary,The Beat Hotel,3/30,605,Unrated,"March 30, 2012",1 hrs. 22 min.,FRun,"$6,480",2012,1,1
+"$3,600","$6,800",,7/26,Strand,Comedy,Crazy Eyes,7/6,606,Unrated,"July 6, 2012",1 hrs. 35 min.,Strand,"$6,141",2012,2,2
+"$6,700","$6,700",,9/13,Outsider Films,Foreign,Las Acacias,9/7,607,Unrated,"September 7, 2012",1 hrs. 22 min.,OutF,"$6,000",2012,1,1
+"$2,300","$6,700",,5/31,Roadside Attractions,Comedy,Tonight You're Mine,5/11,608,R,"May 11, 2012",1 hrs. 20 min.,RAtt.,"$6,255",2012,2,3
+"$3,500","$6,600",,-,Icarus Films,Drama,The Miners' Hymns,2/8,609,Unrated,"February 8, 2012",,Icar.,"$6,051",2012,1,1
+"$6,600","$6,600",,11/1,Transparent/Outerstratosphere,Drama,The Last Fall,10/26,610,Unrated,"October 26, 2012",,TFO,"$6,100",2012,1,1
+,"$6,400",,-,Indican,Comedy,Buzzkill,1/20,611,Unrated,"January 20, 2012",,Indic.,"$5,860",2012,1,1
+"$6,300","$6,300",,5/20,Screen Media,Comedy / Drama,American Animal,5/18,612,R,"May 18, 2012",1 hrs. 35 min.,Scre.,"$5,928",2012,1,1
+$600,"$6,300",,2/7,Alive Mind Cinema,Documentary,Sushi: The Global Catch,8/3,613,Unrated,"August 3, 2012",1 hrs. 15 min.,AM,"$5,757",2012,1,1
+"$4,000","$6,100",,12/20,IFC,Romantic Comedy,Save the Date,12/14,614,R,"December 14, 2012",1 hrs. 37 min.,IFC,"$5,719",2012,2,2
+"$4,100","$5,900",,12/6,IFC,Foreign,Young and Wild,11/30,615,Unrated,"November 30, 2012",1 hrs. 36 min.,IFC,"$5,514",2012,2,2
+"$2,600","$5,900",,5/10,Tribeca Film,Documentary,Bookers Place,4/25,616,Unrated,"April 25, 2012",1 hrs. 30 min.,Trib.,"$5,549",2012,2,2
+"$3,400","$5,900",,12/20,Magnolia,Sci-Fi Action,Universal Soldier: Day of Reckoning,11/30,617,R,"November 30, 2012",1 hrs. 54 min.,Magn.,"$5,460",2012,3,3
+"$3,500","$5,800",,9/6,Magnolia,Thriller,The Good Doctor,8/31,618,PG-13,"August 31, 2012",1 hrs. 30 min.,Magn.,"$5,206",2012,2,2
+"$5,500","$5,500",,-,Brainstorm Media,Animation,Liar's Autobiography,11/2,619,Unrated,"November 2, 2012",1 hrs. 25 min.,BSM,"$5,102",2012,4,4
+"$3,500","$5,400",,2/29,Freestyle Releasing,Action / Adventure,Tomorrow When the War Began,2/24,620,R,"February 24, 2012",1 hrs. 43 min.,Free,"$4,936",2012,10,10
+"$1,100","$5,400",,-,"Monterey Media, Inc.",Family Comedy,Bringing Up Bobby,9/28,621,PG-13,"September 28, 2012",1 hrs. 35 min.,Mont.,"$4,975",2012,1,4
+"$3,700","$5,300",,4/26,International Film Circuit,Drama,Downtown Express,4/20,622,Unrated,"April 20, 2012",1 hrs. 30 min.,ICir,"$5,010",2012,1,1
+"$4,700","$5,300",,3/29,IFC,Thriller,Brake,3/21,623,R,"March 21, 2012",1 hrs. 31 min.,IFC,"$4,876",2012,2,2
+"$1,100","$5,100",,2/28,Kino Lorber,Foreign,Breathing,8/31,624,Unrated,"August 31, 2012",1 hrs. 34 min.,KL,"$4,630",2012,1,2
+"$5,000","$5,100",,1/19,Tribeca Film,Comedy / Drama,Newlyweds,1/13,625,Unrated,"January 13, 2012",1 hrs. 33 min.,Trib.,"$4,584",2012,1,1
+"$1,700","$5,000",,4/17,Icarus Films,Documentary,A Man Vanishes (2012 re-release),11/15,626,Unrated,"November 15, 2012",2 hrs. 10 min.,Icar.,"$4,829",2012,2,2
+"$3,000","$4,700",,5/17,First Run,Documentary,Art Is... The Permanent Revolution,3/2,627,Unrated,"March 2, 2012",1 hrs. 22 min.,FRun,"$4,291",2012,1,1
+,"$4,300",,-,Kino Lorber,Documentary,Yangsi,12/7,628,Unrated,"December 7, 2012",1 hrs. 22 min.,KL,"$4,008",2012,,1
+"$1,500","$4,200",,4/18,Kino Lorber,Documentary,Free Radicals: A History of Experimental Film,8/3,629,Unrated,"August 3, 2012",1 hrs. 22 min.,KL,"$3,804",2012,1,1
+"$4,100","$4,100",,4/1,Corinth/TV360,Documentary,They Come to America,3/31,630,Unrated,"March 31, 2012",1 hrs. 39 min.,C/360,"$3,775",2012,1,1
+"$2,400","$4,100",,4/29,IFC,Sci-Fi Horror,The Moth Diaries,4/20,631,R,"April 20, 2012",1 hrs. 22 min.,IFC,"$3,838",2012,2,2
+"$3,300","$4,000",,9/13,House Lights Media,Comedy,Pickin & Grinnin,9/7,632,R,"September 7, 2012",,HLM,"$3,613",2012,1,1
+"$2,000","$4,000",,11/1,Gravity Arch,Horror,Bad Blood the Hunger,10/26,633,R,"October 26, 2012",1 hrs. 47 min.,GA,"$3,731",2012,10,10
+"$3,100","$3,900",,8/30,Film Movement,Foreign,The Day I Saw Your Heart,8/24,634,Unrated,"August 24, 2012",1 hrs. 38 min.,FM,"$3,546",2012,1,1
+$900,"$3,900",,1/26,IFC,Comedy / Drama,Loosies,1/11,635,PG-13,"January 11, 2012",1 hrs. 28 min.,IFC,"$3,519",2012,1,3
+"$1,400","$3,800",,3/15,Strand,Foreign,Cirkus Columbia,2/17,636,Unrated,"February 17, 2012",1 hrs. 53 min.,Strand,"$3,457",2012,1,1
+$600,"$3,600",,11/15,Anchor Bay Films,Comedy,Vamps,11/2,637,PG-13,"November 2, 2012",1 hrs. 32 min.,Anch.,"$3,361",2012,1,1
+"$2,200","$3,600",,-,Tribeca Film,Foreign / Action,Sleepless Night,5/11,638,Unrated,"May 11, 2012",1 hrs. 38 min.,Trib.,"$3,358",2012,2,2
+"$3,500","$3,500",,3/11,Truly Indie,Drama,Apart (2012),3/9,639,Unrated,"March 9, 2012",1 hrs. 26 min.,Truly,"$3,161",2012,2,2
+"$2,800","$3,400",,-,Breaking Glass Pictures,Fantasy,After the Wizard,8/10,640,Unrated,"August 10, 2012",1 hrs. 20 min.,BGP,"$3,184",2012,2,2
+"$3,100","$3,300",,9/27,IFC,Drama,About Cherry,9/21,641,R,"September 21, 2012",1 hrs. 42 min.,IFC,"$3,003",2012,3,3
+"$2,200","$3,300",,4/12,IFC,Thriller,ATM,4/6,642,R,"April 6, 2012",1 hrs. 30 min.,IFC,"$3,010",2012,2,2
+"$1,700","$3,200",,2/9,IFC,Romance,Perfect Sense,2/3,643,R,"February 3, 2012",1 hrs. 29 min.,IFC,"$2,959",2012,1,1
+$800,"$2,800",,12/20,IFC,Romantic Comedy,Cheerful Weather for the Wedding,12/7,644,PG,"December 7, 2012",1 hrs. 32 min.,IFC,"$2,651",2012,1,2
+"$2,800","$2,800",,4/29,AfterLight,Horror Thriller,Carl,4/27,645,Unrated,"April 27, 2012",1 hrs. 30 min.,ALP,"$2,592",2012,1,1
+"$1,900","$2,700",,5/24,IFC,Thriller,The Samaritan,5/18,646,R,"May 18, 2012",1 hrs. 33 min.,IFC,"$2,521",2012,3,3
+"$1,800","$2,600",,8/23,IFC,Comedy / Drama,Why Stop Now?,8/17,647,R,"August 17, 2012",1 hrs. 28 min.,IFC,"$2,432",2012,3,3
+$100,"$2,500",,5/30,Strand,Fantasy Comedy,The Ghastly Love of Johnny X,10/26,648,Unrated,"October 26, 2012",1 hrs. 46 min.,Strand,"$2,436",2012,1,2
+"$2,500","$2,500","$150,000",10/18,Feature Presentations Releasing,Documentary,Split: A Deeper Divide,10/12,649,Unrated,"October 12, 2012",1 hrs. 15 min.,FPR,"$2,338",2012,1,1
+,"$2,400",,4/5,Cortelyou Films,Drama,Scorn,3/1,650,Unrated,"March 1, 2012",1 hrs. 28 min.,Cort.,"$2,206",2012,,1
+"$1,000","$2,200",,6/21,First Run,Documentary,Patagonia Rising,6/8,651,Unrated,"June 8, 2012",1 hrs. 25 min.,FRun,"$2,064",2012,1,1
+"$1,500","$2,000",,-,"Monterey Media, Inc.",Musical,I Kissed a Vampire,3/30,652,PG,"March 30, 2012",1 hrs. 31 min.,Mont.,"$1,794",2012,11,11
+"$1,100","$1,900",,3/15,Found-Charger Cinema,Action / Adventure,Dystopia 2013,1/13,653,Unrated,"January 13, 2012",2 hrs. 2 min.,ZMG,"$1,708",2012,1,1
+"$1,000","$1,600",,3/8,Icarus Films,Documentary,Where Are You Taking Me?,3/2,654,Unrated,"March 2, 2012",1 hrs. 12 min.,Icar.,"$1,492",2012,1,1
+$400,"$1,600",,11/1,Icarus Films,Documentary,El Velador (The Night Watchman),7/6,655,Unrated,"July 6, 2012",1 hrs. 12 min.,Icar.,"$1,530",2012,2,2
+,"$1,500",,-,KimStim/Zeitgeist Films,Documentary,Bestiaire,10/19,656,Unrated,"October 19, 2012",1 hrs. 12 min.,KS/Zeit,"$1,428",2012,,2
+$500,"$1,500",,11/8,Kino Lorber,Foreign,Headshot,9/28,657,Unrated,"September 28, 2012",1 hrs. 45 min.,KL,"$1,373",2012,1,1
+$300,"$1,400",,1/10,Kino Lorber,Documentary,Jason Becker: Not Dead Yet,12/12,658,Unrated,"December 12, 2012",1 hrs. 27 min.,KL,"$1,294",2012,2,2
+$700,"$1,300",,10/4,Music Box Films,Foreign,Snowman's Land,9/14,659,Unrated,"September 14, 2012",1 hrs. 35 min.,MBox,"$1,190",2012,1,1
+$300,"$1,200",,-,Magnolia,Romance,Jack and Diane,11/2,660,R,"November 2, 2012",,Magn.,"$1,142",2012,2,2
+$600,$800,,3/15,IFC,Comedy,The Decoy Bride,3/9,661,PG,"March 9, 2012",1 hrs. 29 min.,IFC,$759,2012,1,1
+$500,$700,,6/14,Icarus Films,Documentary,The Loving Story,6/8,662,Unrated,"June 8, 2012",1 hrs. 17 min.,Icar.,"$700Domestic Lifetime Gross: $4,218",2012,1,1
+$400,$700,,11/15,Magnolia,Comedy,Nature Calls,11/9,663,R,"November 9, 2012",1 hrs. 19 min.,Magn.,$646,2012,2,2
+$700,$700,,4/29,IFC,Crime Drama,Citizen Gangster,4/27,664,Unrated,"April 27, 2012",1 hrs. 45 min.,IFC,$625,2012,1,1
+$400,$700,,5/10,Tribeca Film,Drama,Death of a Superhero,5/4,665,Unrated,"May 4, 2012",1 hrs. 37 min.,Trib.,$607,2012,1,1
+$400,$600,,-,First Run,Documentary,Gottfried Helnwein and the Dreaming Child,11/23,666,Unrated,"November 23, 2012",1 hrs. 10 min.,FRun,$601,2012,1,1
+$200,$600,,5/10,Magnolia,Crime Drama,Meeting Evil,5/4,667,R,"May 4, 2012",1 hrs. 29 min.,Magn.,$525,2012,1,1
+$300,$400,,6/7,Magnolia,Horror,Apartment 143,6/1,668,R,"June 1, 2012",1 hrs. 20 min.,Magn.,$383,2012,1,1
+$300,$300,,3/22,Magnolia,Horror Thriller,Playback,3/16,669,R,"March 16, 2012",1 hrs. 35 min.,Magn.,$264,2012,1,1
